@@ -169,7 +169,7 @@ Remplissez les cases nécessaires, ajouter un logo de votre organisation/commune
 
 - Étape suivante: remplir les cases afin de bien publier votre premier jeu de données, surtout "description". Ensuite uploadez votre fichier et voilà !
 
-- Une fois les étapes bien accomplis il est temps de bien regarder la disponibilisation de votre fichier en ligne, le téléchager et faire un dernière check pour en eviter des surprises aux réutlisateurs. 
+- Une fois les étapes bien accomplis il est temps de bien regarder la disponibilisation de votre fichier en ligne, le téléchager et faire un dernière check pour en eviter des surprises aux réutlisateurs.
 
 
 ---
