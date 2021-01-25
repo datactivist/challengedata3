@@ -1,0 +1,184 @@
+---
+title: "Les étapes d'ouverture d'un jeu de données"
+subtitle: "sur data.gouv"
+author: "Allyson Pallisser, Datactivist"
+date: "Challenge Data #3, `r Sys.Date()`"
+output:
+  SlidesDatactivist::moon_reader:
+    css: [default, datactivist, datactivist-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      beforeInit: ["macros.js", "matomo.js", "https://platform.twitter.com/widgets.js"]
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>
+    anchor_sections: false
+params:
+  event: J4 - Ouvrir un jeu de données sur data.gouv
+  slug: j4challengedata3
+  description: 
+  title: Les étapes d'ouverture d'un jeu de données sur data.gouv
+  image: https://github.com/datactivist/slides_datactivist/raw/master/inst/rmarkdown/templates/xaringan/resources/img/logo.png
+  image_alt: le logo de Datactivist
+---
+
+```{r, echo=FALSE}
+install.packages("RTools")
+
+library(metathis)
+meta() %>% 
+  meta_description(params$event) %>% 
+  meta_name("github-repo" = paste0("datactivist/", params$slug)) %>% 
+  meta_viewport() %>% 
+  meta_social(
+    title = params$title,
+    url = paste0("https://datactivist.coop/", params$slug),
+    image = params$image,
+    image_alt = params$image_alt,
+    og_type = "website",
+    og_author = "Datactivist",
+    og_locale = "fr_FR",
+    og_site_name = "Datactivist",
+    twitter_card_type = "summary",
+    twitter_creator = "@datactivi_st")
+
+```
+
+layout: true
+
+<style>
+.remark-slide-number {
+  position: inherit;
+}
+
+.remark-slide-number .progress-bar-container {
+  position: absolute;
+  bottom: 0;
+  height: 4px;
+  display: block;
+  left: 0;
+  right: 0;
+}
+
+.remark-slide-number .progress-bar {
+  height: 100%;
+  background-color: #e95459;
+}
+
+</style>
+
+
+`r paste0("<div class='my-footer'><span>", params$event, "</span> <center><div class=logo><a href='https://datactivist.coop/'><img src='https://github.com/datactivist/slides_datactivist/raw/master/inst/rmarkdown/templates/xaringan/resources/img/fond_noir_monochrome.png' width='100px'></a></div></center></span></div>")` 
+
+
+---
+
+class: center, middle
+
+Ces slides en ligne : `r paste0("http://datactivist.coop/", params$slug)`
+
+Sources : `r paste0("https://github.com/datactivist/", params$slug)`
+
+
+Les productions de Datactivist sont librement réutilisables selon les termes de la licence [Creative Commons 4.0 BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr).
+
+<BR>
+<BR>
+
+![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
+
+
+---
+# Qui sommes nous ?
+
+
+.center[[![:largeur 80%](https://github.com/datactivist/slides_datactivist/raw/master/inst/rmarkdown/templates/xaringan/resources/img/logo.png)](https://datactivist.coop)]
+
+### We .red[open data], we make them .red[useful]
+
+---
+## Qui sommes nous ?
+
+
+![](https://github.com/apallisser/teste/blob/master/P1100044.png?raw=true)
+
+---
+## Les .red[étapes d'ouverture d'un jeu de données] sur data.gouv
+
+### - Introduction 
+* Identification 
+* Qualification 
+
+### - Publication 
+
+1. Création d'un compte 
+2. Création d'une organisation 
+3. Publication d'un jeu de données 
+4. Vérification 
+
+### - Publication des réutilisations 
+
+
+
+
+---
+## Introduction 
+
+-  **Les données ouvertes sont souvent décevantes : .red[pas à jour, trop agrégées, mal documentées, mal formatées, parfois inutilisables**.]
+
+- Pour cela que : 
+
+1. Une partie importante du travail des data scientistes est de faire ce "nettoyage". **Cette "mis en conformité" est un travail essentiel pour que ces data soient réutilisées à posteriori** ; 
+
+2. l'.red[**identification**] et la .red[**qualification**] sont si importantes dans le processus d'ouverture de données. 
+
+
+---
+## Publication 
+
+- Une fois le travail d'identification et de qualification terminés, .red[il est temps "d'ouvrir" ces données, c'est-à-dire, les publier]. 
+
+#### Pas à pas du processus de publication des données sur data.gouv : 
+
+1. Création d'un compte 
+
+Il faut rentrer sur data.gouv.fr et s'inscrire sur le portail. Il est recommandable (1) de choisir un compte unique pour le groupe ou, dans le cas où la commune compte déjà avec un utilisateur, (2) demander à votre interlocuteur au sein de la commune, leurs identifiants. 
+ 
+
+<iframe src="https://giphy.com/embed/GA0UfWDsINm7PkRvy3" width="480" height="247" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GA0UfWDsINm7PkRvy3"></a></p>
+
+
+---
+## Creation d'une organisation 
+
+Identifiants en mains, il est temps créer une organisation chez data.gouv. 
+
+Pour cela, il faut y aller sur "contribuez" et ensuite " créer ou trouver votre organisation". Vous allez créer votre organisation (au cas où elle existe pas encore), ou demander l'inscription à une commune déjà existente, dans le cas où votre commune a déjà initié une démarche open data. 
+
+Remplissez les cases nécessaires, ajouter un logo de votre organisation/commune et partez à l'étape suivante: la publication de votre premier jeu de données!
+
+<iframe src="https://giphy.com/embed/2cCapKcg0IkxBLouoU" width="480" height="247" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2cCapKcg0IkxBLouoU"></a></p>
+
+---
+## Publiez vos données !
+
+- Dans la continuité, la plateforme data.gouv vous demandera de choisir "l'identité avec laquelle vous souhaiter publier", c'est-à-dire, publier en votre propre nom ou en tant qu'organisation. Choisissez **organisation !**
+
+- Étape suivante: remplir les cases afin de bien publier votre premier jeu de données, surtout "description". Ensuite uploadez votre fichier et voilà !
+
+- Une fois les étapes bien accomplis il est temps de bien regarder la disponibilisation de votre fichier en ligne, le téléchager et faire un dernière check pour en eviter des surprises aux réutlisateurs. 
+
+
+---
+class: inverse, center, middle
+
+# Merci !
+
+Contact : [allyson@datactivist.coop](mailto:allyson@datactivist.coop)
+
+
