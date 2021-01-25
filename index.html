@@ -1,26 +1,26 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
   <head>
-    <title>Les étapes d’ouverture d’un jeu de données</title>
+    <title>Réussir sa politique d’open data</title>
     <meta charset="utf-8" />
-    <meta name="author" content="Allyson Pallisser, Datactivist" />
+    <meta name="author" content="Joël Gombin, Datactivist" />
     <link href="libs/remark-css-0.0.1/default.css" rel="stylesheet" />
     <link href="libs/remark-css-0.0.1/datactivist.css" rel="stylesheet" />
     <link href="libs/remark-css-0.0.1/datactivist-fonts.css" rel="stylesheet" />
     <meta name="viewport" content="width=device-width, initial-scale=1, orientation=auto"/>
-    <meta name="description" content="J4 - Ouvrir un jeu de données sur data.gouv"/>
-    <meta name="github-repo" content="datactivist/j4challengedata3"/>
-    <meta name="twitter:title" content="Les étapes d&#39;ouverture d&#39;un jeu de données sur data.gouv"/>
-    <meta name="twitter:description" content="J4 - Ouvrir un jeu de données sur data.gouv"/>
-    <meta name="twitter:url" content="https://datactivist.coop/j4challengedata3"/>
+    <meta name="description" content="la grosse conférence"/>
+    <meta name="github-repo" content="datactivist/lagrosseconf"/>
+    <meta name="twitter:title" content="Mon joli titre de présentation"/>
+    <meta name="twitter:description" content="la grosse conférence"/>
+    <meta name="twitter:url" content="https://datactivist.coop/lagrosseconf"/>
     <meta name="twitter:image:src" content="https://github.com/datactivist/slides_datactivist/raw/master/inst/rmarkdown/templates/xaringan/resources/img/logo.png"/>
     <meta name="twitter:image:alt" content="le logo de Datactivist"/>
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:creator" content="@datactivi_st"/>
     <meta name="twitter:site" content="@datactivi_st"/>
-    <meta property="og:title" content="Les étapes d&#39;ouverture d&#39;un jeu de données sur data.gouv"/>
-    <meta property="og:description" content="J4 - Ouvrir un jeu de données sur data.gouv"/>
-    <meta property="og:url" content="https://datactivist.coop/j4challengedata3"/>
+    <meta property="og:title" content="Mon joli titre de présentation"/>
+    <meta property="og:description" content="la grosse conférence"/>
+    <meta property="og:url" content="https://datactivist.coop/lagrosseconf"/>
     <meta property="og:image" content="https://github.com/datactivist/slides_datactivist/raw/master/inst/rmarkdown/templates/xaringan/resources/img/logo.png"/>
     <meta property="og:image:alt" content="le logo de Datactivist"/>
     <meta property="og:type" content="website"/>
@@ -32,10 +32,10 @@
     <textarea id="source">
 class: center, middle, inverse, title-slide
 
-# Les étapes d’ouverture d’un jeu de données
-## sur data.gouv
-### Allyson Pallisser, Datactivist
-### Challenge Data #3, 2021-01-25
+# Réussir sa politique d’open data
+## Quelques retours d’expérience
+### Joël Gombin, Datactivist
+### OpenDataConf, 2021-01-25
 
 ---
 
@@ -66,16 +66,16 @@ layout: true
 &lt;/style&gt;
 
 
-&lt;div class='my-footer'&gt;&lt;span&gt;J4 - Ouvrir un jeu de données sur data.gouv&lt;/span&gt; &lt;center&gt;&lt;div class=logo&gt;&lt;a href='https://datactivist.coop/'&gt;&lt;img src='https://github.com/datactivist/slides_datactivist/raw/master/inst/rmarkdown/templates/xaringan/resources/img/fond_noir_monochrome.png' width='100px'&gt;&lt;/a&gt;&lt;/div&gt;&lt;/center&gt;&lt;/span&gt;&lt;/div&gt; 
+&lt;div class='my-footer'&gt;&lt;span&gt;la grosse conférence&lt;/span&gt; &lt;center&gt;&lt;div class=logo&gt;&lt;a href='https://datactivist.coop/'&gt;&lt;img src='https://github.com/datactivist/slides_datactivist/raw/master/inst/rmarkdown/templates/xaringan/resources/img/fond_noir_monochrome.png' width='100px'&gt;&lt;/a&gt;&lt;/div&gt;&lt;/center&gt;&lt;/span&gt;&lt;/div&gt; 
 
 
 ---
 
 class: center, middle
 
-Ces slides en ligne : http://datactivist.coop/j4challengedata3
+Ces slides en ligne : http://datactivist.coop/lagrosseconf
 
-Sources : https://github.com/datactivist/j4challengedata3
+Sources : https://github.com/datactivist/lagrosseconf
 
 
 Les productions de Datactivist sont librement réutilisables selon les termes de la licence [Creative Commons 4.0 BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr).
@@ -87,7 +87,7 @@ Les productions de Datactivist sont librement réutilisables selon les termes de
 
 
 ---
-# Qui sommes nous ?
+## Qui sommes nous ?
 
 
 .center[[![:largeur 80%](https://github.com/datactivist/slides_datactivist/raw/master/inst/rmarkdown/templates/xaringan/resources/img/logo.png)](https://datactivist.coop)]
@@ -98,73 +98,114 @@ Les productions de Datactivist sont librement réutilisables selon les termes de
 ## Qui sommes nous ?
 
 
-![](https://github.com/apallisser/teste/blob/master/P1100044.png?raw=true)
+[j4](j4)
 
 ---
-## Les .red[étapes d'ouverture d'un jeu de données] sur data.gouv
+## Qui sommes nous ?
 
-### - Introduction 
-* Identification 
-* Qualification 
+- Datactivist est un .red[**pure player de l’open data**] créé en 2016, par Samuel Goëta et Joël Gombin.
 
-### - Publication 
+- Se positionnant sur .red[**toutes les étapes du travail d’ouverture des données**], Datactivist travaille tant avec les producteurs de données qu’avec les réutilisateurs et participe à l’appropriation des données par chacun.
 
-1. Création d'un compte 
-2. Création d'une organisation 
-3. Publication d'un jeu de données 
-4. Vérification 
+- Nous appliquons nos propres .red[**valeurs**] : nous sommes une coopérative ; nos supports de formation et nos contenus sont librement réutilisables, publiés en licence Creative Commons.
 
-### - Publication des réutilisations 
+- Une approche issue de la recherche : voir notamment **https://datactivist.coop/these**. 
 
-
-
+- Nous animons la communauté [#TeamOpenData](https://teamopendata.org).
 
 ---
-## Introduction 
+## Nos activités
 
--  **Les données ouvertes sont souvent décevantes : .red[pas à jour, trop agrégées, mal documentées, mal formatées, parfois inutilisables**.]
-
-- Pour cela que : 
-
-1. Une partie importante du travail des data scientistes est de faire ce "nettoyage". **Cette "mis en conformité" est un travail essentiel pour que ces data soient réutilisées à posteriori** ; 
-
-2. l'.red[**identification**] et la .red[**qualification**] sont si importantes dans le processus d'ouverture de données. 
+- Conseil sur les .red[**stratégies d’ouverture de données**] : nous aidons les organisations dans la conception et la mise en œuvre de leur stratégie d’ouverture de données.
 
 
----
-## Publication 
+- .red[**Accompagnement dans la réutilisation de données ouvertes**] : nous aidons les organisations à utiliser les données au quotidien. 
 
-- Une fois le travail d'identification et de qualification terminés, .red[il est temps "d'ouvrir" ces données, c'est-à-dire, les publier]. 
+- .red[**Sensibilisation et formation à la donnée**] : nous formons à la culture générale des données, nous enseignons les grands principes et bonnes pratiques de l'open data et nous introduisons à la data science. 
 
-#### Pas à pas du processus de publication des données sur data.gouv : 
+- .red[**Médiation de données**] : nous organisons des hackathons, des open data camps, des expéditions de données...
 
-1. Création d'un compte 
+???
 
-Il faut rentrer sur data.gouv.fr et s'inscrire sur le portail. Il est recommandable (1) de choisir un compte unique pour le groupe ou, dans le cas où la commune compte déjà avec un utilisateur, (2) demander à votre interlocuteur au sein de la commune, leurs identifiants. 
- 
-
-&lt;iframe src="https://giphy.com/embed/GA0UfWDsINm7PkRvy3" width="480" height="247" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href="https://giphy.com/gifs/GA0UfWDsINm7PkRvy3"&gt;&lt;/a&gt;&lt;/p&gt;
-
+La médiation de données est aussi fondamentalement une animation de communauté(s). 
 
 ---
-## Creation d'une organisation 
+## Notre vision
 
-Identifiants en mains, il est temps créer une organisation chez data.gouv. 
+### D'un open data de l'offre à un .red[open data de la demande]
 
-Pour cela, il faut y aller sur "contribuez" et ensuite " créer ou trouver votre organisation". Vous allez créer votre organisation (au cas où elle existe pas encore), ou demander l'inscription à une commune déjà existente, dans le cas où votre commune a déjà initié une démarche open data. 
+Aujourd’hui, les administrations choisissent les données à ouvrir, elles décident du quand et du comment .red[**sans consulter les usagers**].
 
-Remplissez les cases nécessaires, ajouter un logo de votre organisation/commune et partez à l'étape suivante: la publication de votre premier jeu de données!
+Les rares données ouvertes sont souvent décevantes : pas à jour, trop agrégées, mal documentées, mal formatées, parfois inutilisables. 
 
-&lt;iframe src="https://giphy.com/embed/2cCapKcg0IkxBLouoU" width="480" height="247" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href="https://giphy.com/gifs/2cCapKcg0IkxBLouoU"&gt;&lt;/a&gt;&lt;/p&gt;
+Il faut aujourd’hui passer à l’étape supérieure : .red[**un open data piloté par la demande**].
+
+Mais c'est difficile : demande peu visible, pas de possibilité de soumettre la communication des données à l'expression d'une demande. Leviers : demandes d'ouverture, plateformes, animations (ex : hackathon), gouvernance partagée... 
 
 ---
-## Publiez vos données !
+## Ouvrir ses données : les étapes
 
-- Dans la continuité, la plateforme data.gouv vous demandera de choisir "l'identité avec laquelle vous souhaiter publier", c'est-à-dire, publier en votre propre nom ou en tant qu'organisation. Choisissez **organisation !**
 
-- Étape suivante: remplir les cases afin de bien publier votre premier jeu de données, surtout "description". Ensuite uploadez votre fichier et voilà !
+???
 
-- Une fois les étapes bien accomplis il est temps de bien regarder la disponibilisation de votre fichier en ligne, le téléchager et faire un dernière check pour en eviter des surprises aux réutlisateurs.
+La collectivité est toujours la première réutilisatrice de ses propres données.
+
+---
+## Réussir sa stratégie d'ouverture des données 
+
+- Au-delà de l'obligation légale : .red[**poser les objectifs**] poursuivis par la stratégie
+
+- Se donner les moyens de connaître la .red[**demande de données**] pour y répondre (voir par ex. [DODOdata.io](https://dododata.io))
+
+- Travailler à la .red[**qualité des données**], garante d'usages réels
+
+- Mener le projet d'ouverture des données comme un projet de modernisation de l'administration (transversalité, agilité, lean...)
+
+???
+
+Une stratégie qui peut/doit englober la question de la data en général.
+Croiser aussi avec le RGPD ! 
+
+---
+## Réussir sa stratégie d'ouverture des données 
+
+- Une ouverture des données .red[**orientée vers l'utilisateur**] : pousser les données là où sont les usagers et non l'inverse. Enjeu essentiel de la .red[**découvrabilité**] des données
+
+- Construire une .red[**offre de services**] pour son écosystème (public et privé)
+
+- Distinguer ouverture de ses données, et infrastructures de partage des données en termes de gouvernance.
+
+???
+
+Le premier est le métier de l'acteur public, le deuxième l'est-il ? Quelle gouvernance des plateformes d'ouverture des données ?
+Aller vers un Etat(collectivité)-plateforme
+Tiers de confiance
+
+---
+## Réussir sa stratégie d'ouverture des données 
+
+- Aller vers un .red[**service métropolitain de la donnée**]
+
+- Poser la question des .red[**données d'intérêt général**]
+
+- .red[**Réarmer le service public**] à l'heure de la révolution des données : big data, algorithmie... 
+
+---
+## Faire la pub du canvas 
+
+&lt;blockquote class="twitter-tweet" data-dnt="true" data-cards="hidden" data-conversation="none"&gt;&lt;p lang="fr" dir="ltr"&gt;📣A l’occasion de notre 3e anniversaire, nous publions aujourd&amp;#39;hui une version alpha de l&amp;#39;Open Data Canvas ! &lt;br&gt;&lt;br&gt;Nous vous expliquons tout dans cet article, et vos retours sont plus que bienvenus sur l&amp;#39;espace &lt;a href="https://twitter.com/hashtag/TeamOpenData?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#TeamOpenData&lt;/a&gt; qui lui est dédié ! &lt;a href="https://t.co/SIBAbQoylS"&gt;https://t.co/SIBAbQoylS&lt;/a&gt;&lt;/p&gt;&amp;mdash; datactivist (@datactivi_st) &lt;a href="https://twitter.com/datactivi_st/status/1174397047606317056?ref_src=twsrc%5Etfw"&gt;September 18, 2019&lt;/a&gt;&lt;/blockquote&gt; 
+
+---
+## Positionner une image
+
+![:abs 30%, 20%, 65%](https://datactivist.coop/images/sticker-3.png)
+
+---
+## Et même un compteur !
+
+(pratique pour les ateliers)
+
+(pour en savoir plus : https://pkg.garrickadenbuie.com/countdown/)
 
 
 ---
@@ -172,7 +213,7 @@ class: inverse, center, middle
 
 # Merci !
 
-Contact : [allyson@datactivist.coop](mailto:allyson@datactivist.coop)
+Contact : [joel@datactivist.coop](mailto:joel@datactivist.coop)
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
