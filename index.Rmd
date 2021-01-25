@@ -28,8 +28,6 @@ params:
 ---
 
 ```{r, echo=FALSE}
-install.packages("RTools")
-
 library(metathis)
 meta() %>% 
   meta_description(params$event) %>% 
