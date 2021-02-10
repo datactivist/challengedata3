@@ -168,7 +168,7 @@ La création d’un compte n’est nécessaire que si vous souhaitez :
 
 
 ---
-## 2. Creation d'une organisation 
+## 2. Création d'une organisation 
 
 Identifiants en mains, il est temps créer une organisation sur data.gouv. 
 
