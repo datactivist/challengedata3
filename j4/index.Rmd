@@ -92,9 +92,16 @@ Les productions de Datactivist sont librement réutilisables selon les termes de
 
 
 ---
+## Les portails open data
+
+Parler de data.gouv + Saas, like ODS
+
+
+
+--- 
 ## C'est quoi .red[data.gouv] ?
 
-La plateforme data.gouv.fr est **responsable pour la diffusion des données publiques de l'État français**. Crée à la fin de 2011, le portail est piloté par Etalab, administration publique responsable pour la conception et mise en oeuvre de la stratégie d'ouverture des données de l'État.
+La plateforme data.gouv.fr est **responsable pour la diffusion des données publiques de l'État français**. Créé à la fin de l'année 2011, le portail est piloté par Etalab, administration publique responsable pour la conception et la mise en oeuvre de la stratégie d'ouverture des données de l'État.
 
 Le portail représente une grande partie de la stratégie française en matière d'ouverture des données. 
 
@@ -129,13 +136,13 @@ La création d’un compte n’est nécessaire que si vous souhaitez :
 
 -  **Les données ouvertes sont souvent décevantes : .red[pas à jour, trop agrégées, mal documentées, mal formatées, parfois inutilisables**.]
 
-- Pour cela que : 
+- De fait : 
 
-1. Une partie importante du travail des data scientistes est de faire ce "nettoyage". **Cette "mis en conformité" est un travail essentiel pour que ces data soient réutilisées à posteriori** ; 
+1. Une partie importante du travail des data scientists est de faire ce "nettoyage". **Cette "mis en conformité" est un travail essentiel pour que ces data soient réutilisées à posteriori** ; 
 
-2. l'.red[**identification**] et la .red[**qualification**] sont si importantes dans le processus d'ouverture de données. 
+2. l'.red[**identification**] et la .red[**qualification**] sont trés importantes dans le processus d'ouverture de données. 
 
-- Une fois le travail d'identification et de qualification terminés, .red[il est temps "d'ouvrir" ces données, c'est-à-dire, les publier]. 
+- Une fois le travail d'identification et de qualification terminé, .red[il est temps "d'ouvrir" ces données, c'est-à-dire, les publier]. 
 
 ---
 ## Le processus de publication des données sur data.gouv : 
@@ -168,9 +175,9 @@ Identifiants en mains, il est temps créer une organisation sur data.gouv.
 Pour cela, il faut y aller sur "contribuez" et ensuite "créer ou trouver votre organisation". Vous allez :
 
 A. Créer votre organisation (au cas où elle existe pas encore) ; 
-B. Demander l'inscription à une commune déjà existente, dans le cas où votre commune a déjà initié une démarche open data. 
+B. Demander l'inscription à une commune déjà existante, dans le cas où votre commune a déjà initié une démarche open data. 
 
-Pensez à demander à votre interlocuteur un logo officiel de la commune au cas où vous devez partir de 0.
+Pensez à demander à votre interlocuteur un logo officiel de la commune si vous partez de 0.
 
 
 
@@ -220,13 +227,13 @@ Afin que vos données soient faciles à trouver, employez le même vocabulaire q
 ---
 ## Publication : télecharger vos fichiers
 
-- Il est également important de penser à une description bien complète de votre jeu de données, ainsi que mettre votre jeux des données sous une licence (nous vous recomendons oDbL). D'autres élements sont également intéressants à prendre em compte lors du remplissage, vous puvez consulter le support rendu.
+- Il est également important de penser à une description bien complète de votre jeu de données, ainsi que mettre votre jeux des données sous une licence (nous vous recomendons LO/OL pour la majorité des vos jeux des données, sauf pour les données d'es transport'Open Street Map, ou il est intéressant d'utiliser oDbL). D'autres élements sont également intéressants à prendre em compte lors du remplissage, vous puvez consulter le support rendu.
 
 - Une fois votre jeu de données décrit, vient le temps **d’importer les fichiers ou ressources qui le composent.** Pour importer votre premier fichier, cliquez sur le bouton **.red[Choisissez]** un fichier de votre ordinateur. 
 
 - Une fois votre fichier importé, vous pouvez le décrire en complétant le formulaire qui apparaît alors sur votre écran.
 
-- Il est temps de bien regarder la disponibilisation de votre fichier en ligne, le téléchager et faire un dernière check pour en eviter des surprises aux réutlisateurs.
+- Il est temps de vérifier la disponibilité de votre fichier en ligne, de le téléchager et faire un dernière check pour eviter de mauvaises surprises aux réutlisateurs.
 
 
 ---
