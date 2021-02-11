@@ -20,7 +20,7 @@ output:
     anchor_sections: false
 params:
   event: J4 - Ouvrir un jeu de données sur data.gouv
-  slug: j4challengedata3
+  slug: challengedata3/j4/
   description: 
   title: Les étapes d'ouverture d'un jeu de données sur data.gouv
   image: https://github.com/datactivist/slides_datactivist/raw/master/inst/rmarkdown/templates/xaringan/resources/img/logo.png
