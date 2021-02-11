@@ -92,6 +92,20 @@ Les productions de Datactivist sont librement réutilisables selon les termes de
 
 
 ---
+## Les portails open data 
+
+- Responsables pour rendre les données disponibles sur le web, les portails open data font la médiation entre les producteurs des données et les réutilisateurs. Ils sont bien souvent les vitrines d'un projet open data. 
+
+- Au fil de la dernière décenie, ces portails sont montés en competence et aujourd'hui, deux tecnologies sont plus visibles : 
+
+- CKAN : une des premières solutions à voir le jour, le CKAN est open source et a été développé par l'OKFN. La solution est toujours bien répondu partout dans le monde, États-Unis, Brésil et Canadá, sont exemples. 
+
+- SaaS : les solutions "Software as a service" développés pour les portails open data sont également bien répondues, contrariement à CKAN, ces solutions sont exploités commerciallement par des entreprises qui proposent une solution "clé en main". Trois entreprises bien connues dans le domaine sont : ArcGis Hub (USA), Open Data Soft et Socrata (USA).
+
+Crée en CKAN dans un premier temps, **data.gouv.fr** utilise actuellement UData, un code "fait maison". En France, plusieurs collectivités (comme la ville de Paris) utilisent **Open Data Soft**.
+
+
+--- 
 ## C'est quoi .red[data.gouv] ?
 
 La plateforme data.gouv.fr est **responsable pour la diffusion des données publiques de l'État français**. Créé à la fin de l'année 2011, le portail est piloté par Etalab, administration publique responsable pour la conception et la mise en oeuvre de la stratégie d'ouverture des données de l'État.
