@@ -1,7 +1,7 @@
 # Carnet de bord de l'ouverture des données de Baugé-En-Anjou
 par Lyna B., Thomas Delaunay, Mia F., Mathilde Gambe, Jean-Etienne Lemelle et Agathe Mazars
 
-![Illustration réalisée par Anne-Cécile Calléjon](https://nextcloud.datactivist.coop/s/e4mePL8wn8LEMwM/preview)
+![Illustration réalisée par Anne-Cécile Calléjon](https://nextcloud.datactivist.coop/core/preview?fileId=194809&x=1920&y=1080&a=true)
 
 
 **JOUR 1 – DIAGNOSTIC**
