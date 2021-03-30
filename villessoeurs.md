@@ -121,8 +121,7 @@ Vendredi, dernier jour du Challenge Data: le plus important. Nous avons fait la 
 
 Il nous faut donner du sens à toutes ces données collectées, filtrées puis structurées dans la semaine. Nous devons aider la collectivité à les rendre intelligibles, accessibles et attrayantes pour le grand public. Pour cela, des outils comme Dataviz Project et uMap sont à notre disposition. C’est l’étape des datavisualisations, de la carte géographique interactive de la CCVS sur laquelle l’usager peut se promener et découvrir à chaque point orange (calque) les informations d’hébergements touristiques dédiées.
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/hebergement-touristique-ccvs_564797?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
- 
+
 <p><a href="//umap.openstreetmap.fr/fr/map/hebergement-touristique-ccvs_564797">Voir la carte intéractive</a></p>
 
 
