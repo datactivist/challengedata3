@@ -1,8 +1,7 @@
 # Carnet de bord de l'ouverture des données de la CC des Villes Soeurs
 par  Gabriel Collardey, Paul Luppino, Elise Varlet, Mélissa Prou, Alexandre Teyssandier, Candide d’Amato
- 
- 
- <center><img src="./images_cdb/villessoeurs.jpg" ></center>
+
+<center><img src="./images_cdb/villessoeurs.jpeg"></center>
 
 
 ### JOUR 1 – DIAGNOSTIC
@@ -76,8 +75,7 @@ Il a été décidé avec notre référente de ne pas travailler sur les données
 
 L’organigramme a été plutôt simple à établir. Nous n’avons en effet pas eu besoin de contacter nous-mêmes différents services. Notre référente avait accès aux jeux de données qu’elle nous a ensuite aimablement partagés. Elle nous a partagé le contact de Justine Follain, que nous contacterons mercredi afin d’avoir de plus amples informations.  
 
-Lien de l’organigramme: [https://app.mindmup.com/map/_free/2021/02/2366eef070fc11eb9b9ef934d234be45](https://app.mindmup.com/map/_free/2021/02/2366eef070fc11eb9b9ef934d234be
-![](https://lh4.googleusercontent.com/ls69nheGOYe2SsPeIjX4nXp2PwKd3uZstujFq-6aD9cvQ2lg7OSl1T-Jtl7K9BdQGNuOOmDQDwb3Q5lzF1-98KugLL73H_7ORde2fQc4H6bGbTwojj1_TjgOfgEa9m6c2vsZW1g)
+[Lien vers l’organigramme](https://app.mindmup.com/map/_free/2021/02/2366eef070fc11eb9b9ef934d234be45)
 
 
 ### JOUR 3 – MISE EN QUALITÉ
