@@ -236,7 +236,7 @@ map_leaflet <- leaflet(df_SGEL) %>%
 map_leaflet
 
 # Save the map au format html
-saveWidget(map_leaflet, file="map_arbres_urbains_SGEL.html")
+#saveWidget(map_leaflet, file="map_arbres_urbains_SGEL.html")
 ```
 
 <br>
@@ -335,7 +335,7 @@ map4 <- leaflet(df_final) %>%
              color=~cof(is_Estrees)) %>% 
   addProviderTiles("OpenStreetMap.France")
 map4
-saveWidget(map4, file="map_covoit_Estrees.html")
+#saveWidget(map4, file="map_covoit_Estrees.html")
 ```
 
 <br>
