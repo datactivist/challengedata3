@@ -18,5 +18,3 @@
 ## Rosny-sur-Seine (Commune)
 [![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/rosnysurseine.jpeg)](https://datactivist.coop/challengedata3/rosny-sur-seine)
 
-## Test (Commune)
-[![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/carrieressouspoissy.jpeg)](https://arthursrz.github.io/challengedata3/carrieres-sous-poissy)
