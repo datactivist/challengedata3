@@ -19,7 +19,7 @@ par Joana Devarieux, Etienne Vêtu, Antoine Goussot, Alban Tran, César Veillon 
 → Le rendez vous est fixé à 14:30 et A 15 heures on fixera le planning de travail de la semaine. 
 
 
-**14:30 : **le rendez-vous n’a pas eu lieu, on nous propose de rappeler vers 16 heures.
+**14:30 :** le rendez-vous n’a pas eu lieu, on nous propose de rappeler vers 16 heures.
 
 
 En attendant nous avons fixé le planning de la semaine en identifiant les défis étape par étapes et nous nous sommes répartis les travail en ce qui concerne le carnet de bord.
@@ -28,14 +28,13 @@ En attendant nous avons fixé le planning de la semaine en identifiant les défi
 Une des premières difficultés est la contrainte de temps, car sans cet appel, nous ne pouvons pas avancer et la charge de travail qui reste à faire dans cette journée est encore large. 
 
 
-**16:00 : **un autre appel est effectué. On nous demande de patienter et de les rappeler vers 16:30. Nous ne pouvons toujours pas avancer dans le reste des taches. Nous avons déjà essayé d’anticiper au maximum sur les tâches à faire dans le reste de la semaine en regardant les tutoriels proposés sur le site datactivist et en en discutant entre nous et en nous posant des question pour faciliter l'exécution des tâches une fois venues. 
+**16:00 :** un autre appel est effectué. On nous demande de patienter et de les rappeler vers 16:30. Nous ne pouvons toujours pas avancer dans le reste des taches. Nous avons déjà essayé d’anticiper au maximum sur les tâches à faire dans le reste de la semaine en regardant les tutoriels proposés sur le site datactivist et en en discutant entre nous et en nous posant des question pour faciliter l'exécution des tâches une fois venues. 
 
 
 **17h :** Début de l’entretien, nous recevons l’une des cheffes de services qui ne s’y connaît pas beaucoup en Data. Elle tente tout de même de répondre à nos questions mais avec un peu de nonchalance surtout au début car elle ne maîtrise pas du tout le sujet. Nous sommes renvoyés en permanence vers le DSI. Elle aborde tout de même le fait que la réalisation de maps soit pertinente et nécessaire dans sa commune.
 
 
-     \
-**18h: **Fin du rendez-vous, nous effectuons les derniers envois sur airtable, et complétons la wishlist avec les informations de contacts obtenues auprès de madame la DGS Catherine Guérin. 
+**18h:** Fin du rendez-vous, nous effectuons les derniers envois sur airtable, et complétons la wishlist avec les informations de contacts obtenues auprès de madame la DGS Catherine Guérin. 
 
 ## JOUR 2 – IDENTIFICATION
 
@@ -70,55 +69,55 @@ Une des premières difficultés est la contrainte de temps, car sans cet appel, 
 ## JOUR 3 – MISE EN QUALITÉ
 
 
-**10h30 : **Meeting général avec l’équipe pour se répartir les tâches quotidiennes. 
+**10h30 :** Meeting général avec l’équipe pour se répartir les tâches quotidiennes. 
 
 
-**11H :_ _**Nous tentons de joindre les services de l'urbanisme et de l'aménagement du territoire de la Mairie de Carrières-sous-Poissy pour récupérer un jeu de données relatif aux permis de construire. 
+**11H :** Nous tentons de joindre les services de l'urbanisme et de l'aménagement du territoire de la Mairie de Carrières-sous-Poissy pour récupérer un jeu de données relatif aux permis de construire. 
 
 
 **11h30 :** Nous récupérons le jeu de données et commençons à l’exporter sur le workbench et traiter les données en vertu de la méthodologie : nettoyage, compilation, complétion et standardisation. 
 
 
-**11h50 : **Nous tentons à nouveau de contacter les services chargés des données relatifs aux espaces verts et aux défibrillateurs, respectivement urbanisme et espaces verts. Pas de données traitables pour les défibrillateurs et pas de réponse de la part des espaces verts. 
+**11h50 :** Nous tentons à nouveau de contacter les services chargés des données relatifs aux espaces verts et aux défibrillateurs, respectivement urbanisme et espaces verts. Pas de données traitables pour les défibrillateurs et pas de réponse de la part des espaces verts. 
 
 
-**13H : **Début du processus de : Nettoyage, compilation, complétion et standardisation des jeux de données suivants : prénoms nouveaux nés, permis de construire, logements sociaux et livraison de logements. 
+**13H :** Début du processus de : Nettoyage, compilation, complétion et standardisation des jeux de données suivants : prénoms nouveaux nés, permis de construire, logements sociaux et livraison de logements. 
 
 
-**15h : **Récupération du jeu de données sur les places de parking. Le jeu de données est partiellement rempli et quantitativement peu intéressant. Nous exportons le jeu de données dans le workflow mais nous n’envisageons pas de traiter ces données. 
+**15h :** Récupération du jeu de données sur les places de parking. Le jeu de données est partiellement rempli et quantitativement peu intéressant. Nous exportons le jeu de données dans le workflow mais nous n’envisageons pas de traiter ces données. 
 
 
 **16H** : Toute l’équipe bosse sur un travail de standardisation et de fusion de certains jeux de données. Les jeux de données sont les suivants : mariages, prénoms, 
 
 
-**17h00 : **Entretien collectif avec Arthur pour faire un point sur l’utilité des données et le travail de standardisation de manière générale. 
+**17h00 :** Entretien collectif avec Arthur pour faire un point sur l’utilité des données et le travail de standardisation de manière générale. 
 
 
-**18H : **Réunion de fin de journée et compte rendu individuel. 
+**18H :** Réunion de fin de journée et compte rendu individuel. 
 
 
 ## JOUR 4 – PUBLICATION
 
 
-**10H : **Première connexion de l’équipe et répartition des tâches du jour. Division de l’équipe en 2 parties : une attachée à recontacter les services de mairie pour les informations manquantes et une autre réfléchissant à la conception des fiches de mise en ligne.
+**10H :** Première connexion de l’équipe et répartition des tâches du jour. Division de l’équipe en 2 parties : une attachée à recontacter les services de mairie pour les informations manquantes et une autre réfléchissant à la conception des fiches de mise en ligne.
 
 
-**12H : **Bilan de la première session de travail. Tous les services n’ont pas pu être joints, ce qui demandera de recontacter les services après le déjeuner. Étude des fiches de mise en ligne et validation de ces dernières. 
+**12H :** Bilan de la première session de travail. Tous les services n’ont pas pu être joints, ce qui demandera de recontacter les services après le déjeuner. Étude des fiches de mise en ligne et validation de ces dernières. 
 
 
-**14H : **Après la pause déjeuner, réflexion autour du plan de communication pour savoir comment aborder le rendez-vous avec la mairie et le service communication (quelles idées suggérer, comment expliquer le plan de manière claire et efficace). 
+**14H :** Après la pause déjeuner, réflexion autour du plan de communication pour savoir comment aborder le rendez-vous avec la mairie et le service communication (quelles idées suggérer, comment expliquer le plan de manière claire et efficace). 
 
 
-**14H30 : **Réponses de la part des mairies pour les défibrillateurs  et espaces verts. Les données sur les défibrillateurs étant assez complètes, toute l’équipe s’attelle à les standardiser de suite et commence à faire la fiche. Les données sur les espaces verts semblent inexistantes. 
+**14H30 :** Réponses de la part des mairies pour les défibrillateurs  et espaces verts. Les données sur les défibrillateurs étant assez complètes, toute l’équipe s’attelle à les standardiser de suite et commence à faire la fiche. Les données sur les espaces verts semblent inexistantes. 
 
 
-**16H30 : **Appel avec la mairie pour définir le plan de communication.  
+**16H30 :** Appel avec la mairie pour définir le plan de communication.  
 
 
-**17H : **Finition des fiches et des standardisations des bases reçues dans la donnée, puis upload sur la plateforme.
+**17H :** Finition des fiches et des standardisations des bases reçues dans la donnée, puis upload sur la plateforme.
 
 
-**18H30 : **Meetup final pour faire le bilan et vérifier les uploads.
+**18H30 :** Meetup final pour faire le bilan et vérifier les uploads.
 
 
 
