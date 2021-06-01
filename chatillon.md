@@ -35,18 +35,14 @@ Notre référent nous a également communiqué deux autres contacts qui seront �
 En équipe nous avons validé le questionnaire et obtenu notre score (2). Nous avons ensuite, à l’aide du catalogue, réaliser notre wishlist. En croisant les informations du catalogue et les attentes de la ville exprimées lors de l’entretien, nous avons axé la wishlist sur la thématique de la mobilité. Deux des cinq axes devraient être validés demain puisque nous en avons parlé pendant l’entretien (parking vélo et infrastructures de recharge pour les voitures électriques), nous attendons de voir quelles données seront accessibles pour les autres axes.
 
 
-16h30-17h30 envoi d’un mail à notre référent pour lui transmettre la wishlist et demander l’accès à certaines données (certaines seront disponibles sur _Open data Hauts-de-seine_ d’autres appartiennent à la ville)
+16h30-17h30 envoi d’un mail à notre référent pour lui transmettre la wishlist et demander l’accès à certaines données (certaines seront disponibles sur _Open data Hauts-de-seine_ d’autres appartiennent à la ville). 
 
 
-debrief d’équipe sur la journée
+Debrief d’équipe sur la journée
 
 
-        
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+**Livrable :**  [Whishlist](https://drive.google.com/file/d/13KLK-cqWaIaDQwBEasl0gHqDo1NjFjTE/view?usp=sharing) 
 
 
 
@@ -62,7 +58,7 @@ debrief d’équipe sur la journée
 → **9h30 : brief de groupe** pour faire un point sur nos avancées et se répartir le travail. On visualise les tutoriels de la plateforme challenge data pour cerner les objectifs du jour et se familiariser avec les plateformes
 
 
-→** Envoi de mails aux contacts** communiqués par notre référent afin d’avoir accès aux données relatives aux parkings de la ville, aux bornes de recharges de voitures électriques et aux parkings à vélo.
+→ **Envoi de mails aux contacts** communiqués par notre référent afin d’avoir accès aux données relatives aux parkings de la ville, aux bornes de recharges de voitures électriques et aux parkings à vélo.
 
 
 → **10h00 : brief avec Allyson, on évoque nos questionnements sur la conformité entre les attentes de la ville exprimées par notre référent et les jeux de données que nous pouvons traiter au vu de la maturité data de Châtillon (palier 2)**. En effet, notre référent souhaitait que notre travail s’axe sur deux aspects : les mobilités (parkings à vélos, bornes de recharges pour les voitures électriques…) et les commerces (commerces qui font du click and collect en période de COVID…). Les données relatives aux commerces ne font pas partie du palier 2.
@@ -80,10 +76,10 @@ debrief d’équipe sur la journée
 Nous téléphonons à trois services de la mairie.
 
 
-**Aucun de nos contacts à la mairie de Châtillon ne nous répond**.** **
+**Aucun de nos contacts à la mairie de Châtillon ne nous répond**.
 
 
-**Nous tentons de prendre contact via LinkedIn. **
+**Nous tentons de prendre contact via LinkedIn.**
 
 
 Nous parvenons à joindre le service de la voierie de Châtillon qui nous demande de leur envoyer un mail. Le mail est resté sans réponse de leur part.
@@ -113,7 +109,7 @@ Nous parvenons à joindre le service de la voierie de Châtillon qui nous demand
 **Nous parvenons à trouver une base de données sur les pistes cyclables en 2013 de toutes les communes du 92 (on filtre pour la commune de Châtillon)**
 
 
-→** 14h42 : autre réunion de crise avec Allyson **
+→ **14h42 : autre réunion de crise avec Allyson **
 
 
 **On élargit les recherches à des données qui ne sont pas comprises dans le palier 2**
@@ -131,7 +127,7 @@ On conserve les données des pistes cyclables en 2013
 • **Carte situant les pistes cyclables de la ville et les appuis vélos en septembre 2020**
 
 
-• **Document excel recensant 19 commerces de la ville de Châtillon MAIS** **beaucoup de données sont manquantes **
+• **Document excel recensant 19 commerces de la ville de Châtillon MAIS beaucoup de données sont manquantes **
 
 
 → **15h15 : réunion de crise avec Julia** 
@@ -152,13 +148,13 @@ Julia a eu notre référent au téléphone qui nous communique le numéro de té
 → 16h00 : les longues heures d'attente et de recherches de données ponctuées d’appels téléphoniques inutiles commencent à peser sur le moral de l’équipe 9 de Châtillon qui se donne corps et âme pour mener à bien sa mission du Jour 2.
 
 
-**→ 16h20 : réponse d’une dame de la voirie qui nous demande de quelles données nous avons besoin par mail **
+**→ 16h20 : réponse d’une dame de la voirie qui nous demande de quelles données nous avons besoin par mail**
 
 
 **→ 16h21 : brief rapide de la situation avec Allyson**
 
 
-**→ Tentative de récupération des données renseignées sur openstreetmap pour Châtillon **([https://www.openstreetmap.org/relation/4106484#map=17/48.79832/2.29056](https://www.openstreetmap.org/relation/4106484#map=17/48.79832/2.29056)) **par le biais du site géodatamine **(<span style="text-decoration:underline;">https://geodatamine.fr/</span>)
+**→ Tentative de récupération des données renseignées sur openstreetmap pour Châtillon**([https://www.openstreetmap.org/relation/4106484#map=17/48.79832/2.29056](https://www.openstreetmap.org/relation/4106484#map=17/48.79832/2.29056)) **par le biais du site géodatamine**(<span style="text-decoration:underline;">https://geodatamine.fr/</span>)
 
 
 • Au départ les recherches ne donnent rien : quand on filtre avec “Châtillon”, la commune n’est pas retrouvée 
@@ -167,19 +163,19 @@ Julia a eu notre référent au téléphone qui nous communique le numéro de té
 • On a réussi à trouver le numéro du Canton de Châtillon puis de la commune. On tape le numéro de Châtillon de l’INSEE (92 020) qui nous dirige vers les données de la commune
 
 
-**• On télécharge les données pour les pistes cyclables et on obtient un document excel **
+**• On télécharge les données pour les pistes cyclables et on obtient un document excel**
 
 
 → Une fois le dossier téléchargé on essaye de mettre le document excel sur Workbench
 
 
-→ 1**7h10 : réunion avec notre référent.**
+→ **17h10 : réunion avec notre référent.**
 
 
 Il se charge de rappeler le responsable des arceaux.
 
 
-**Il va nous mettre en contact avec une collègue qui travaille dans son service et qui doit nous communiquer les données relatives aux commerces **
+**Il va nous mettre en contact avec une collègue qui travaille dans son service et qui doit nous communiquer les données relatives aux commerces**
 
 
 **Il s’engage à nous envoyer des jeux de données avant demain (ce soir)**
@@ -201,7 +197,7 @@ Il se charge de rappeler le responsable des arceaux.
 1.  Notre référent ne nous a toujours pas envoyé son jeu de données. **Allyson décide donc de l’appeler directement afin de débloquer la situation, après une sonnerie, notre référent raccroche**. Nous ne sommes donc pas beaucoup plus avancés après notre réunion sur ce sujet.
 2. Un second problème que nous partageons avec Allyson est le fait que nous n'arrivons pas à mettre des données extraites depuis openstreetmap sur les aménagements cyclables de Châtillon sous format excel pour le mettre dans le workbench, Allyson nous propose gentiment d’y jeter un coup d’oeil dès qu’il aura le temps.
 
-**9h40 **: On débute l’organigramme afin d’essayer d’avancer malgré notre manque de données pour le moment 
+**9h40**: On débute l’organigramme afin d’essayer d’avancer malgré notre manque de données pour le moment 
 
 
 Nous attendons également les données du service de la voirie qui devrait nous les envoyer dans la matinée. (Elles ne sont finalement jamais arrivées...)
@@ -216,19 +212,19 @@ Nous attendons également les données du service de la voirie qui devrait nous 
 **10h35** : Allyson nous aide à insérer le jeu de données sur les aménagements cyclables, dans le workbench et il a vérifié la seconde base de données au sujet des commerces que nous venions à peine de recevoir. Il nous autorise à l’utiliser malgré le fait que la thématique soit une thématique de pallier 4.
 
 
-**10h45** : Pour le** jeu de données des commerces**, début du travail sur le workbench → analyse du jeu de données pour déterminer le travail à effectuer. Nettoyage : on a supprimé  les colonnes vides,et les commerces qui n’avaient pas de numéro de téléphone, puis l’on a fusionné la colonne du nom et prénom des responsables des commerces. On a effectué un long et fastidieux travail  pour compléter la base de données relativement pauvre : nous avons rajouté manuellement un à un la ville, le code postal et les horaires pour chacun des 245 commerces en cherchant sur Google. Cela nous a pris toute la journée. 
+**10h45** : Pour le **jeu de données des commerces**, début du travail sur le workbench → analyse du jeu de données pour déterminer le travail à effectuer. Nettoyage : on a supprimé  les colonnes vides,et les commerces qui n’avaient pas de numéro de téléphone, puis l’on a fusionné la colonne du nom et prénom des responsables des commerces. On a effectué un long et fastidieux travail  pour compléter la base de données relativement pauvre : nous avons rajouté manuellement un à un la ville, le code postal et les horaires pour chacun des 245 commerces en cherchant sur Google. Cela nous a pris toute la journée. 
 
 
-Pour le** jeu de données des aménagements cyclables** on a commencé par nettoyer le jeu de données        en supprimant les colonnes qui comportent trop peu de données : “id_local”, “lumière”, “comm”. Nous avons aussi supprimé la colonne “ref_geo” parce que les données sont extraites de open street map. On recherche chaque nom de rues avec les données comprises dans la colonne “id_osm” pour indiquer le nom des rues dans la colonne “copyof_osm”. On a renommé la colonne “nom de rue” et on l’a nettoyée pour supprimer les cases sans nom de rue. On a, par la suite, standardisé et renommé les colonnes avec l’exemple proposé par le workbench. Enfin, nous avons tenté d’effectuer une validation automatique sur etalab (**[https://validata.etalab.studio](https://validata.etalab.studio/)**) mais nous n’avons pas réussi, aucun domaine proposé ne correspondait au nôtre. Nous avons donc fini par effectuer une validation manuelle en vérifiant dans chaque colonne 5 cellules de manière aléatoire. 
+Pour le **jeu de données des aménagements cyclables** on a commencé par nettoyer le jeu de données        en supprimant les colonnes qui comportent trop peu de données : “id_local”, “lumière”, “comm”. Nous avons aussi supprimé la colonne “ref_geo” parce que les données sont extraites de open street map. On recherche chaque nom de rues avec les données comprises dans la colonne “id_osm” pour indiquer le nom des rues dans la colonne “copyof_osm”. On a renommé la colonne “nom de rue” et on l’a nettoyée pour supprimer les cases sans nom de rue. On a, par la suite, standardisé et renommé les colonnes avec l’exemple proposé par le workbench. Enfin, nous avons tenté d’effectuer une validation automatique sur etalab (**[https://validata.etalab.studio](https://validata.etalab.studio/)**) mais nous n’avons pas réussi, aucun domaine proposé ne correspondait au nôtre. Nous avons donc fini par effectuer une validation manuelle en vérifiant dans chaque colonne 5 cellules de manière aléatoire. 
 
 
-**16h30 **: Nous avons effectué manuellement la standardisation de chacun des horaires du jeu de données des 245 commerces puis nous avons fait une relecture de ces données afin de vérifier si une erreur ne s’était pas glissée durant ce long travail. 
+**16h30**: Nous avons effectué manuellement la standardisation de chacun des horaires du jeu de données des 245 commerces puis nous avons fait une relecture de ces données afin de vérifier si une erreur ne s’était pas glissée durant ce long travail. 
 
 
 **16h46** : Notre référent apparaît sur gather town, c’est la surprise, aucun rendez vous n’était prévu. Il nous demande si l’on a rencontré des difficultés dans la lecture des données du jeu de commerce qu’il nous a transmis dans la matinée. La réponse est non. Puis, il a ajouté qu’il verrait avec ses collaborateurs s' il peut nous envoyer des données supplémentaires plus tard, demain par exemple.  
 
 
-**16h40: **Nous aimerions mettre notre jeu de données de commerces complété et standardisé mais  impossible d’accéder à workbench, le site crash. 
+**16h40:** Nous aimerions mettre notre jeu de données de commerces complété et standardisé mais  impossible d’accéder à workbench, le site crash. 
 
 
 **17h00** : Problème : on a fait un excel avec des infos supplémentaires sur le jeu de données du commerce mais quand on essaye de fusionner les deux tables ça nous rajoute des lignes en double.  Nous avons beaucoup de mal à résoudre ce problème qui nous empêche d’effectuer la dernière étape de validation.
@@ -258,7 +254,7 @@ Nous allons donc continuer à remplir nos jeux de données <span style="text-dec
 [https://www.numero-de-siret.com/societe-par-ville/chatillon/92320](https://www.numero-de-siret.com/societe-par-ville/chatillon/92320)
 
 
-**10h-11h **: Nous avons des difficultés à trouver les numéros SIRET qui sont introuvables pour certains commerces même dans les bases de données spécialisées sur internet.
+**10h-11h**: Nous avons des difficultés à trouver les numéros SIRET qui sont introuvables pour certains commerces même dans les bases de données spécialisées sur internet.
 
 
 En effet, beaucoup de commerces ne correspondent plus aux adresses et aux noms, ils ont changé. La base de données date de 2020 mais sans doute du début de l’année 2020, la crise sanitaire étant passée par là. Elle n’est donc plus vraiment à jour, nous ne complétons donc pas les données des commerces désormais fermés et remplacés.
@@ -273,7 +269,7 @@ On supprime les lignes qui n’ont pas de d’horaires.
 Celui sur les commerces est standardisé par les 3 autres du groupe (changement des noms des colonnes et enlever les espaces entre les chiffres du numéro SIRET)
 
 
-**10h55 **: Nous appelons notre référent pour essayer de convenir d’un rendez-vous. Il ne peut a priori pas avant 15h mais nous essayons de négocier avant. Il nous confirmera l’horaire par mail dans la matinée.
+**10h55**: Nous appelons notre référent pour essayer de convenir d’un rendez-vous. Il ne peut a priori pas avant 15h mais nous essayons de négocier avant. Il nous confirmera l’horaire par mail dans la matinée.
 
 
 Allyson envoie donc un mail à notre référent pour tenter d’avancer le rendez-vous.
@@ -302,7 +298,7 @@ Nous remplissons en brouillon nos fiches descriptives comme nous attendons avec 
 **12h-13h** : Pause déjeuner 
 
 
-**13h : **Nous terminons la standardisation du jeu de données des commerces et nous le validons à la main ensuite. [https://app.workbenchdata.com/workflows/132906](https://app.workbenchdata.com/workflows/132906?fbclid=IwAR1uClHyQY1t0x1gA1w6NR_C0RNLwTXrjk3PPqKopDgXh16fGxC7Zrlkkig) voici le lien
+**13h :** Nous terminons la standardisation du jeu de données des commerces et nous le validons à la main ensuite. [https://app.workbenchdata.com/workflows/132906](https://app.workbenchdata.com/workflows/132906?fbclid=IwAR1uClHyQY1t0x1gA1w6NR_C0RNLwTXrjk3PPqKopDgXh16fGxC7Zrlkkig) voici le lien
 
 
 Nous pré remplissons la fiche descriptive du deuxième jeu de données et attendons ENCORE une réponse de notre référent.
@@ -311,7 +307,7 @@ Nous pré remplissons la fiche descriptive du deuxième jeu de données et atten
 **13h40 :** Nous demandons à Allyson de venir faire un dernier point sur nos jeux de données mais également s’il peut être présent à 15h pour notre rdv avec notre référent qui a priori ne l’avancera pas avant. Il est très satisfait de nos jeux de données et ça nous fait très plaisir. Il nous conseille de créer un compte sur data gouv, à la fois pour nous mais aussi s’assurer que notre référent en crée un pour la commune. Il nous conseille également de commencer à réfléchir au plan de communication.
 
 
-**14h **: Nous créons un compte sur data gouv.
+**14h** : Nous créons un compte sur data gouv.
 
 
 identifiants : Chatillon92
@@ -323,7 +319,7 @@ Nous décidons de faire une vidéo pour montrer la mise en valeur de nos donnée
 [https://drive.google.com/file/d/1Pakmw73mDJsUVzTg0Uo6GqhgCVuaKTZL/view?usp=sharing](https://drive.google.com/file/d/1Pakmw73mDJsUVzTg0Uo6GqhgCVuaKTZL/view?usp=sharing&fbclid=IwAR1uClHyQY1t0x1gA1w6NR_C0RNLwTXrjk3PPqKopDgXh16fGxC7Zrlkkig)
 
 
-**15h-15h20 **: Call avec notre référent : 
+**15h-15h20** : Call avec notre référent : 
 
 
 Il valide nos jeux de données mais ne comprend pas réellement le travail effectué. Il ne fait pas la différence entre les données issues de sa commune et celles issues de OpenStreetMap, qu’il pense actualiser avec d’autres services de la mairie. Nous lui demandons des informations relatives à la raison de production de ces données, aux usages et aux processus de collecte.
@@ -344,7 +340,7 @@ Nous terminons les fiches descriptives  : [https://docs.google.com/presentation/
 et nous supprimons les données personnelles afin de publier.
 
 
-**15h50 **: Nous entamons la phase de publication pour le jeu de données des aménagements cyclables.
+**15h50** : Nous entamons la phase de publication pour le jeu de données des aménagements cyclables.
 
 
 Nous recevons un mail de notre référent nous transmettant uniquement le mail du chargé de communication. Il nous demande également de lui transmettre le jeu de données des aménagements cyclables par mail afin qu’il puisse vérifier de nouveau. Il nous a transmis le compte de châtillon de opendata gouv. Il ne nous a cependant pas transmis le logo que l’on doit demander au chargé de communication.
@@ -356,7 +352,7 @@ Nous lui transmettons donc le fichier en espérant qu’il nous le valide rapide
 **16h :** Documents du plan de communication crash
 
 
-**16h08 **: le jeu de données des aménagements cyclables est publié : Parabéns ! 
+**16h08** : le jeu de données des aménagements cyclables est publié : Parabéns ! 
 
 
 Nous envoyons un mail au chargé de communication pour qu’il puisse nous aiguiller et pour qu’on discute avec lui du plan de communication.
@@ -402,7 +398,7 @@ Juliette et Agathe peaufinent le plan de communication : travail sur le powerpoi
 12h10 : Le jeu de données sur les commerces est complété avec les coordonnées de géolocalisation. Mise à jour du jeu de données sur workbench puis data.gouv. Tsoliné a commencé à travailler sur la carte des commerces, elle met des filtres comme “alimentaire” pour rendre la carte plus pratique. 
 
 
-13h30 : Clara et E.B ont terminé leur visualisation, elles travaillent donc sur la contextualisation. Juliette et Agathe travaillent sur la contextualisation de la carte sur les aménagements cyclables. [https://docs.google.com/document/d/1Sh-YQ02aJBDhPtwEdiObD7tj3dzWOxmvtCa15Oa_dok/edit#heading=h.vw3wlakrpepp](https://docs.google.com/document/d/1Sh-YQ02aJBDhPtwEdiObD7tj3dzWOxmvtCa15Oa_dok/edit#heading=h.vw3wlakrpepp) (document des contextualisations)  \
+13h30 : Clara et E.B ont terminé leur visualisation, elles travaillent donc sur la contextualisation. Juliette et Agathe travaillent sur la contextualisation de la carte sur les aménagements cyclables. [document des contextualisations](https://docs.google.com/document/d/1Sh-YQ02aJBDhPtwEdiObD7tj3dzWOxmvtCa15Oa_dok/edit#heading=h.vw3wlakrpepp)
 Erell et Tsoliné avancent sur la carte des commerces de la ville. 
 
 
@@ -427,7 +423,7 @@ Erell et Tsoliné avancent sur la carte des commerces de la ville.
 17h : Réunion zoom et début de la restitution. Nous avons pu présenter notre diaporama à Allyson et étions heureuses de pouvoir le remercier pour cette semaine. En revanche, nous étions déçues de voir que notre référent ne soit même pas venu à notre restitution. Nous avons eu un peu l’impression d’avoir aucune considération pour notre travail. Nous n’avons même pas eu de nouvelles pour notre 2e jeu de données, nous n’avons donc pas pu le publier en public alors que nous avons beaucoup investi dedans et que nous en sommes fières.  
 
 
-[https://www.data.gouv.fr/fr/datasets/liste-et-horaires-des-commerces-de-la-ville-de-chatillon-2021/?fbclid=IwAR0wmELuRanTImjLYoT2pMd-TPdg84NfNxWAwYNQpQmQ5Shrq9G4SLgJHRM](https://www.data.gouv.fr/fr/datasets/liste-et-horaires-des-commerces-de-la-ville-de-chatillon-2021/?fbclid=IwAR0wmELuRanTImjLYoT2pMd-TPdg84NfNxWAwYNQpQmQ5Shrq9G4SLgJHRM) 
+[Lien du jeu publié](https://www.data.gouv.fr/fr/datasets/liste-et-horaires-des-commerces-de-la-ville-de-chatillon-2021/?fbclid=IwAR0wmELuRanTImjLYoT2pMd-TPdg84NfNxWAwYNQpQmQ5Shrq9G4SLgJHRM) 
 
 
 **CONCLUSION**
