@@ -38,10 +38,7 @@ Conscientes que la semaine ne nous permettra pas de tout traiter nous avons pu �
 Pour conclure sur cette journée de diagnostic, nous bénéficions d’un contact réactif et impliqué au sein de la commune de Beauvais. Nous découvrons également petit à petit les enjeux de l’ouverture de ces données. Enfin, les tâches du premier jour ont toutes été réalisées avant 17h ce qui nous permet de prendre de l’avance et de nous pencher sur les tutoriels du jour 2.
 
 
-**Livrable : **
-
-
-[Whishlist](https://drive.google.com/file/d/1EVW1F3DS1exZpF-VTNiOGMEdcHuI4PbB/view?usp=sharing) 
+**Livrable :**  [Whishlist](https://drive.google.com/file/d/1EVW1F3DS1exZpF-VTNiOGMEdcHuI4PbB/view?usp=sharing) 
 
 
 ## JOUR 2 – IDENTIFICATION
@@ -53,16 +50,13 @@ Cette journée de data exploration (collecte, évaluation du travail de mise en 
 Finalement, nous avons réussi à récupérer quatre jeux de données (sur les stationnements voiture hors voirie, sur les délibérations, sur les bornes de recharge électriques de voiture et sur les centres de loisir municipaux). Cependant, les tableaux que nous avons reçus ne sont pas très complets, traduisant peut-être des lacunes dans la collecte de données brutes au sein de la collectivité. Les données sur les délibérations nous sont arrivées en format PDF (153 pages), compliquant notre capacité à ouvrir ce jeu de données d’ici la fin de la semaine. Aussi, certains contacts ont été réticents à nous fournir des tableaux de données, illustrant à quel point il est ardu de relancer une politique globale d’open data. Après une réunion avec Guillaume et notre référent, nous avons décidé pour l’instant de développer la mise en qualité de deux jeux de données : les lieux de stationnement hors voirie (nouveau terrain open data inexploité à ce jour) et les bornes de recharge pour les véhicules électriques (campagne d’ouverture de ces données déjà effectuée par notre référent par le passé). Le bilan de cette journée, malgré l’impression de faire du “sur place” est malgré tout positif dans le sens où en seulement 8h et avec l’aide de quelques administrateurs réactifs et dynamiques, nous avons réussi à rassembler deux jeux de données. Cependant, comme nous avons reçu à la fin de la journée un document PDF traitant des délibérations, il sera important de se coordonner demain matin avec nos interlocuteurs afin de savoir quel cap nous adoptons pour la suite de la semaine. 
 
 
-    Le délai serré pour réaliser cette tâche montre qu’établir une politique globale d’open data nécessite la coopération de tous les agents et services. Lancer une campagne de data exploration n’est pas facile, mais au final, le fait d’avoir réussi à rassembler trois-quatre jeux de données en une journée donne un aperçu de ce qu’il serait possible de faire sur une plus longue période.
+Le délai serré pour réaliser cette tâche montre qu’établir une politique globale d’open data nécessite la coopération de tous les agents et services. Lancer une campagne de data exploration n’est pas facile, mais au final, le fait d’avoir réussi à rassembler trois-quatre jeux de données en une journée donne un aperçu de ce qu’il serait possible de faire sur une plus longue période.
 
 
 L’évaluation de la mise en qualité des jeux de données a été importante afin d’établir un état des lieux de ce qui fonctionne et ce qui fonctionne moins, dans une perspective d’amélioration et de relance du chantier open data de Beauvais. Aussi, travailler autant sur la réactualisation d’un data set que sur l’ouverture d’un inédit permet d’avoir un bon aperçu des différents types de tâches et missions que les administrateurs de la commune pourront rencontrer lorsqu’ils débuteront une politique globale d’open data.
 
 
-**Livrables : **
-
-
-[Wanted Data List](https://drive.google.com/file/d/1EVW1F3DS1exZpF-VTNiOGMEdcHuI4PbB/view?usp=sharing)
+**Livrables :** [Wanted Data List](https://drive.google.com/file/d/1EVW1F3DS1exZpF-VTNiOGMEdcHuI4PbB/view?usp=sharing)
 
 
 ## JOUR 3 – MISE EN QUALITE
@@ -166,7 +160,7 @@ Concernant notre plus gros casse tête, notre équipe a été unanime. Ce que no
 Cette dernière remarque pourra ainsi être liée à ce que nous pouvons considérer comme notre plus grande réussite. Malgré ce manque de communication avec de nombreux services, nous avons tout de même collecté des informations de nature diverse (bases de données, documents explicatifs, informations dans les mails) que nous avons réuni dans un organigramme donné à notre référent. Cette cartographie des différents services et des jeux en leur possession a été complétée au fur et à mesure que nos requêtes aboutissaient (ou non), et permettra ainsi de grandement faciliter le travail de la commune quand celle-ci se lancera dans sa stratégie d’open data. De plus, l’objectif annoncé par notre référent lors de notre première réunion était de mettre en marche ce processus d’ouverture des données en commençant à solliciter les différents services. Nous pensons avoir réussi cet objectif, bien que nous ayons fait les frais de cette stratégie. Enfin, nous pensons également avoir réussi l’objectif de ce challenge puisque malgré de nombreuses difficultés nous sommes parvenues à publier deux jeux de données et à effectuer une visualisation allant de pair.  
 
 
-**Petits tips pour de futures éditions : **
+**Petits tips pour de futures éditions :**
 
 
 Votre site internet est vraiment super. Nous avons juste étaient un peu gênées par le fait que toutes les pages s’ouvraient sur un nouvel onglet (à la fin de la journée, cela devient vite compliqué) ainsi que par l’onglet « consulter » qui apparaît lorsque l’on clique sur une catégorie qui rajoute une étape non nécessaire. 
@@ -178,7 +172,7 @@ Concernant le challenge en général, un conseil serait de mieux préparer et in
 En effet, l’une des critiques majeures de ce challenge n’est pas la dose de travail demandé mais bien les temps de latence très importants au sein des journées. Dépendantes du bon vouloir de la commune, nous avons parfois passé des heures sans rien faire, ce qui est assez démoralisant pour toute l’équipe. Je pense qu’une meilleure préparation au sein des communes aurait permis de faire beaucoup plus de choses. Par exemple, dans notre cas, l’équipe de communication de la mairie n’étant pas informée du challenge data, nous n’avons pas pu la contacter et travailler avec pour notre stratégie de communication. Cela s’est ajouté à la faible quantité de données récoltées car les services n’étaient pas prêts à nous les fournir. 
 
 
-**Le mot de la fin : **
+**Le mot de la fin :**
 
 
 Encore une fois, merci ! Nous étions toutes inquiètes avant ce challenge car le domaine de la data nous était totalement inconnu et nous ne nous sentions pas légitimes à aider des communes. Grâce à votre aide, vos tutos, vos explications et votre accompagnement, tout s’est déroulé de manière fluide. Jamais une seule de nos questions n’est restée sans réponse, jamais aucun de nos problèmes n’a été ignoré. Nous pouvons désormais toutes affirmer que l’on sait comment ouvrir de la data et nous sommes désormais des reines de workbench et des bases de données. Merci pour ce challenge.
