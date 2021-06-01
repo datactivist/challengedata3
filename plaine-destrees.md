@@ -1,6 +1,8 @@
-Par Sofia B., Inès Khiar, Félix Anthonysamy, Vanille Baril, Sabrina Bouzembrak, Oumaima Karfaoui et Luna Behr
+# Carnet de bord de l'ouverture des données de la Plaine d'Estrées
+par Sofia B., Inès Khiar, Félix Anthonysamy, Vanille Baril, Sabrina Bouzembrak, Oumaima Karfaoui et Luna Behr
 
-Illustration : [https://github.com/datactivist/challengedata3/blob/main/images_cdb/laplainedestree.jpeg](https://github.com/datactivist/challengedata3/blob/main/images_cdb/laplainedestree.jpeg) 
+![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/laplainedestree.jpeg)
+
 
 
     **INTRODUCTION **
