@@ -1,6 +1,7 @@
-Par Léa Delroche, Carla Camilleri, Lauriane Canard, Juliette Dargnies, Cécile Demeude, Nicolas Royet, Théo Lesaunier. 
+# Carnet de bord de l'ouverture des données de Lens-Liévin
+par Léa Delroche, Carla Camilleri, Lauriane Canard, Juliette Dargnies, Cécile Demeude, Nicolas Royet, Théo Lesaunier
 
-illustration : [https://github.com/datactivist/challengedata3/blob/main/images_cdb/lenslievin.jpeg](https://github.com/datactivist/challengedata3/blob/main/images_cdb/lenslievin.jpeg) 
+![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/lenslievin.jpeg)
 
 
     **INTRODUCTION**
