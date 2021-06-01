@@ -120,10 +120,10 @@ La journée s’est conclue par un mail adressé à notre référent comportant 
 Bilan, dans l’ensemble, très positif pour cette journée puisque nous avons réussi à publier les jeux de données sans trop de problème et assez tôt. Le seul point noir à mentionner serait celui concernant la communication.
 
 
-Lieux de stationnement hors voirie du centre-ville de Beauvais : [https://www.data.gouv.fr/fr/datasets/r/3a65d821-93d2-420a-a280-488baf22cfcb](https://www.data.gouv.fr/fr/datasets/r/3a65d821-93d2-420a-a280-488baf22cfcb) 
+Lieux de stationnement hors voirie du centre-ville de Beauvais : [https://www.data.gouv.fr/fr/datasets/r/3a65d821-93d2-420a-a280-488baf22cfcb](https://www.data.gouv.fr/fr/datasets/lieux-de-stationnement-hors-voirie-du-centre-ville-de-beauvais/) 
 
 
-Borne de recharge des véhicules électriques à Beauvais : [https://www.data.gouv.fr/fr/datasets/r/bd1eabd4-f323-4932-a203-f7cd54e2797f](https://www.data.gouv.fr/fr/datasets/r/bd1eabd4-f323-4932-a203-f7cd54e2797f) 
+Borne de recharge des véhicules électriques à Beauvais : [https://www.data.gouv.fr/fr/datasets/r/bd1eabd4-f323-4932-a203-f7cd54e2797f](https://www.data.gouv.fr/fr/datasets/infrastructures-de-recharge-pour-vehicules-electriques-de-la-ville-de-beauvais-2018-2019/) 
 
 ## JOUR 5 – VALORISATION
 
@@ -142,6 +142,7 @@ Finalement, en effectuant quelques recherches personnelles nous avons pu ajouter
 
 Ainsi, nous avons créé une carte sur laquelle figure la localisation et toutes les informations nécessaires sur les bornes de recharge électrique, le stationnement hors voirie en centre-ville, le covoiturage et les parkings à vélo. Nous souhaitons mettre en avant la multimodalité à Beauvais afin de soutenir la transition écologique et le commerce local. A terme, cette carte pourrait être accessible sur l’application de la Ville de Beauvais, et permettre à la collectivité et aux investisseurs de cibler les zones où développer ce type d’infrastructures.
 
+[Lien vers la carte interactive](http://umap.openstreetmap.fr/fr/map/intermodalite-a-beauvais-carte-des-mobilites-douce_565072#15/49.4296/2.0927)
 
 **CONCLUSION**
 
