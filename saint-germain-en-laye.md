@@ -1,6 +1,8 @@
-Par Arthus P., Yohann gigarel, Maxence Thiard, M.M, Adrien D. et Pierre Bianco
+# Carnet de bord de l'ouverture des données 
+par Arthus P., Yohann gigarel, Maxence Thiard, M.M, Adrien D. et Pierre Bianco
 
-       Illustration : [https://github.com/datactivist/challengedata3/blob/main/images_cdb/saintgermainenlaye.JPG](https://github.com/datactivist/challengedata3/blob/main/images_cdb/saintgermainenlaye.JPG) 
+![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/saintgermainenlaye.JPG)
+
 
 
     **JOUR 1 – DIAGNOSTIC**
