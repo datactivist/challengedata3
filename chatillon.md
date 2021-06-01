@@ -109,7 +109,7 @@ Nous parvenons à joindre le service de la voierie de Châtillon qui nous demand
 **Nous parvenons à trouver une base de données sur les pistes cyclables en 2013 de toutes les communes du 92 (on filtre pour la commune de Châtillon)**
 
 
-→ **14h42 : autre réunion de crise avec Allyson **
+→ **14h42 : autre réunion de crise avec Allyson**
 
 
 **On élargit les recherches à des données qui ne sont pas comprises dans le palier 2**
@@ -127,7 +127,7 @@ On conserve les données des pistes cyclables en 2013
 • **Carte situant les pistes cyclables de la ville et les appuis vélos en septembre 2020**
 
 
-• **Document excel recensant 19 commerces de la ville de Châtillon MAIS beaucoup de données sont manquantes **
+• **Document excel recensant 19 commerces de la ville de Châtillon MAIS beaucoup de données sont manquantes**
 
 
 → **15h15 : réunion de crise avec Julia** 
@@ -154,7 +154,7 @@ Julia a eu notre référent au téléphone qui nous communique le numéro de té
 **→ 16h21 : brief rapide de la situation avec Allyson**
 
 
-**→ Tentative de récupération des données renseignées sur openstreetmap pour Châtillon**([https://www.openstreetmap.org/relation/4106484#map=17/48.79832/2.29056](https://www.openstreetmap.org/relation/4106484#map=17/48.79832/2.29056)) **par le biais du site géodatamine**(<span style="text-decoration:underline;">https://geodatamine.fr/</span>)
+**→ Tentative de récupération des données renseignées sur openstreetmap pour Châtillon** ([https://www.openstreetmap.org/relation/4106484#map=17/48.79832/2.29056](https://www.openstreetmap.org/relation/4106484#map=17/48.79832/2.29056)) **par le biais du site géodatamine** (<span style="text-decoration:underline;">https://geodatamine.fr/</span>)
 
 
 • Au départ les recherches ne donnent rien : quand on filtre avec “Châtillon”, la commune n’est pas retrouvée 
