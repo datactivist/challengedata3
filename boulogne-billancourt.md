@@ -1,6 +1,7 @@
-Par S.G, Aysel S., Aya Amour, Lucie L. et Anne-Marie
+# Carnet de bord de l'ouverture des données de Boulogne Billancourt
+par  S.G, Aysel S., Aya Amour, Lucie L. et Anne-Marie
 
-Illustration [https://github.com/datactivist/challengedata3/blob/main/images_cdb/boulognebillancourt.jpeg](https://github.com/datactivist/challengedata3/blob/main/images_cdb/boulognebillancourt.jpeg) 
+![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/boulognebillancourt.jpeg)
 
 
     **INTRODUCTION**
