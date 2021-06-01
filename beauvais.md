@@ -1,6 +1,8 @@
-Illustration : [https://github.com/datactivist/challengedata3/blob/ec2e2b3a6af969b13a6300a0e1f62c77fd8f925e/images_cdb/beauvais.JPG](https://github.com/datactivist/challengedata3/blob/ec2e2b3a6af969b13a6300a0e1f62c77fd8f925e/images_cdb/beauvais.JPG)
+# Carnet de bord de l'ouverture des données de Beauvais
+par A.A, Marie Alland, Emilie Delfosse, Emma Doutreligne, Lou-Anne Ducosse, Salome Thioubou et Lea VH 
 
-Par A.A, Marie Alland, Emilie Delfosse, Emma Doutreligne, Lou-Anne Ducosse, Salome Thioubou et Lea VH 
+![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/beauvais.JPG)
+
 
 
     **INTRODUCTION**
