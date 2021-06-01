@@ -4,19 +4,19 @@ par Emma Bert, Manon B., Elodie Collot, Emma Ponroy, Sacha Fontaine et Garance C
 ![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/eu.jpeg)
 
 
-    **JOUR 1 – DIAGNOSTIC**
+## JOUR 1 – DIAGNOSTIC
 
 
-    La ville de Eu est une commune française qui se situe dans le département de la Seine-Maritime en région Normandie. Elle appartient à l’intercommunalité dénommée la Communauté des Communes des Villes Soeurs. 
+La ville de Eu est une commune française qui se situe dans le département de la Seine-Maritime en région Normandie. Elle appartient à l’intercommunalité dénommée la Communauté des Communes des Villes Soeurs. 
 
 
-    Notre entretien téléphonique s’est déroulé avec notre interlocuteur, un responsable informatique. A l’issue de notre questionnaire, nous avons pu déterminer les objectifs à atteindre ainsi que les motivations qui ont poussé la commune à s’inscrire au Data Challenge. 
+Notre entretien téléphonique s’est déroulé avec notre interlocuteur, un responsable informatique. A l’issue de notre questionnaire, nous avons pu déterminer les objectifs à atteindre ainsi que les motivations qui ont poussé la commune à s’inscrire au Data Challenge. 
 
 
-    La municipalité de la commune de Eu est composée de 200 agents. A l’heure actuelle, **aucun service n’est dédié à la politique de l’Open Data**. En effet, le Challenge Data organisé en partenariat avec les étudiants de Sciences Po Saint-Germain constitue une occasion pour mettre en place un premier système de collecte de données et de pérenniser cette pratique sur le long terme. C**ertaines données sont déjà disponibles** sur le site de la ville, sur les réseaux sociaux (page Facebook) ainsi que via l’application de la commune. Cependant, elles s**e limitent pour la plupart du temps à des comptes-rendus municipaux et  n’ont pas été réalisées selon les critères gouvernementaux.**
+La municipalité de la commune de Eu est composée de 200 agents. A l’heure actuelle, **aucun service n’est dédié à la politique de l’Open Data**. En effet, le Challenge Data organisé en partenariat avec les étudiants de Sciences Po Saint-Germain constitue une occasion pour mettre en place un premier système de collecte de données et de pérenniser cette pratique sur le long terme. C**ertaines données sont déjà disponibles** sur le site de la ville, sur les réseaux sociaux (page Facebook) ainsi que via l’application de la commune. Cependant, elles s**e limitent pour la plupart du temps à des comptes-rendus municipaux et  n’ont pas été réalisées selon les critères gouvernementaux.**
 
 
-    Les difficultés à la mise en place d’un tel système sont notamment liées au **manque de temps et de moyens de la municipalité**. Notre interlocuteur insiste ainsi sur la volonté d’automatiser ces récoltes de données afin de fournir des services complets et efficaces aux administrés. A partir de ces informations, nous avons pu établir avec notre interlocuteur une liste des jeux de données les plus pertinents à traiter. Au vue de l’état peu avancé de la politique de l’Open Data dans la ville de Eu, nous nous sommes limités aux données de niveau 1 qui relèvent d’une obligation légale de publication : 
+Les difficultés à la mise en place d’un tel système sont notamment liées au **manque de temps et de moyens de la municipalité**. Notre interlocuteur insiste ainsi sur la volonté d’automatiser ces récoltes de données afin de fournir des services complets et efficaces aux administrés. A partir de ces informations, nous avons pu établir avec notre interlocuteur une liste des jeux de données les plus pertinents à traiter. Au vue de l’état peu avancé de la politique de l’Open Data dans la ville de Eu, nous nous sommes limités aux données de niveau 1 qui relèvent d’une obligation légale de publication : 
 
 
 
@@ -40,7 +40,8 @@ Le principal obstacle dans la prise de contact réside dans **la difficulté à 
 
 Nous avons à nouveau contacté de notre côté le service communication pour lui demander des fichiers Excel. Nous en avons profité pour lui demander de nouvelles bases de données sur les marchés publics et les équipements collectifs. Nous avons réclamé les bases de données disponibles concernant les actes civils depuis 2012 et avons souligné la nécessité d’avoir des détails concernant les délibérations (par exemple les “pour”, les “contre”, les abstentions). 
 
-          **JOUR 2 – IDENTIFICATION**
+
+## JOUR 2 – IDENTIFICATION
 
 Nous avons reçu hier soir 13 fichiers excel. Le recueil des actes administratifs mois par mois de l’année 2020 ainsi qu’une présentation du budget 2020.
 
@@ -80,73 +81,62 @@ Nous avons reçu des **fichiers pour le CA avec de nombreuses pages **pour rempl
 
 Pour les fichiers des élections, on nous dit qu’ils sont disponibles sur le site de la préfecture, mais nous avons besoin des détails par bureau de vote, une personne du service élection est donc censée nous les faire parvenir.
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image1.png "image_tooltip")
 
 
 
-    **JOUR 3 – MISE EN QUALITÉ**
+## JOUR 3 – MISE EN QUALITÉ
 
 
-    Nous commençons la journée en faisant un petit point sur les éléments manquant des différents jeux de données. Dès lors, nous nous répartissons les tâches. Elodie est chargée d’optimiser le workbench sur les délibérations et Manon recherche les données sur les élections présidentielles, prétendument présents sur le site du Ministère de l’Intérieur. Sacha et Emma B. traitent les données sur le budget primitif et Garance harmonise les noms de fichiers. Enfin,  Emma P. effectue une comparaison entre la base de données des équipements collectifs fournie par la ville et celle issue de l’INSEE dans le but d’une éventuelle fusion des deux sur le workbench. 
+Nous commençons la journée en faisant un petit point sur les éléments manquant des différents jeux de données. Dès lors, nous nous répartissons les tâches. Elodie est chargée d’optimiser le workbench sur les délibérations et Manon recherche les données sur les élections présidentielles, prétendument présents sur le site du Ministère de l’Intérieur. Sacha et Emma B. traitent les données sur le budget primitif et Garance harmonise les noms de fichiers. Enfin,  Emma P. effectue une comparaison entre la base de données des équipements collectifs fournie par la ville et celle issue de l’INSEE dans le but d’une éventuelle fusion des deux sur le workbench. 
 
 
-    Magalie a montré deux logiciels à Emma P. et Garance: OpenstreetMap et OSM data. Malheureusement, ces logiciels n’ont pas pu servir pour le traitement des données de géolocalisation dans la mesure où les informations sur le ville de Eu étaient incomplètes. Emma P. et Garance ont alors cherché les équipements au fur et à mesure dans Google Maps dans l’espoir de trouver les adresses, et donc les coordonnées géographiques. Il demeure 12 coordonnées introuvables, nous appellerons à la réouverture de la mairie à 13h30 pour tenter de collecter les informations manquantes. 
+Magalie a montré deux logiciels à Emma P. et Garance: OpenstreetMap et OSM data. Malheureusement, ces logiciels n’ont pas pu servir pour le traitement des données de géolocalisation dans la mesure où les informations sur le ville de Eu étaient incomplètes. Emma P. et Garance ont alors cherché les équipements au fur et à mesure dans Google Maps dans l’espoir de trouver les adresses, et donc les coordonnées géographiques. Il demeure 12 coordonnées introuvables, nous appellerons à la réouverture de la mairie à 13h30 pour tenter de collecter les informations manquantes. 
 
 
-    Emma P. a contacté le service communication et elles ont pu ensemble corriger et remplir les coordonnées géographiques des équipements collectifs publics. Ce fut compliqué car beaucoup d'indications de Google Maps étaient erronées ou inexistantes. Enfin, nous avons pu compléter le workbench des équipements. Ensuite, Garance et Emma P. ont tenté de contacter le service communication ou toute personne pouvant détenir des informations sur les subventions car il manque toujours beaucoup de données. Malheureusement, personne n’était disponible et nous allons devoir nous rappeler demain.  
+Emma P. a contacté le service communication et elles ont pu ensemble corriger et remplir les coordonnées géographiques des équipements collectifs publics. Ce fut compliqué car beaucoup d'indications de Google Maps étaient erronées ou inexistantes. Enfin, nous avons pu compléter le workbench des équipements. Ensuite, Garance et Emma P. ont tenté de contacter le service communication ou toute personne pouvant détenir des informations sur les subventions car il manque toujours beaucoup de données. Malheureusement, personne n’était disponible et nous allons devoir nous rappeler demain.  
 
 
-    Elodie a nettoyé et standardisé le jeu de données sur les délibérations avec la nomenclature notamment. Pour l’ID, elle est dans l’attente de la préfecture, qu’elle a contactée antérieurement. On sait désormais que les votes sont des données optionnelles, comme indiqué sur le document standard. Cependant, un problème persiste, celui du budget car les données devraient supposément être optionnelles mais il apparaît que l’on ne peut pas valider le jeu de données sans elle. Nous avons ensuite appelé une responsable des finances qui n’avait pas plus d'informations. La contrôleuse de gestion n’était pas disponible le mercredi non plus. 
+Elodie a nettoyé et standardisé le jeu de données sur les délibérations avec la nomenclature notamment. Pour l’ID, elle est dans l’attente de la préfecture, qu’elle a contactée antérieurement. On sait désormais que les votes sont des données optionnelles, comme indiqué sur le document standard. Cependant, un problème persiste, celui du budget car les données devraient supposément être optionnelles mais il apparaît que l’on ne peut pas valider le jeu de données sans elle. Nous avons ensuite appelé une responsable des finances qui n’avait pas plus d'informations. La contrôleuse de gestion n’était pas disponible le mercredi non plus. 
 
 
-    En ce qui concerne les résultats des élections présidentielles, différents agents de la mairie nous ont indiqué que les résultats étaient disponibles sur internet et qu'ils n'avaient pas d'autres données que celles-ci. Manon a donc dû les trouver sur le site internet du Ministère de l'Intérieur, en cliquant sur le département de la Seine-Maritime puis en cherchant la commune de EU ([https://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles/elecresult__presidentielle-2017/(path)/presidentielle-2017/028/076/076255.html](https://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles/elecresult__presidentielle-2017/(path)/presidentielle-2017/028/076/076255.html) ). Il a ensuite fallu extraire les données du site et créer 4 fichiers EXCEL pour les y inscrire (un tableau pour la répartition des suffrages entre les candidats et un tableau pour la participation pour chacun des deux tours) et transférer le tout sur Workbench. Malheureusement, il n’y a pas assez de données disponibles. Néanmoins, Magalie a remarqué que dans le template, toutes les communes faisaient l’objet d’une ligne et que celle de la ville de EU devait également en avoir une. Ne réussissant pas à avoir accès au fichier d’origine du template, elle a renvoyé Manon vers Arthur qui devait avoir cette information et qui a pu remettre le fichier national d’origine. Manon a supprimé toutes les autres communes de France du fichier pour ne garder que la ligne concernant la commune de EU.
+En ce qui concerne les résultats des élections présidentielles, différents agents de la mairie nous ont indiqué que les résultats étaient disponibles sur internet et qu'ils n'avaient pas d'autres données que celles-ci. Manon a donc dû les trouver sur le site internet du Ministère de l'Intérieur, en cliquant sur le département de la Seine-Maritime puis en cherchant la commune de EU ([https://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles/elecresult__presidentielle-2017/(path)/presidentielle-2017/028/076/076255.html](https://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles/elecresult__presidentielle-2017/(path)/presidentielle-2017/028/076/076255.html) ). Il a ensuite fallu extraire les données du site et créer 4 fichiers EXCEL pour les y inscrire (un tableau pour la répartition des suffrages entre les candidats et un tableau pour la participation pour chacun des deux tours) et transférer le tout sur Workbench. Malheureusement, il n’y a pas assez de données disponibles. Néanmoins, Magalie a remarqué que dans le template, toutes les communes faisaient l’objet d’une ligne et que celle de la ville de EU devait également en avoir une. Ne réussissant pas à avoir accès au fichier d’origine du template, elle a renvoyé Manon vers Arthur qui devait avoir cette information et qui a pu remettre le fichier national d’origine. Manon a supprimé toutes les autres communes de France du fichier pour ne garder que la ligne concernant la commune de EU.
 
 
-    Sacha et Emma B. traitent les données sur le budget primitif à l’aide de deux bases de données : le budget primitif et le compte administratif. Ils ont traduit et croisé les données sur un fichier excel lui-même basé sur le template exemple du WorkBench, afin de créer la base de données finale du budget primitif. Ce fut très long et difficile et ils ne sont pas certains de pouvoir terminer à collecter toutes les données demandées par l’exemple du benchwork 
+Sacha et Emma B. traitent les données sur le budget primitif à l’aide de deux bases de données : le budget primitif et le compte administratif. Ils ont traduit et croisé les données sur un fichier excel lui-même basé sur le template exemple du WorkBench, afin de créer la base de données finale du budget primitif. Ce fut très long et difficile et ils ne sont pas certains de pouvoir terminer à collecter toutes les données demandées par l’exemple du benchwork 
 
 
-    _Subventions : [https://app.workbenchdata.com/workflows/132558](https://app.workbenchdata.com/workflows/132558) _
+_Subventions : [https://app.workbenchdata.com/workflows/132558](https://app.workbenchdata.com/workflows/132558) _
 
 
-    _marché public : [https://app.workbenchdata.com/workflows/132553](https://app.workbenchdata.com/workflows/132553) _
+_marché public : [https://app.workbenchdata.com/workflows/132553](https://app.workbenchdata.com/workflows/132553) _
 
 
-    _elections présidentielles : [https://app.workbenchdata.com/workflows/132916/](https://app.workbenchdata.com/workflows/132916/) _
+_elections présidentielles : [https://app.workbenchdata.com/workflows/132916/](https://app.workbenchdata.com/workflows/132916/) _
 
 
-    _equipements : [https://app.workbenchdata.com/workflows/132666/](https://app.workbenchdata.com/workflows/132666/) _
+_equipements : [https://app.workbenchdata.com/workflows/132666/](https://app.workbenchdata.com/workflows/132666/) _
 
 
-    _Délibérations (terminé) [https://app.workbenchdata.com/workflows/132599/](https://app.workbenchdata.com/workflows/132599/) _
+_Délibérations (terminé) [https://app.workbenchdata.com/workflows/132599/](https://app.workbenchdata.com/workflows/132599/) _
 
 
-    _Budget primitif: _
-
-
-    
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+_Budget primitif: _
 
 ![alt_text](images/image2.png "image_tooltip")
 
 
 
-    **JOUR 4 – PUBLICATION**
+## JOUR 4 – PUBLICATION
 
 
-    Afin de faire valider les bases de données et les fiches descriptives liées, nous devons aujourd’hui prendre rendez-vous avec notre interlocuteur, et voir avec lui pour créer un compte sur data. gouv, car il faut créer le compte avec ce dernier en tant qu’administrateur. Manon se charge donc d’appeler et prend rdv pour 14H. D’ici là nous souhaitons avoir standardisé toutes les questions et bases de données que nous avons en notre possession. Manon doit exporter le fichier élection et faire la fiche descriptive.
+Afin de faire valider les bases de données et les fiches descriptives liées, nous devons aujourd’hui prendre rendez-vous avec notre interlocuteur, et voir avec lui pour créer un compte sur data. gouv, car il faut créer le compte avec ce dernier en tant qu’administrateur. Manon se charge donc d’appeler et prend rdv pour 14H. D’ici là nous souhaitons avoir standardisé toutes les questions et bases de données que nous avons en notre possession. Manon doit exporter le fichier élection et faire la fiche descriptive.
 
 
 
 *   Emma m’informe qu’elle a en sa possession deux bases de données **équipements** **collectifs publics**: mais seule celle de l’INSEE est conforme avec validata. Emma et Garance ont donc dû chercher les adresses manquantes sur google maps pour le fichier équipements collectifs** **fournis par la commune** **car il y avait parfois des points de localisation sans les noms de rue.
 
-    Cependant le fichier de la commune va quand même être publié car il reste intéressant pour les communes d’avoir certaines informations (des géo-localisations par exemple). Il faut donc que nous fassions valider la base de données** équipements collectifs publics. **De nombreuses difficultés sont apparues sur le workbench car il a fallu rajouter la colonne SIRET sans laquelle on ne peut pas passer par le logiciel validata et ce fut très long car pour le valider il fallait rajouter une colonne en faisant du codage python. Au final bien une bonne validation par validata. YOUHOU !
+Cependant le fichier de la commune va quand même être publié car il reste intéressant pour les communes d’avoir certaines informations (des géo-localisations par exemple). Il faut donc que nous fassions valider la base de données** équipements collectifs publics. **De nombreuses difficultés sont apparues sur le workbench car il a fallu rajouter la colonne SIRET sans laquelle on ne peut pas passer par le logiciel validata et ce fut très long car pour le valider il fallait rajouter une colonne en faisant du codage python. Au final bien une bonne validation par validata. YOUHOU !
 
 *   Sacha a appelé ce matin le service des finances pour obtenir des précisions sur le budget. Sacha et Emma se sont rendu compte que l’exemple qu’ils ont utilisé du template de Bordeaux est de mauvaise qualité comparativement à une base de donnée mais ça ne leur change pas trop car ils ont rentré toutes les données. Ils doivent cependant renommer certains noms de colonnes à partir du standard fourni par datagouv. Au final bonne validation par Validata.
 *   Au sujet du Workflow créé pour les **élections présidentielles,** Manon s’est rendue compte que le format disponible dans l’onglet “Template” - qui normalement est le format standardisé - ne correspondait pas aux standards du site data.gouv.fr. Il aurait donc fallu refaire le travail d’hier pour obtenir un jeu de données standardisé. Finalement, nous avons abandonné cette base de données car le template était faux et pas le temps de continuer. De même sur les marchés publics, nous n’avons pas reçu les données complètes.
@@ -159,42 +149,44 @@ Pour les fichiers des élections, on nous dit qu’ils sont disponibles sur le s
 *   Sur l’application, nous identifions un système d'alerte et une info très brève. (par exemple est utilisé pour l’actu : un accident, une grosse coupure de courant..etc.) Nous avons proposé à la personne du service communication d’intégrer à l’application la cartographie. En effet, pour le jeu de données des équipements, Emma et Garance ont dû créer une cartographie des repères et lieux principaux de la ville.
 *   Il y existe également un compte twitter utilisé par l’adjoint à la culture, plus utilisé pour la politique. Nous avons également évoqué de communiquer l’action OPENDATA en conférence de presse avec le maire. Ces informations nous permettent de définir les matériaux de communication que nous avons produits et nous ont aidés à séquencer les différentes phases de la communication open data.
 
-    Nous pouvons la contacter demain à partir de midi pour lui communiquer le plan de com.
+Nous pouvons la contacter demain à partir de midi pour lui communiquer le plan de com.
 
 
-    **Prélancement** : informer le service communication, les élus, le maire + leur  expliciter les bénéfices politiques pour qu’ils les communiquent 
+**Prélancement** : informer le service communication, les élus, le maire + leur  expliciter les bénéfices politiques pour qu’ils les communiquent 
 
 
 **Lancement **: communication spontanée politique et informationnelles (réseaux)
 
 
-    Trois axes politiques (twitter et facebook) : transparence politique, améliorer l'information sur la ville pour faciliter l’accès des services aux citoyens; innovation technique dans l’air du temps.
+Trois axes politiques (twitter et facebook) : transparence politique, améliorer l'information sur la ville pour faciliter l’accès des services aux citoyens; innovation technique dans l’air du temps.
 
 
-    Session d’information publique : facebook twitter et l’application = informer de la publication (avec liens vers les explications)
+Session d’information publique : facebook twitter et l’application = informer de la publication (avec liens vers les explications)
 
 
 
 *   Il existe aussi tous les deux mois un bulletin municipal (la on va pouvoir développer et expliciter car pas n’est pas limité en terme de caractère). 
 *   Usage des journaux : deux quotidiens et un hebdomadaire sur le secteur de la ville. Pour les plus curieux, acheter la presse, ou lire le site de la ville. 
 
-    Linkedin = explications avec avantage pour les milieux d’affaires….. 
+Linkedin = explications avec avantage pour les milieux d’affaires….. 
 
 
-        =conférence de presse du maire pour expliquer la démarche 
+=conférence de presse du maire pour expliquer la démarche 
 
 
-            = explication des enjeux et détails sur site de la villes et journaux d’info : explications par les quotidiens des enjeux d’open data et de la raison de la démarche
+= explication des enjeux et détails sur site de la villes et journaux d’info : explications par les quotidiens des enjeux d’open data et de la raison de la démarche
 
 
-            = Publication des données/ mise en avant pour montrer leur avantages= visu avec cette mise en avant sur les réseaux. 
+= Publication des données/ mise en avant pour montrer leur avantages= visu avec cette mise en avant sur les réseaux. 
 
 
 **Post lancement **: évaluation 
 
 Manon a envoyé le plan de communication au service dédié.
 
-**JOUR 5 – VALORISATION**
+
+
+## JOUR 5 – VALORISATION
 
 Dans un premier temps, il nous a fallu terminer les étapes d’hier.
 
@@ -215,7 +207,7 @@ Comme deux de nos datavisualisations ont été réalisées via Excel, il nous a 
 Elodie a publié sur le site Data.Gouv nos trois réutilisations. Elle souligne que les modifications sont lentes à effectuer sur le compte Data.Gouv : il y a une certaine latence avant qu’une modification soit effective. Ainsi, des fichiers qu’elle avait supprimés ne se supprimaient pas tout de suite, elle devait renouveler l’opération. 
 
 
-    **CONCLUSION**
+**CONCLUSION**
 
 Après une semaine intense, nous avons réussi à ouvrir 3 jeux de données. La principale difficulté à l’ouverture de ces jeux a été d’obtenir assez d'informations, celle demandée obligatoirement dans les templates. Or il est difficile d’obtenir les bons jeux de données, les données étant dispatchés dans différents services. Les collectivités tiennent des jeux de données de manière pratique sans forcément se poser la question de leur uniformité, sans les centraliser, ni tout regrouper.Certains jeux n'existent tout simplement pas en tant que tel. Notre collectivité étant petite, elle est d’autant plus encline à moins faire attention à la question des datas, et à se concentrer sur le côté pratique par manque de temps et de personnel formé. Il y a personne qui s’occupe en particulier des données.  De plus, il semble que les services travaillent avec un logiciel qui centralise les informations seulement en PDF. Il n'est donc pas évident d’avoir accès à des fichiers excels. Ces données PDF sont donc inutilisables. 
 
