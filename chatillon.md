@@ -188,7 +188,7 @@ Il se charge de rappeler le responsable des arceaux.
 **→ 17h45 : Xème réunion de crise avec Allyson et Arthur  qui nous rassurent**
 
 
-**JOUR 3 – MISE EN QUALITE**
+## JOUR 3 – MISE EN QUALITE
 
 
 **9h** : réunion générale avec Allyson pour expliquer le programme de la journée liée au traitement de données.
