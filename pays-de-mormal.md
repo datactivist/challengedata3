@@ -1,7 +1,7 @@
 # Carnet de bord de l'ouverture des données du Pays de Mormal
 par Mathilde Trocellier, Anna Wimmer, Evans Le Person, Etienne Arsac et W.B
 
-![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/paysdemormal.JPG)
+![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/paysdemormal.jpeg)
 
 
     **JOUR 1 – DIAGNOSTIC**
