@@ -1,6 +1,7 @@
-Par Emma Bert, Manon B., Elodie Collot, Emma Ponroy, Sacha Fontaine et Garance Colette
+# Carnet de bord de l'ouverture des données de la Ville d'Eu
+par Emma Bert, Manon B., Elodie Collot, Emma Ponroy, Sacha Fontaine et Garance Colette
 
-Illustration : [https://github.com/datactivist/challengedata3/blob/main/images_cdb/eu.jpeg](https://github.com/datactivist/challengedata3/blob/main/images_cdb/eu.jpeg) 
+![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/eu.jpeg)
 
 
     **JOUR 1 – DIAGNOSTIC**
