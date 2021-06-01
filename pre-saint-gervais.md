@@ -1,6 +1,7 @@
-Par emma Thuy jomary, Marie Lacourty, Arthur Maimbourg, Daniel Dobias, Clothilde Borel et Alix Cariou
+# Carnet de bord de l'ouverture des données 
+par Emma Thuy jomary, Marie Lacourty, Arthur Maimbourg, Daniel Dobias, Clothilde Borel et Alix Cariou
 
-Illustration : [https://github.com/datactivist/challengedata3/blob/main/images_cdb/presaintgervais.jpeg](https://github.com/datactivist/challengedata3/blob/main/images_cdb/presaintgervais.jpeg) 
+![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/presaintgervais.jpeg)
 
 
         **JOUR 1 – DIAGNOSTIC**
