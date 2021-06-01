@@ -1,6 +1,7 @@
-Par Clémence F., Yannis Foulquier, Jérémy Grunner, Paul-Alexis Reynaud et Manon Cabanes
+# Carnet de bord de l'ouverture des données de Neuville-saint-Remy
+par Clémence F., Yannis Foulquier, Jérémy Grunner, Paul-Alexis Reynaud et Manon Cabanes
 
-Illustration : [https://github.com/datactivist/challengedata3/blob/main/images_cdb/neuvillesaintremy.JPG](https://github.com/datactivist/challengedata3/blob/main/images_cdb/neuvillesaintremy.JPG) 
+![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/neuvillesaintremy.JPG)
 
 
     **JOUR 1 – DIAGNOSTIC**
