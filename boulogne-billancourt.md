@@ -49,16 +49,11 @@ Après ce constat, nous nous sommes penchés sur la wishlist déjà préparée p
 ## JOUR 2 – IDENTIFICATION
 
 
-    
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.jpg "image_tooltip")
+![cafe_croissant](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb07_01.png)
 
 
-
-_Nos indispensables de la semaine : thé, café et croissants (merci S.G) _
+Nos indispensables de la semaine : thé, café et croissants (merci S.G) 
 
 
 Pour commencer par du positif, nous nous sommes beaucoup mieux sentis aujourd’hui qu’hier. Si hier nous avions l’impression d’être un peu perdus, de ne pas trop savoir quoi faire, aujourd’hui nous avons su mettre en place une vraie organisation et comprendre le sens de nos actions. 
@@ -76,7 +71,7 @@ Après la réunion, nous sommes repartis en phase de dataexploration pour les do
 Nous avons donc pu proposer à la maire une liste réduite des thèmes qui nous semble pertinents à garder dans la wanted data list. Nous validons les emprunts de livres et les lieux de stationnements, et leur proposons de choisir entre permis de construire et DAE, qui demandent tous deux un grand travail de complétion. Nous attendons confirmation de leur part.
 
 
-[Free mind map (mindmup.com)](https://app.mindmup.com/map/_free/2021/02/9536ceb0729611eba5ce8590888743c1)
+[Organigramme Free mind map (mindmup.com)](https://app.mindmup.com/map/_free/2021/02/9536ceb0729611eba5ce8590888743c1)
 
 
 ## JOUR 3 – MISE EN QUALITÉ
