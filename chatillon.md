@@ -1,6 +1,8 @@
-Par Erell Le Pape, Agathe L., Tsoline S., E.B, Clara R. et Juliette Raynal
+# Carnet de bord de l'ouverture des données de Châtillon
+par Erell Le Pape, Agathe L., Tsoline S., E.B, Clara R. et Juliette Raynal
 
-Illustration : [https://github.com/datactivist/challengedata3/blob/main/images_cdb/chatillon.jpeg](https://github.com/datactivist/challengedata3/blob/main/images_cdb/chatillon.jpeg) 
+![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/chatillon.jpeg)
+
 
 
         **JOUR 1 – DIAGNOSTIC**
