@@ -377,7 +377,7 @@ Voici le lien du plan de communication.
 18h : nous recevons un mail d’une adjointe de la mairie nous donnant une toute petite carte avec quelques lieux de stationnement et quelques parkings à vélo mais aucun jeu de données. 
 
 
-**JOUR 5 – VALORISATION**
+## JOUR 5 – VALORISATION
 
 
 9h : réunion avec Julia et présentation de la journée. 
