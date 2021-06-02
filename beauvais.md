@@ -37,6 +37,7 @@ Conscientes que la semaine ne nous permettra pas de tout traiter nous avons pu �
 
 Pour conclure sur cette journée de diagnostic, nous bénéficions d’un contact réactif et impliqué au sein de la commune de Beauvais. Nous découvrons également petit à petit les enjeux de l’ouverture de ces données. Enfin, les tâches du premier jour ont toutes été réalisées avant 17h ce qui nous permet de prendre de l’avance et de nous pencher sur les tutoriels du jour 2.
 
+![wishlist](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb01_07.png)
 
 **Livrable :**  [Whishlist](https://drive.google.com/file/d/1EVW1F3DS1exZpF-VTNiOGMEdcHuI4PbB/view?usp=sharing) 
 
