@@ -16,7 +16,18 @@ Une fois tout le monde réuni, nous avons pu faire la connaissance de tous les m
 Nous sommes donc tous très enthousiastes à l’idée de concrétiser ce projet, mais n’avons pour l’instant aucune certitude sur les choix de la commune. Nous sommes dans l’attente de la réponse de Mme Roux afin de pouvoir commencer à rechercher les données exploitables à partir de demain. C’est une difficulté et une source d’inquiétude pour notre groupe : Mme Roux a tenu à ce qu’elle centralise nos demandes, et non pas à ce que nous contactions nous mêmes les services concernés. Ce n’est pas un problème en soi, et pourrait même paraître plus simple, cependant Mme Roux nous a indiqué être absente demain, mardi. Nous espérons donc qu’elle puisse nous envoyer au plus vite la wishlist finalisée afin que nous puissions commencer nos recherches. 
 
 
-Voici, à ce jour, les thèmes que nous avons relevé et que nous avons récapitulé par mail à Mme Roux : 
+Voici, à ce jour, les thèmes que nous avons relevés et que nous avons récapitulés par mail à Mme Roux : 
+* Budget primitif : autorisations de programmes et crédits de paiements
+* Marchés publics : critères sociaux/environnementaux
+* Marchés publics : critères de genre et de promotions
+* Associations
+* Espaces verts : arbres
+* Etablissements d'accueil petite enfance et écoles
+* Actes d'état civil
+* Prénoms des nouveaux nés
+* Monuments historiques : petit patrimoine
+* Eclairage public
+* Médiathèque
 
 
 **JOUR 2 – IDENTIFICATION**
@@ -31,6 +42,7 @@ Notre recherche a porté sur les dix jeux de données que souhaite ouvrir Baugé
 
 Nous avons constitué cet organigramme des données avec une carte mentale. Cette carte mentale permet de savoir vers quel service et quelle personne se tourner pour pouvoir avoir accès à tel ou tel jeu de données. Après avoir créé de grandes catégories pour indiquer les services, nous avons ajouté d’autres données sur les branches comme les noms des responsables présents au sein d’une direction, en plus du nom du directeur ou de la directrice de cette direction. Madame Roux nous avait fourni les adresses courriels de toutes les personnes à contacter pour obtenir ces jeux de données, ce qui a permis de réaliser cet organigramme relativement facilement. Nous n’avons pas éprouvé de difficulté particulière à constituer l’organigramme. 
 
+[![Organigramme des données](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_02.png)](https://datactivist.coop/challengedata3/armentieres)
 
 ***2.3 Évaluer le travail de mise en qualité***
 
