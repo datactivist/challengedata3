@@ -5,7 +5,7 @@ par Sofia B., Inès Khiar, Félix Anthonysamy, Vanille Baril, Sabrina Bouzembrak
 
 
 
-**INTRODUCTION **
+**INTRODUCTION**
 
 
 Le déploiement du numérique au sein des collectivités territoriales conduit à une numérisation des pratiques et activités. Le volume de données produites chaque jour ne fait qu’augmenter, et il est donc essentiel de les collecter, classer et rassembler afin de pouvoir les exploiter.  La dynamique d’ouverture des données s’est institutionnalisée en France dès la Révolution. L’article 15 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 établit que : “La société est en droit de demander compte à tout agent public de son administration“. La puissance publique, tenue au respect de la transparence démocratique, a mis en place depuis 2015 une politique d’ouverture des données aux citoyens. L’Open data désigne donc l’effort des institutions, ou collectivités qui partagent librement les données dont elles disposent. Ce partage répond à certains critères clés comme la gratuité ou la publication dans des formats ouverts permettant l’exploitation et la réutilisation des données. Ces données publiques doivent respecter les réglementations en vigueur concernant la protection des données personnelles ( RGPD ) . 
@@ -32,7 +32,8 @@ La maturité en open data de la Plaine d'Estrées est de niveau 2. Il n'existe p
 Notre travail d'aujourd'hui peut se résumer comme suit : contact facile et rapide avec notre interlocuteur, bonne organisation au sein du groupe, prise de conscience du besoin profond de la collectivité en terme d'open data (très peu avancée sur le sujet, même si notre interlocuteur semble y être sensible).
 
 
-Wishlist : 
+**Livrable :**  [Whishlist](https://drive.google.com/file/d/18YBmDN0Ia5EFGbpximdd3yO0xLB4TrQx/view?usp=sharing) 
+
 
 
 
@@ -54,16 +55,10 @@ Nous avons notifié Magalie de nos difficultés : elle nous a conseillé d’eff
 Notre travail d’aujourd’hui peut être résumé de la façon suivante : contacts difficiles avec les personnes concernées par les différents jeux de données, mais la disponibilité et l’aide de notre interlocuteur et de Magalie nous ont permi de parvenir à créer une base de données pertinente, même si cette dernière est moins riche que ce que nous avions prévu. Nous avions prévu certaines difficultés ( notamment en partant du constat que la collectivité n’est pas du tout renseignée sur l’OpenData ), mais nous avons réussi à les appréhender, et à fournir un travail correct et complet sur cette deuxième journée.
 
 
-Wish List Open Data : 
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
 Organigramme : 
 
 
-![alt_text](images/image2.png "image_tooltip")
+![Organigramme](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_03.png)
 
 
 
@@ -98,42 +93,27 @@ Bilans des traitements exportés depuis Workbench
 
 
 
-*   **Jeu de données Base commerce **
+*   **Jeu de données Base commerce**
+
+![Base_commerce](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_04.png)
 
 
-![alt_text](images/image3.png "image_tooltip")
 
+*   **Jeu de données Aménagements cyclables**
 
-*   **Jeu de données Aménagements cyclables **
-
+![Base_commerce](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_05.png)
 	
 
-![alt_text](images/image4.png "image_tooltip")
-	
 
+*   **Jeu de données Lieux de covoiturage**
 
-![alt_text](images/image5.png "image_tooltip")
-
+![Base_commerce](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_06.png)
 
 
 
-*   **Jeu de données Lieux de covoiturage **
+*   **Jeu de données Délibérations**
 
-![alt_text](images/image6.png "image_tooltip")
-
-![alt_text](images/image7.png "image_tooltip")
-	
-
-![alt_text](images/image8.png "image_tooltip")
-
-
-![alt_text](images/image9.png "image_tooltip")
-
-
-*   **Jeu de données Délibérations **
-
-
-![alt_text](images/image10.png "image_tooltip")
+![Base_commerce](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_07.png)
 
 
 
@@ -240,17 +220,30 @@ Nous avons ensuite publié nos datavisualisations sur le site dagouv.fr.
 
 Déliberations: [https://static.data.gouv.fr/resources/la-plaine-destrees-deliberations/20210219-184032/graphique-deliberations.jpg](https://static.data.gouv.fr/resources/la-plaine-destrees-deliberations/20210219-184032/graphique-deliberations.jpg) 
 
+![delib](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_08.png)
+
 
 Nombre d’amenagements cyclables par codes postaux: [https://static.data.gouv.fr/resources/la-plaine-destrees-amenagementscyclables/20210219-184602/graphique-amenagement-pistes-cyclables.jpg](https://static.data.gouv.fr/resources/la-plaine-destrees-amenagementscyclables/20210219-184602/graphique-amenagement-pistes-cyclables.jpg) 
+
+![delib](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_09.png)
 
 
 [http://umap.openstreetmap.fr/fr/map/la-plaine-destrees-visualisations-des-data_565135#12/49.3987/2.7225](http://umap.openstreetmap.fr/fr/map/la-plaine-destrees-visualisations-des-data_565135#12/49.3987/2.7225)  
 
-
-Les jeux de données suivant apparaissent dans les differents calques de la carte interactive qui se trouve sur le lien [http://umap.openstreetmap.fr/fr/map/la-plaine-destrees-visualisations-des-data_565135#12/49.4600/2.6982](http://umap.openstreetmap.fr/fr/map/la-plaine-destrees-visualisations-des-data_565135#12/49.4600/2.6982) 
-
-
-Lieux de covoiturage: 							Équipements collectifs publics										
+![delib](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_10.png)
 
 
-Base horaires des administrations: 						Base commerce: 
+Les jeux de données suivants apparaissent dans les differents calques de la carte interactive qui se trouve sur le lien [http://umap.openstreetmap.fr/fr/map/la-plaine-destrees-visualisations-des-data_565135#12/49.4600/2.6982](http://umap.openstreetmap.fr/fr/map/la-plaine-destrees-visualisations-des-data_565135#12/49.4600/2.6982) 
+
+
+Lieux de covoiturage: 							
+![delib](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_11.png)
+
+Équipements collectifs publics										
+![delib](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_12.png)
+
+Base horaires des administrations: 						
+![delib](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_13.png)
+
+Base commerce: 
+![delib](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_40.png)
