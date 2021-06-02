@@ -37,6 +37,8 @@ Nous avons reçu les premiers jeux de données, lesquels sont difficilement lisi
 
 Prendre connaissance des jeux de données et des champs d’analyse. notre référente nous a prévenus que nous devions rassembler les bases de données du 76 (Seine Maritime) et du 80 (Somme). Il faudra que nous fusionnions les deux bases de données. 
 
+![wishlist](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb06_01.png)
+
 **Livrable :**  [Whishlist](https://drive.google.com/file/d/1SRM1S5M4gpKD5R9A6jrH2fkGSJXiuZA9/view?usp=sharing) 
 
    
@@ -75,6 +77,8 @@ Nous avons rencontré quelques difficultés sur Workbench, notamment parce que n
 Il a été décidé avec notre référente de ne pas travailler sur les données Patrimoines naturel et culturel car cela n’était pas jouable en termes de temps. La décision a été prise de nous concentrer exclusivement sur les hébergements, afin de rendre un travail qualitatif et en prévision de la création d’une map des hébergements, vendredi. 
 
 L’organigramme a été plutôt simple à établir. Nous n’avons en effet pas eu besoin de contacter nous-mêmes différents services. Notre référente avait accès aux jeux de données qu’elle nous a ensuite aimablement partagés. Elle nous a partagé un contact que nous contacterons mercredi afin d’avoir de plus amples informations.  
+
+![organigramme](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb06_02.png)
 
 [Lien vers l’organigramme](https://app.mindmup.com/map/_free/2021/02/2366eef070fc11eb9b9ef934d234be45)
 
