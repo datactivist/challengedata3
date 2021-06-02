@@ -25,10 +25,7 @@ En effet, nous avons pu adapter les jeux de données en **filtrant le catalogue 
 Comme nous avions encore un peu de temps à notre disposition avant que les bureaux ne ferment, nous avons décidé de prendre un peu d'avance le lendemain et de commencer à appeler certains services. Nous avons tout d’abord demandé à Allyson si cela était possible, et il nous a répondu enthousiasmé que oui. Mais nous n’avons malheureusement pas réussi à les joindre par téléphone. Tous les 6, nous nous sommes alors mis d’accord sur un mail-type correct à envoyer aux différents services afin de leur demander de nous transmettre leurs jeux de données.  Nous espérons donc recevoir demain matin dès que possible, la majorité des  jeux de données par mail. 
 
 
-Lien de la WishList établie : 
-
-
-[https://drive.google.com/file/d/1niJstutWhfzZqpXZ_XVxaY1ZRBJs63iS/view?usp=sharing](https://drive.google.com/file/d/1niJstutWhfzZqpXZ_XVxaY1ZRBJs63iS/view?usp=sharing) 
+Lien de la WishList établie : [https://drive.google.com/file/d/1niJstutWhfzZqpXZ_XVxaY1ZRBJs63iS/view?usp=sharing](https://drive.google.com/file/d/1niJstutWhfzZqpXZ_XVxaY1ZRBJs63iS/view?usp=sharing) 
 
 
 ## JOUR 2 – IDENTIFICATION
@@ -54,8 +51,6 @@ Pour terminer la journée, nous avons fait le bilan de l’évaluation des jeux 
 
 Organigramme : [https://app.mindmup.com/map/new/1613474855914?fbclid=IwAR2ivit4GTjWF7lMuUv3xPo5t2JKUrDLsAxkx0Cm_E7uclC2eGMEXx0Y9AM](https://app.mindmup.com/map/new/1613474855914?fbclid=IwAR2ivit4GTjWF7lMuUv3xPo5t2JKUrDLsAxkx0Cm_E7uclC2eGMEXx0Y9AM)
 
-
-Evaluation des données + wanted data list  : [https://docs.google.com/document/d/1niJstutWhfzZqpXZ_XVxaY1ZRBJs63iS/edit](https://docs.google.com/document/d/1niJstutWhfzZqpXZ_XVxaY1ZRBJs63iS/edit)
 
 
 ## JOUR 3 – MISE EN QUALITÉ
@@ -99,11 +94,11 @@ Bilan de la journée : Comme les autres jours, nous rencontrons une certaine dif
 
 Liens vers les jeux de données : 
 
-Comptes Administratifs de la Communauté de Commune du Pays de Mormal : https://www.data.gouv.fr/fr/datasets/comptes-administratifs-de-la-communaute-de-commune-du-pays-de-mormal/ ;
+Comptes Administratifs de la Communauté de Commune du Pays de Mormal : [](https://www.data.gouv.fr/fr/datasets/comptes-administratifs-de-la-communaute-de-commune-du-pays-de-mormal/) ;
 
-Marchés Publics pour les années 2015, 2016, 2017 pour la Communauté de Commune de Pays de Mormal : https://www.data.gouv.fr/fr/datasets/marches-publics-pour-les-annees-2015-2016-2017-pour-la-communaute-de-commune-de-pays-de-mormal/ ;
+Marchés Publics pour les années 2015, 2016, 2017 pour la Communauté de Commune de Pays de Mormal :  [](https://www.data.gouv.fr/fr/datasets/marches-publics-pour-les-annees-2015-2016-2017-pour-la-communaute-de-commune-de-pays-de-mormal/) ;
 
-Subventions liées au confinement Covid-19 Pays de Mormal 2020 : https://www.data.gouv.fr/fr/datasets/subventions-liees-au-confinement-covid-19-pays-de-mormal-2020-1/ .
+Subventions liées au confinement Covid-19 Pays de Mormal 2020 :  [](https://www.data.gouv.fr/fr/datasets/subventions-liees-au-confinement-covid-19-pays-de-mormal-2020-1/) .
 
 
 ## JOUR 5 – VALORISATION
