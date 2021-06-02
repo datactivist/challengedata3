@@ -14,7 +14,7 @@ par Arthus P., Yohann gigarel, Maxence Thiard, M.M, Adrien D. et Pierre Bianco
 Lors de ce Challenge Data, nous accompagnons la commune de Saint-Germain-en-Laye (Yvelines, 78). Cette commune compte 46 000 habitant.e.s et 810 agent.es. La première réunion avec la mairie nous a permis d’identifier la maturité de la commune en matière d’open data. 
 
 
-La commune de Saint-Germain a été évaluée au **palier** **3 de la maturité open data**. 
+La commune de Saint-Germain a été évaluée au **palier 3 de la maturité open data**. 
 
 
 **La force** de la commune réside dans sa capacité à identifier des données, mais également dans ses supports de communication. En effet, la Direction du Numérique est responsable du service de la politique open data, et la ville a des connaissances sur les problématiques d’open data. Ajouté à cela, la ville de Saint-Germain peut compter sur ses équipes communication, actives,  pour promouvoir ses événements et ses actions. 
@@ -32,7 +32,7 @@ Enfin, à la suite de ce diagnostic, nous avons pu cerner **les motivations** de
 **<span style="text-decoration:underline;">1.2 : Recueillir les besoins de la collectivité </span>**
 
 
-Pour conclure cette première journée de Challenge Data, nous avons eu une **deuxième réunion **avec un conseiller municipal et nos interlocuteurs privilégiés. Nous avons pu leur exposer notre diagnostic et leur présenter un état des lieux de leur politique actuelle d’open data. 
+Pour conclure cette première journée de Challenge Data, nous avons eu une **deuxième réunion** avec un conseiller municipal et nos interlocuteurs privilégiés. Nous avons pu leur exposer notre diagnostic et leur présenter un état des lieux de leur politique actuelle d’open data. 
 
 
 Ensuite, nous leur avons proposé de nous adresser une **première liste de données sur lesquelles la commune souhaitait travailler** ; 12 éléments ont été exposés. Puis, nous leur avons demandé d’affiner leurs propositions et d’établir une liste de 5 choix classés par ordre de préférences ; nous les avons également conseillés.
@@ -42,7 +42,7 @@ Pour déterminer cette liste de 5 choix, nous avons entendu **leurs besoins** et
 
 
 
-*   Dans une volonté de poursuivre ses engagements dans le **label “_Ville Nature”_** dont la commune dispose, Saint-Germain-en-Laye nous a exprimé sa volonté de travailler sur les jeux de données suivants :** arbres urbains**, **aménagements cyclables**, **entrée des voitures en ville** ;
+*   Dans une volonté de poursuivre ses engagements dans le **label “_Ville Nature”_** dont la commune dispose, Saint-Germain-en-Laye nous a exprimé sa volonté de travailler sur les jeux de données suivants : **arbres urbains**, **aménagements cyclables**, **entrée des voitures en ville** ;
 *   De plus, voyant ce Challenge comme une opportunité d’entretenir son **label _“territoire d’excellence numérique,_** la commune de Saint-Germain souhaite également que l’on travaille sur les **lieux d’inclusion numérique**.
 *   Enfin, nous travaillerons également sur le jeu de données des **actes d’état-civil**. 
 
@@ -74,7 +74,7 @@ Cette première journée de diagnostic se conclut, pour nous, sur une réelle mo
 ## JOUR 2 – IDENTIFICATION
 
 
-**  <span style="text-decoration:underline;">2.1 Exploration à la recherche de données</span>**
+**<span style="text-decoration:underline;">2.1 Exploration à la recherche de données</span>**
 
 
 Lors de cette deuxième journée du Challenge Data le but est **d’identifier les données, parmi la liste de 5 que nous avions établie la veille,** que nous allons ouvrir. D’abord, pour obtenir ces données, nous n’avons pas eu à contacter des services de la ville de Saint-Germain-en-Laye ; il nous a suffi que notre interlocuteur nous les transmette. Vers 10h, nous recevions quatre des cinq jeux de données :
@@ -95,10 +95,9 @@ Les données concernant les Actes d’état-civil n’ont pas été fournies dir
 Dans le courant de l’après-midi, nous nous sommes répartis le travail de manière à réaliser à la fois d’une part l’organigramme et d’autre part la mise en ligne des données sur le logiciel WorkBench. D’une part, pour obtenir un organigramme complet, nous avons notamment dû demander à notre interlocuteur la liste des services responsables de chaque jeu de données, ce qui a pu être obtenu facilement.
 
 
-**Organigramme :  **
+**Organigramme :**
 
-
-![alt_text](images/image1.png "image_tooltip")
+![Organigramme](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/CDB01_01.png)
 
 
 **<span style="text-decoration:underline;">2.3 Évaluer le travail de mise en qualité</span>**
@@ -111,14 +110,14 @@ Ce qu’il ressort pour chaque type de données :
 
 
 
-*   _<span style="text-decoration:underline;">Entrées/sorties de voitures en ville :</span> _ Besoin de **nettoyer**, **compiler** et **standardiser.**
+*   _<span style="text-decoration:underline;">Entrées/sorties de voitures en ville :</span>_ Besoin de **nettoyer**, **compiler** et **standardiser.**
 
 Problème de lisibilité des données concernant les  entrées/sorties des véhicules. Cela a été résolu lorsque notre interlocuteur nous a indiqué via mail qu’une colonne était inutile et que les chiffres correspondaient à un zonage. Cela nous a aidé puisque c’est la donnée que la ville de Saint-Germain veut traiter en priorité.
 
 
 Etant donné qu’il n’y a pas de template pour les entrées/sorties des véhicules, l’équipe Datactivist va sûrement nous venir en aide, dans le courant de la semaine, en créant un modèle pour nous sur Workbench. La manœuvre est de plus facile, car il n’y a pas beaucoup de variables. Cependant, nous nous sommes questionnés sur l’intérêt d’utilisation de telles données comme elles ne concernent que les passages d’un croisement de rue (Léon Desoyer/Alger). Nous avons pu finalement déduire que cela pouvait avoir des intérêts multiples : connaissances des mobilités et aménagements urbains en conséquence, nuisances sonores et pollutions aériennes, etc.
 
-*   _<span style="text-decoration:underline;">Arbres urbains :</span> _Besoin de **nettoyer** et **standardiser.**                            
+*   _<span style="text-decoration:underline;">Arbres urbains :</span>_ Besoin de **nettoyer** et **standardiser.**                           
 
 Les données sont nombreuses mais ne concernent pas tous les arbres de la ville. 
 
@@ -131,6 +130,8 @@ Une interrogation se pose quant au fait que tous les lieux soient listés ; il e
 Pour les pistes cyclables et les lieux d’inclusion numérique, le problème principal réside dans trois colonnes qui ne semblent pas avoir beaucoup d’utilités.
 
 *   _<span style="text-decoration:underline;">États-civils :</span>_ Besoin de **standardiser**.
+
+
 
 **<span style="text-decoration:underline;">2.4 S’engager sur un wanted list</span>**
 
@@ -290,7 +291,7 @@ Cette journée a été moins fatigante que la précédente, mais n’en a pas é
 Aujourd’hui, notre tâche consiste à donner de la valeur aux jeux de données qui ont été mis en qualité et publiés les jours précédents. Dans ce cadre, il a fallu se poser des questions d’ordre mathématiques de croisement de données mais surtout d’ordre politique. Quel usage collectif pouvons-nous faire des données ouvertes ?
 
 
-Les groupes de M.M et Pierre et de Yohann et Arthus étaient en possession de données cartographiques. Ils ont exporté leur jeu de données respectif sur _[Umap Open Street Map](https://umap.openstreetmap.fr/fr/) _avant de sélectionner quelles informations seront facilement accessibles/visibles et quelles autres demanderont davantage de clics. En ce qui concerne le comptage de véhicules, traité par Maxence, et les actes d’état civil, dont Adrien est responsable, ils ont été transposés en graphiques. Seulement certaines données ont été utilisées. C’est à travers ces choix que s'illustrent les questions d’ordre politique. 
+Les groupes de M.M et Pierre et de Yohann et Arthus étaient en possession de données cartographiques. Ils ont exporté leur jeu de données respectif sur _[Umap Open Street Map](https://umap.openstreetmap.fr/fr/)_ avant de sélectionner quelles informations seront facilement accessibles/visibles et quelles autres demanderont davantage de clics. En ce qui concerne le comptage de véhicules, traité par Maxence, et les actes d’état civil, dont Adrien est responsable, ils ont été transposés en graphiques. Seulement certaines données ont été utilisées. C’est à travers ces choix que s'illustrent les questions d’ordre politique. 
 
 
 Cette étape a été d’une grande difficulté dans le sens où nos compétences de croisement de données sur les différents logiciels de tableur sont peu avancées et que les responsables des jeux de données à cartographier n’avaient jamais fait usage des logiciels et sites dont il était question. Cette étape a demandé une grande concentration et de la persévérance. Nous avons demandé très régulièrement la tutelle de Julia dans nos démarches. 
@@ -316,9 +317,13 @@ Il est possible de retrouver les contextualisations sur le liens suivants :
 
 
 *   Arbres urbains : [https://app.workbenchdata.com/workflows/132566/report](https://app.workbenchdata.com/workflows/132566/report) 
+
 *   Entrées et sorties de voitures en ville : [https://app.workbenchdata.com/workflows/132947/report](https://app.workbenchdata.com/workflows/132947/report) 
+
 *   Actes d’état-civil : [https://app.workbenchdata.com/workflows/132569/report](https://app.workbenchdata.com/workflows/132569/report) 
+
 *   Lieux d’inclusion numérique : [https://app.workbenchdata.com/workflows/132570/report](https://app.workbenchdata.com/workflows/132570/report) 
+
 
 **<span style="text-decoration:underline;">5.3 Publication des datavisualisations</span>**
 
@@ -326,26 +331,26 @@ Il est possible de retrouver les contextualisations sur le liens suivants :
 Ci-après, sont listés les liens des datavisualisations et/ou leur document directement :
 
 *   Arbres urbains : [https://umap.openstreetmap.fr/fr/map/carte-sgl-arbres-urbains_565115#16/48.9061/2.0719](https://umap.openstreetmap.fr/fr/map/carte-sgl-arbres-urbains_565115#16/48.9061/2.0719) 
+
+![arbres](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/CDB01_02.png)
+
+
 *   Actes d'État Civil : [https://drive.google.com/file/d/1pU5UTOyZM6BgbGeqUDRdIRfSkWf5nZ3I/view?usp=sharing](https://drive.google.com/file/d/1pU5UTOyZM6BgbGeqUDRdIRfSkWf5nZ3I/view?usp=sharing) 
 
-![alt_text](images/image2.png "image_tooltip")
+![etat_civil](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/CDB01_03.png)
+
 
 *   Lieux d’inclusion numérique : [http://u.osmfr.org/m/565111/](http://u.osmfr.org/m/565111/) 
 
+![inclu](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/CDB01_04.png)
 
-![alt_text](images/image3.png "image_tooltip")
-
-
-
-![alt_text](images/image4.png "image_tooltip")
-
+![inclu2](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/CDB01_05.png)
 
 
 
 *   Comptage de véhicules : [https://drive.google.com/drive/folders/1_fZXY4eokxQ85mY8C1Ukeo7PDKNMvkz_?usp=sharing](https://drive.google.com/drive/folders/1_fZXY4eokxQ85mY8C1Ukeo7PDKNMvkz_?usp=sharing) 
 
-
-![alt_text](images/image5.png "image_tooltip")
+![vehicules](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/CDB01_06.png)
 
 
 
@@ -382,5 +387,5 @@ Cordialement,
 
 Arthus, Pierre, Yohann, M.M, Adrien et Maxence.
 
-*   **Notre plus gros casse-tête : la standardisation **
+*   **Notre plus gros casse-tête : la standardisation**
 *   **Notre plus belle réussite : quatre jeux de données (de qualité ?)**
