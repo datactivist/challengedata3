@@ -97,6 +97,14 @@ En ce qui concerne la communication, nous n’avons pu nous y mettre que très t
 
 Bilan de la journée : Comme les autres jours, nous rencontrons une certaine difficulté à joindre les personnes responsables des données. Il est également assez compliqué de communiquer avec notre interlocuteur, qui ne semble pas avoir de vision claire sur le projet. Il semble avoir du mal à nous donner des directives ou à nous mettre sur des pistes. Cela se ressent sur le groupe, nous avons un petit peu l’impression de naviguer à vue au fur et à mesure du projet.
 
+Liens vers les jeux de données : 
+
+Comptes Administratifs de la Communauté de Commune du Pays de Mormal : https://www.data.gouv.fr/fr/datasets/comptes-administratifs-de-la-communaute-de-commune-du-pays-de-mormal/ ;
+
+Marchés Publics pour les années 2015, 2016, 2017 pour la Communauté de Commune de Pays de Mormal : https://www.data.gouv.fr/fr/datasets/marches-publics-pour-les-annees-2015-2016-2017-pour-la-communaute-de-commune-de-pays-de-mormal/ ;
+
+Subventions liées au confinement Covid-19 Pays de Mormal 2020 : https://www.data.gouv.fr/fr/datasets/subventions-liees-au-confinement-covid-19-pays-de-mormal-2020-1/ .
+
 
 ## JOUR 5 – VALORISATION
 
