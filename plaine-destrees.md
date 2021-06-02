@@ -8,10 +8,10 @@ par Sofia B., Inès Khiar, Félix Anthonysamy, Vanille Baril, Sabrina Bouzembrak
 **INTRODUCTION**
 
 
-Le déploiement du numérique au sein des collectivités territoriales conduit à une numérisation des pratiques et activités. Le volume de données produites chaque jour ne fait qu’augmenter, et il est donc essentiel de les collecter, classer et rassembler afin de pouvoir les exploiter.  La dynamique d’ouverture des données s’est institutionnalisée en France dès la Révolution. L’article 15 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 établit que : “La société est en droit de demander compte à tout agent public de son administration“. La puissance publique, tenue au respect de la transparence démocratique, a mis en place depuis 2015 une politique d’ouverture des données aux citoyens. L’Open data désigne donc l’effort des institutions, ou collectivités qui partagent librement les données dont elles disposent. Ce partage répond à certains critères clés comme la gratuité ou la publication dans des formats ouverts permettant l’exploitation et la réutilisation des données. Ces données publiques doivent respecter les réglementations en vigueur concernant la protection des données personnelles ( RGPD ) . 
+Le déploiement du numérique au sein des collectivités territoriales conduit à une numérisation des pratiques et activités. Le volume de données produites chaque jour ne fait qu’augmenter, et il est donc essentiel de les collecter, classer et rassembler afin de pouvoir les exploiter.  La dynamique d’ouverture des données s’est institutionnalisée en France dès la Révolution. L’article 15 de la Déclaration des Droits de l’Homme et du Citoyen de 1789 établit que : “La société est en droit de demander compte à tout agent public de son administration“. La puissance publique, tenue au respect de la transparence démocratique, a mis en place depuis 2015 une politique d’ouverture des données aux citoyens. L’Open data désigne donc l’effort des institutions, ou collectivités qui partagent librement les données dont elles disposent. Ce partage répond à certains critères clés comme la gratuité ou la publication dans des formats ouverts permettant l’exploitation et la réutilisation des données. Ces données publiques doivent respecter les réglementations en vigueur concernant la protection des données personnelles (RGPD) . 
 
 
-A l’occasion de cette nouvelle édition du Challenge Data, basculée en distanciel en raison de la situation sanitaire, nous avons découvert la plateforme “Gather” sur laquelle se déroulait l’ensemble de nos activités. Avec une prise en main rapide et simple, nous nous sommes très vite pris au jeu de ce logiciel amusant et avons apprécié vivre cette semaine Challenge Data à travers nos petits personnages. Après une réunion matinale quotidienne animée par Magalie, nous nous regroupons sur notre table de travail pour une première répartition des tâches. La majeure partie du travail se réalisait en autonomie à l’aide des documents disponibles sur le patchwork et des vidéos tutorielles nous montrant pas à pas les étapes à suivre. Bien sûr, nous pouvions solliciter Magalie et tous les experts Datactivist, pour nous aider en cas de problème ou d’interrogation. Les outils informatiques utilisés tout au long de la semaine furent variés ( Gather, Workbench, Datagouv, tableur Excel etc… ). 
+A l’occasion de cette nouvelle édition du Challenge Data, basculée en distanciel en raison de la situation sanitaire, nous avons découvert la plateforme “Gather” sur laquelle se déroulait l’ensemble de nos activités. Avec une prise en main rapide et simple, nous nous sommes très vite pris au jeu de ce logiciel amusant et avons apprécié vivre cette semaine Challenge Data à travers nos petits personnages. Après une réunion matinale quotidienne animée par Magalie, nous nous regroupons sur notre table de travail pour une première répartition des tâches. La majeure partie du travail se réalisait en autonomie à l’aide des documents disponibles sur le patchwork et des vidéos tutorielles nous montrant pas à pas les étapes à suivre. Bien sûr, nous pouvions solliciter Magalie et tous les experts Datactivist, pour nous aider en cas de problème ou d’interrogation. Les outils informatiques utilisés tout au long de la semaine furent variés (Gather, Workbench, Datagouv, tableur Excel etc…). 
 
 
 La Communauté de Communes pour laquelle nous avons travaillé ne fait pas partie des collectivités étant dans l’obligation légale de publier ses données, en raison de sa petite taille. La participation de la collectivité la Plaine d’Estrées au Challenge Data reflète donc une politique volontariste de production et d’ouverture de leurs données à tous. Le but étant à terme d’impulser une prise de conscience des élus et agents de la collectivité sur les possibilités offertes par l’ouverture des données et son intérêt pour les citoyens. 
@@ -236,14 +236,18 @@ Nombre d’amenagements cyclables par codes postaux: [https://static.data.gouv.f
 Les jeux de données suivants apparaissent dans les differents calques de la carte interactive qui se trouve sur le lien [http://umap.openstreetmap.fr/fr/map/la-plaine-destrees-visualisations-des-data_565135#12/49.4600/2.6982](http://umap.openstreetmap.fr/fr/map/la-plaine-destrees-visualisations-des-data_565135#12/49.4600/2.6982) 
 
 
-Lieux de covoiturage: 							
+Lieux de covoiturage: 		
+
 ![delib](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_11.png)
 
-Équipements collectifs publics										
+Équipements collectifs publics :
+
 ![delib](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_12.png)
 
-Base horaires des administrations: 						
+Base horaires des administrations: 
+
 ![delib](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_13.png)
 
 Base commerce: 
-![delib](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_40.png)
+
+![delib](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_14.png)
