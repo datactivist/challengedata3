@@ -1,4 +1,4 @@
-# Carnet de bord de l'ouverture des données 
+# Carnet de bord de l'ouverture des données de Béthune
 par Marion Caillaud, Diane O., Manon Crouzet, Téva Ledeux, Amaïa Masson et Jade Penancier
 
 ![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/bethune.JPG)
@@ -90,14 +90,9 @@ Notre travail d’évaluation et de wanted data list fut plutôt rapide puisque 
 
 Nous lui avons bien sûr envoyé un mail afin de lui faire un débrief de ce que nous avions fait aujourd’hui et nous lui avons transmis notre souhait de s’engager à l’ouverture de deux jeux : “base commerce” et “éclairage public”. Maintenant, plus qu’une seule hâte : commencer à plonger le nez (et toute la tête) dans les jeux de données afin de les rendre tout beaux, tout propres !
 
-Lien pour l’organigramme (finalisé) : [https://app.mindmup.com/map/new/1613468377733](https://app.mindmup.com/map/new/1613468377733) 
 
+![Organigramme](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb02_01.png)
 
-Lien pour évaluation des données et wanted data list : [https://docs.google.com/document/d/1O8OEKXmWw9Ab2Tnbs8WHK26pZdZb0Bsd/edit](https://docs.google.com/document/d/1O8OEKXmWw9Ab2Tnbs8WHK26pZdZb0Bsd/edit) 
-
-
-
-![alt_text](images/image1.png "image_tooltip")
 
 
 
@@ -179,7 +174,7 @@ Après la pause déjeuner, nous nous sommes attelées à la publication des jeux
 Nous avons réussi à joindre par téléphone le responsable du service de communication de la ville qui n’avait pas connaissance du Challenge mais qui a été très content lorsque nous lui avons expliqué. Il souhaiterait le communiquer sur le site internet, partager l’article du site sur facebook ainsi que le publier dans le journal de la ville de Béthune. 
 
 
-Nous avons terminé l’organigramme en mettant les liens des jeux de données :  [https://app.mindmup.com/map/new/1613468377733](https://app.mindmup.com/map/new/1613468377733) 
+Nous avons terminé l’organigramme en mettant les liens des jeux de données.
 
 
 Pour terminer cette journée, nous avons envoyé un mail au responsable communication en lui envoyant notre plan de communication afin qu’il le complète si besoin et nous avons envoyé un mail récapitulatif à notre référent avec les liens des jeux de données publiés sur data gouv. 
@@ -188,10 +183,7 @@ Pour terminer cette journée, nous avons envoyé un mail au responsable communic
 Url pour le jeu éclairage public : [https://www.data.gouv.fr/fr/datasets/eclairage-public-de-la-ville-de-bethune-2017-2019-1/](https://www.data.gouv.fr/fr/datasets/eclairage-public-de-la-ville-de-bethune-2017-2019-1/)
 
 
-Url pour le jeu base commerce : 
-
-
-[https://www.data.gouv.fr/fr/datasets/commerces-de-la-ville-de-bethune/](https://www.data.gouv.fr/fr/datasets/commerces-de-la-ville-de-bethune/)
+Url pour le jeu base commerce : [https://www.data.gouv.fr/fr/datasets/commerces-de-la-ville-de-bethune/](https://www.data.gouv.fr/fr/datasets/commerces-de-la-ville-de-bethune/)
 
 
 
@@ -223,7 +215,7 @@ Nous ferons deux maps (une pour visualiser la répartition des commerces par sec
 Nous avons donc réalisé les deux maps de la base commerce sur Umap en utilisant plusieurs calques. Le graphique a été réalisé sur Rawgraph. Nous avons rencontré quelques difficultés sur les deux sites notamment sur les formats des données et la compréhension du site Rawgraph. 
 
 
-**Eclairage** **public** :
+**Eclairage public** :
 
 
 Difficultés : on a de grosses difficultés à travailler sur le jeu de données d’une part parce qu’il est très conséquent (4300 lignes de données) et donc les logiciels utilisés rament beaucoup et ne parviennent pas à afficher toutes les données sur un seul graphique; d’autre part, car le jeu de données a beaucoup d’informations différentes à présenter (localisation, date, consommation, coût, émission) : donc c’est très difficile de savoir comment organiser le graphique autour de toutes ces idées.
@@ -234,7 +226,7 @@ On a abandonné l’idée d’inclure la localisation dans la visualisation parc
 Guillaume nous a aidé à effectuer les graphiques sur Workbench : on a donc un graphique pour les émissions, un pour les consommations et un pour les coûts. 
 
 
-**Commerces : **
+**Commerces :**
 
 
 Pas de réelles difficultés pour la datavisualisation de la base commerces mais les visualisations cartographiées avec Umap ont pris beaucoup de temps à réaliser. 
@@ -246,36 +238,33 @@ Après avoir réalisé les visualisations (7 au total), nous avons complété le
 Marion a également réalisé une infographie qui permet de réunir les différentes informations pour la base commerces afin de permettre aux communicants d’informer sur cette ouverture de données. 
 
 
-([https://docs.google.com/document/d/1ZpvQYyqKT6uVhS56aB5zCejliFnLVK7clwqy8SBKRdA/edit](https://docs.google.com/document/d/1ZpvQYyqKT6uVhS56aB5zCejliFnLVK7clwqy8SBKRdA/edit) et [https://app.workbenchdata.com/workflows/132557/](https://app.workbenchdata.com/workflows/132557/)) et dernières publications puis réunion finale et discussions avec notre référent, les étudiants et tous les acteurs ayant participé à cette semaine. 
+[Explications des datavisualisations](https://app.workbenchdata.com/workflows/132557/)) et dernières publications puis réunion finale et discussions avec notre référent, les étudiants et tous les acteurs ayant participé à cette semaine. 
 
 
 Nous avons fini par envoyer un mail à tous nos référents avec le récapitulatif de la semaine et les visualisations terminées. 
 
 
-**Base commerces : **
+**Base commerces :**
 
 
 
-![alt_text](images/image2.png "image_tooltip")
+![graph](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb02_02.png)
+
+_[http://u.osmfr.org/m/564984/](http://u.osmfr.org/m/564984/)_
+
+![graph](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb02_03.png)
+
+_[http://umap.openstreetmap.fr/fr/map/recensement](http://umap.openstreetmap.fr/fr/map/recensement-bethune-shop_565182#16/50.5335/2.6352)_
 
 
-![alt_text](images/image3.png "image_tooltip")
+![graph](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb02_04.png)
 
 
-![alt_text](images/image4.png "image_tooltip")
+
+**Base éclairage public :**
 
 
-![alt_text](images/image5.png "image_tooltip")
-_[http://u.osmfr.org/m/564984/](http://u.osmfr.org/m/564984/)                                                                                       [http://umap.openstreetmap.fr/fr/map/recensement](http://umap.openstreetmap.fr/fr/map/recensement-bethune-shop_565182#16/50.5335/2.6352)_                                                                         **        _[-bethune-shop_565182#16/50.5335/2.6352](http://umap.openstreetmap.fr/fr/map/recensement-bethune-shop_565182#16/50.5335/2.6352)_**
-
-
-![alt_text](images/image6.jpg "image_tooltip")
-
-
-**Base éclairage public : **
-
-
-![alt_text](images/image7.png "image_tooltip")
+![graph](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb02_05.png)
 
 
 
@@ -285,10 +274,10 @@ _[http://u.osmfr.org/m/564984/](http://u.osmfr.org/m/564984/)                   
 **Bilan de la commune :** 
 
 
-Ce challenge a permis à la commune de Béthune d’ouvrir deux jeux de données : **la base commerce **et** l’éclairage public**. 
+Ce challenge a permis à la commune de Béthune d’ouvrir deux jeux de données : **la base commerce** et **l’éclairage public**. 
 
 
-Notre travail a été facilité par la **bonne maturité open data **de la commune de Béthune puisque la ville avait déjà publié onze jeux de données sur la plateforme data.gouv. Cependant, nous n’avons pu ouvrir que deux jeux de données sur les huit que nous avions répertoriés dans la wishlist de la commune. La collecte d’autres jeux de données a été freinée par l’**absence de données exploitables ou exportables** au format xls ou csv (c’était par exemple le cas pour les données des délibérations). Nous étions aussi contraints par le **temps**. En bref, nous n’avions que deux ensembles de données exploitables sur huit… mais la qualité prime sur la qualité, non ? 
+Notre travail a été facilité par la **bonne maturité open data** de la commune de Béthune puisque la ville avait déjà publié onze jeux de données sur la plateforme data.gouv. Cependant, nous n’avons pu ouvrir que deux jeux de données sur les huit que nous avions répertoriés dans la wishlist de la commune. La collecte d’autres jeux de données a été freinée par l’**absence de données exploitables ou exportables** au format xls ou csv (c’était par exemple le cas pour les données des délibérations). Nous étions aussi contraints par le **temps**. En bref, nous n’avions que deux ensembles de données exploitables sur huit… mais la qualité prime sur la qualité, non ? 
 
 
 Dans l’ensemble, notre contact référent, s’est montré satisfait de notre travail et enthousiaste à l’idée d’ouvrir les données de la ville. En ouvrant ces deux jeux de données, nous avons contribué à la maturité open data de la commune de Béthune qui a pour ambition de devenir une **smart city**. Les visualisations du jeu de donné de l’éclairage public a pu mettre en valeur les économies d’énergie effectuées grâce à la conversion à l’éclairage LED, tandis que la visualisation des commerces permet de voir les enseignes présentes sur l’application locale Béthune-Shop. 
@@ -300,7 +289,7 @@ Dans l’ensemble, notre contact référent, s’est montré satisfait de notre 
 Nous avons instauré un **flux de travail** assez efficace. Nous avions pour routine de nous répartir les tâches durant la matinée après avoir regardé les tutoriels de la journée. Ensuite, nous nous divisions en groupes de trois pour travailler sur les tâches importantes comme la mise en qualité des données. Mais notre rythme de travail était souvent freiné par les temps d’attente et les problèmes techniques. 
 
 
-L’étape la plus difficile était** la mise en qualité des jeux de données**, surtout pour celui de la base commerce car les données **n’étaient** **pas standardisées**. Par exemple, le jeu comprenait seulement des adresses au format qu’il nous a fallu convertir en codes de géolocalisation. La plus grande difficulté était toutefois de** compiler** les deux jeux de données que nous avions, puisque certains commerces ne figuraient pas dans la base de données principale. En revanche, le nettoyage et la complétion du jeu sur l’éclairage public. 
+L’étape la plus difficile était **la mise en qualité des jeux de données**, surtout pour celui de la base commerce car les données **n’étaient pas standardisées**. Par exemple, le jeu comprenait seulement des adresses au format qu’il nous a fallu convertir en codes de géolocalisation. La plus grande difficulté était toutefois de** compiler** les deux jeux de données que nous avions, puisque certains commerces ne figuraient pas dans la base de données principale. En revanche, le nettoyage et la complétion du jeu sur l’éclairage public. 
 
 
 Et pour la **visualisation**, le problème s’est inversé. En effet, l’éclairage public était bien plus difficile à visualiser, puisque le document comportait environ 4300 lignes (!) qui ont mis KO les outils de visualisation Rawgraph et Datawrapper. Par contre, les commerces étaient beaucoup plus faciles à cartographier et à trier en catégories. 
@@ -309,19 +298,19 @@ Et pour la **visualisation**, le problème s’est inversé. En effet, l’écla
 Le challenge data porte bien son nom, puisque nous avons vu **la difficulté des tâches augmente**r à mesure que la semaine avançait.
 
 
-**Notre semaine de travail en chiffres : **
+**Notre semaine de travail en chiffres :**
 
 
 **2** jeux de données nettoyés,  ouverts 
 
 
-**7 **datavisualisations (4 pour la base commerce et 3 pour l’éclairage)
+**7** datavisualisations (4 pour la base commerce et 3 pour l’éclairage)
 
 
 **2** réunions avec nos interlocuteurs de la ville de Béthune 
 
 
-La découverte de** 5** plateformes de travail (Airtable, Workbench, Umap, Rawgraph et GatherTown) 
+La découverte de **5** plateformes de travail (Airtable, Workbench, Umap, Rawgraph et GatherTown) 
 
 
 Une **50**aine de mails échangés avec les agents de la mairie de Béthune 
@@ -336,16 +325,18 @@ Une **50**aine de mails échangés avec les agents de la mairie de Béthune
 **Note plus belle réussite :**  Notre visuel de la base commerce de la ville 
 
 
-**Notre plus grande difficulté **:** **Nettoyer la base commerce sur l’outil Workbench qui a beaucoup fatigué nos yeux et nos ordinateurs
+**Notre plus grande difficulté**: Nettoyer la base commerce sur l’outil Workbench qui a beaucoup fatigué nos yeux et nos ordinateurs
 
 
 **Notre travail en mots,** avec un word cloud des mots les plus utilisés dans notre carnet de bord : 
 
-![alt_text](images/image8.png "image_tooltip")
+
+![wc](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb02_06.png)
 
 
 
-**Tableau récapitulatifs des bilans individuels : **
+
+**Tableau récapitulatifs des bilans individuels :**
 
 
 <table>
@@ -358,7 +349,6 @@ Une **50**aine de mails échangés avec les agents de la mairie de Béthune
    </td>
    <td>Le challenge en <strong>un mot </strong>pour vous
    </td>
-  </tr>
   <tr>
    <td><strong>Amaïa</strong>
    </td>
@@ -371,7 +361,6 @@ Difficultés à cause de mon manque sérieux de connaissances dans les outils te
    <td>Fédérateur
    </td>
   </tr>
-  <tr>
    <td><strong>Diane</strong>
    </td>
    <td>Découverte de l’utilité de l’ouverture de données publiques - ce qui semble très abstrait quand on n’en a jamais vraiment entendu parler. J’ai également appris à utiliser beaucoup mieux Excel et j’ai découvert plein de logiciels que je connaissais pas du tout comme Open Street Map et Workbench, entre autres.  
@@ -381,7 +370,6 @@ Difficultés à cause de mon manque sérieux de connaissances dans les outils te
    <td>Fédérateur
    </td>
   </tr>
-  <tr>
    <td><strong>Jade</strong>
    </td>
    <td>Impression d’avoir appris un métier en 5 jours.
