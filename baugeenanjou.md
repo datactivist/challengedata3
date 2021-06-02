@@ -238,6 +238,7 @@ Le plan de communication a été mis en place et ses éléments ont été créé
 
 
 Tout au long de la journée, lorsque nous avions des interrogations, les coachs de l’équipe Datactivist ont su répondre présent. Aujourd'hui nous avions de la chance, notre coach référente, Julia, était très présente ! Cette image témoigne de la très belle ambiance qui règne dans le Challenge Data, comme dans le groupe de Baugé-en-Anjou. Cet aspect est un véritable point positif tant il est une force d’impulsion pour le projet.
+
 ![Organigramme des données](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_09.png)
 
 
