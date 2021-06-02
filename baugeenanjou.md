@@ -125,7 +125,7 @@ Par exemple, les illustrations précédentes concernent les espaces verts de la 
 
 Pour compiler deux bases, il faut ajouter une nouvelle étape sur le Workbench en cliquant sur “Add step”, et exécuter l’opération “Join tab” et fusionner les listes concernées, en sélectionnant les colonnes nous intéressant. 
 
-
+![Organigramme des données](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_05.png)
 
 Nous avons été bloqués avec cette étape car nous n’avions pas commis une erreur de compréhension de cet outil. Il faut bien faire attention à compiler des bases de données traitant des informations qui ont au moins un élément commun d’une part, et analysant cet élément à la même échelle d’autre part. Pour reprendre l’exemple des espaces verts appliqués à ce problème, il n’est pas possible de compiler la base des données répertoriant  comparant les totaux des espaces verts par communes déléguées avec un autre détaillant chacun des espaces verts de Baugé-sur-Anjou. L’échelle n’est en effet pas la même puisque la première base de données regarde l’espace vert à l’échelle des communes déléguées et la deuxième à l’échelle de l’espace vert lui-même. L’important dans l’open data est la granularité, c’est-à-dire avoir l’information la plus précise possible. La base de données des totaux des espaces verts par commune déléguée n’est donc pas nécessaire puisque celle détaillant tous les espaces verts permettra déjà d’avoir l’information des totaux à celui ou celle qui est intéressé par la question. 
 
@@ -150,6 +150,7 @@ Les exemples-types des bases de données déjà existantes ont été d’une gra
 
 Une difficulté du même type gêne le traitement de la BDD des espaces verts. Parfois nécessaire, cette localisation se doit d’être la plus précise possible. 
 
+![Organigramme des données](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_06.png)
 
 Or le lieu indiqué des espaces verts était parfois très vague. Si le “Rond Point” de Clefs est un lieu qui parle aux habitants et usagers de la commune, on doute que cela soit le cas pour les autres. Pour pouvoir exploiter la donnée de la localisation, qui est une donnée souvent très importante pour le traitement des données, il faudrait être en capacité de lier chacun des EV à une adresse précise. En l’état, la donnée de localisation est inexploitable. Nous avons essayer de faire correspondre les lieux de notre BDD à des repères géographiques grâce à un logiciel mais le taux d’erreur était trop important (repères placés sur toute la France, et quand bien même ils sont dans la bonne rue il ne désigne pas spécifiquement les EV). Nous ne pourrons malheureusement pas cartographier cet ensemble de données. A l’avenir, il serait bien de préciser le plus possible la localisation des bases de données. \
 
@@ -159,7 +160,7 @@ Or le lieu indiqué des espaces verts était parfois très vague. Si le “Rond 
 
 Enfin, la dernière étape de la journée est la validation. Il existe des sites vérifiant la qualité de nos bases de données, comme par exemple validata.etalab.studio, celui que nous avons utilisé pour vérifier la base de données du budget, correspondant à la catégorie du site nommée “Budget des collectivités et établissements publics locaux”. Une fois notre fichier déposé, il faut valider le fichier et le site affichera son résultat avec une jauge de validation évaluant en comparant avec une base de donnée standard. Voici la liste des bases de données standards qu’ils sont capables de valider : 
 
-
+![Organigramme des données](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_07.png)
       
 
 
@@ -222,6 +223,7 @@ Concernant la création de compte et la publication des données, le travail s�
 
 L’équipe de communication a réalisé un modèle de publication étant compatible aux caractères limités de Twitter. Nous avons également réalisé plusieurs visuels, leur permettant d’illustrer les publications pour les jeux de données traité lors du Challenge Data. Samuel Guede nous avait indiqué que Baugé-en-Anjou ne possédait pas de charte graphique. 
 
+![Organigramme des données](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_08.png)
 
 Nous avons par ailleurs raccourci le lien menant au site Data.gouv avec une extension de Google Chrome. L’objectif de cette manipulation était de faire tenir le et le lien sur une publication Twitter.
 
@@ -236,6 +238,7 @@ Le plan de communication a été mis en place et ses éléments ont été créé
 
 
 Tout au long de la journée, lorsque nous avions des interrogations, les coachs de l’équipe Datactivist ont su répondre présent. Aujourd'hui nous avions de la chance, notre coach référente, Julia, était très présente ! Cette image témoigne de la très belle ambiance qui règne dans le Challenge Data, comme dans le groupe de Baugé-en-Anjou. Cet aspect est un véritable point positif tant il est une force d’impulsion pour le projet.
+![Organigramme des données](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_09.png)
 
 
 ***Réalisations du jour : ***
@@ -277,7 +280,7 @@ Nous avons ensuite cherché les modèles de graphiques correspondants aux jeux d
 
 
 Toutefois, les difficultés se sont multipliées au moment de la réalisation des dataviz. En effet, pour prendre un exemple simple: Excel comptait plusieurs fois les mêmes catégories de données, ce qui rendait une dataviz de cette forme : 
-
+![Organigramme des données](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_10.png)
 
     
 
@@ -328,3 +331,4 @@ Cette semaine n’est pas allée sans son lot de victoires et de difficultés, m
 En tant qu’étudiants en sciences politiques, nous avons progressivement pris conscience de l’intérêt de l’open data au sein des institutions démocratiques, et ce par le meilleur des moyens : la pratique alliée à la théorie. Il est regrettable que ces problématiques soient encore obscures pour de nombreux services publics, qui pourraient tirer profit, crédit et efficacité de ce type d’initiative en faveur de l’open data. Au-delà des agents de collectivités, notre travail d’ouverture, de transparence et d’accessibilité bénéficiera également aux usagers de Baugé-en-Anjou, qui auront la possibilité d’accéder plus facilement à des données qui les concernent directement. Nous l’avons notamment réalisé lors de l’étape de valorisation des données, quand nous avons dû choisir la forme de graphique la plus adaptée à notre jeu de données “Subventions aux associations” ; l’une des formes mettait clairement en évidence que les associations classées dans la catégorie “social-enfant-jeunesse-scolaires” étaient de loin les plus subventionnées par la collectivité, et nous avons hésité à publier ce graphique au risque de créer une gêne entre décideurs et associations au vu de ce qui pouvait être perçu comme un certain déséquilibre. Nous avons toutefois fini par retenir cette forme car le but de l’open data est de biaiser le moins possible les données et c’était la forme de visualisation la plus parlante et pertinente pour le jeu de données que nous avions à traiter donc ce choix s’imposait. Cette expérience nous a montré ce que la publication et l’analyse de données pouvaient avoir de politique (publier c’est déjà, d’une certaine façon, s’engager) et nous a fait comprendre l’importance de la promotion des initiatives open data au travers du territoire.
 
 Nous espérons sincèrement que notre travail sera utile à la Ville de Baugé-en-Anjou, pour laquelle nous avons eu plaisir à travailler, et espérons qu’il n’est que le début d’une longue aventure démocratique et connectée !
+![Organigramme des données](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_11.png)
