@@ -153,9 +153,6 @@ Après une réunion avec notre interlocuteur et plusieurs concertations, nous av
 Cette première journée d’identification se termine, avec de réelles avancées. En effet nous avons pu avoir une vue d’ensemble sur le travail final que nous rendrons. Les données qui nous ont été fournies sont exploitables. Cependant certains éléments manquent et il nous est possible de ne nous engager que pour trois souhaits, ce qui est néanmoins encourageant. Nous allons faire tout notre possible pour remplir nos objectifs.
 
 
-Lien pour évaluation des données et wanted data list : 
-
-[https://drive.google.com/file/d/17yRyudkkHHwUz3CZQA5vx8FOjjxG-6TL/view](https://drive.google.com/file/d/17yRyudkkHHwUz3CZQA5vx8FOjjxG-6TL/view) 
 
 
 ## JOUR 3 – MISE EN QUALITÉ
@@ -337,14 +334,14 @@ Ci-après, sont listés les liens des datavisualisations et/ou leur document dir
 
 *   Actes d'État Civil : [https://drive.google.com/file/d/1pU5UTOyZM6BgbGeqUDRdIRfSkWf5nZ3I/view?usp=sharing](https://drive.google.com/file/d/1pU5UTOyZM6BgbGeqUDRdIRfSkWf5nZ3I/view?usp=sharing) 
 
-![etat_civil](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/CDB01_03.png)
+![etat_civil](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb01_03.png)
 
 
 *   Lieux d’inclusion numérique : [http://u.osmfr.org/m/565111/](http://u.osmfr.org/m/565111/) 
 
-![inclu](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/CDB01_04.png)
+![inclu](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb01_04.png)
 
-![inclu2](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/CDB01_05.png)
+![inclu2](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb01_05.png)
 
 
 
