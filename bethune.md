@@ -289,7 +289,7 @@ Dans l’ensemble, notre contact référent, s’est montré satisfait de notre 
 Nous avons instauré un **flux de travail** assez efficace. Nous avions pour routine de nous répartir les tâches durant la matinée après avoir regardé les tutoriels de la journée. Ensuite, nous nous divisions en groupes de trois pour travailler sur les tâches importantes comme la mise en qualité des données. Mais notre rythme de travail était souvent freiné par les temps d’attente et les problèmes techniques. 
 
 
-L’étape la plus difficile était **la mise en qualité des jeux de données**, surtout pour celui de la base commerce car les données **n’étaient pas standardisées**. Par exemple, le jeu comprenait seulement des adresses au format qu’il nous a fallu convertir en codes de géolocalisation. La plus grande difficulté était toutefois de** compiler** les deux jeux de données que nous avions, puisque certains commerces ne figuraient pas dans la base de données principale. En revanche, le nettoyage et la complétion du jeu sur l’éclairage public. 
+L’étape la plus difficile était **la mise en qualité des jeux de données**, surtout pour celui de la base commerce car les données **n’étaient pas standardisées**. Par exemple, le jeu comprenait seulement des adresses au format qu’il nous a fallu convertir en codes de géolocalisation. La plus grande difficulté était toutefois de **compiler** les deux jeux de données que nous avions, puisque certains commerces ne figuraient pas dans la base de données principale. En revanche, le nettoyage et la complétion du jeu sur l’éclairage public. 
 
 
 Et pour la **visualisation**, le problème s’est inversé. En effet, l’éclairage public était bien plus difficile à visualiser, puisque le document comportait environ 4300 lignes (!) qui ont mis KO les outils de visualisation Rawgraph et Datawrapper. Par contre, les commerces étaient beaucoup plus faciles à cartographier et à trier en catégories. 
@@ -346,88 +346,4 @@ Une **50**aine de mails échangés avec les agents de la mairie de Béthune
 | Manon  | Je n’aurais jamais cru pouvoir faire autant de choses à partir d’une liste de données. Le Challenge Data m’a fait réaliser que travailler sur des données n’était pas le travail impossible que je m’imaginais. | La plus grosse difficulté : la visualisation, surtout quand on a une connexion qui ne supporte pas le poids de gather et des différentes plateformes.  Réussite : arriver au bout de cette semaine en un seul morceau ! | Intense |
 | Marion | J’ai réellement découvert un nouvel univers avec l’Open Data. J’ai appris que ce domaine nécessite à la fois de la rigueur et de la patience qui méritent d’être enseignées afin de tendre vers plus de transparence. | L’étape de la data visualisation a été à la fois la plus grosse difficulté et la plus grosse réussite. Les étapes ont été bien plus longues que prévues mais le résultat fut à la hauteur ! | Coopération |
 | Téva  | Pleins de choses ! Globalement le traitement de données, le fonctionnement du Workbench, Umap | Nettoyer, compiler et standardiser la base commerce + nos visuels | Convivial |
-
-
-
-<table>
-  <tr>
-   <td>
-   </td>
-   <td><strong>Ce que vous avez appris</strong> durant cette semaine 
-   </td>
-   <td>La plus grosse <strong>difficulté</strong> + belle <strong>réussite </strong>
-   </td>
-   <td>Le challenge en <strong>un mot </strong>pour vous
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Amaïa</strong>
-   </td>
-   <td>Première immersion dans le domaine des données pour une étudiante très peu qualifiée (voire pas du tout) en informatique et dans ces questions de traitement. J’ai appris à analyser un jeu de données, le nettoyer et tenter d’utiliser au mieux Workbench !
-   </td>
-   <td>Difficultés importantes avec l’outil Workbench. 
-<p>
-Difficultés à cause de mon manque sérieux de connaissances dans les outils tels qu’Excel mais aussi les compétences de base en informatique.
-   </td>
-   <td>Fédérateur
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Diane</strong>
-   </td>
-   <td>Découverte de l’utilité de l’ouverture de données publiques - ce qui semble très abstrait quand on n’en a jamais vraiment entendu parler. J’ai également appris à utiliser beaucoup mieux Excel et j’ai découvert plein de logiciels que je connaissais pas du tout comme Open Street Map et Workbench, entre autres.
-   </td>
-   <td>Difficultés à appréhender l’outil Workbench mais c’était amusant aussi de devoir rechercher comment l’utiliser en manipulant différentes fonctionnalités. Difficultés aussi pour la visualisation avec le jeu de données sur l’éclairage public - il y avait beaucoup d’informations à mettre en avant. La réussite c’était vraiment le résultat final, de voir ce qu’on avait accompli en 5 jours en visualisation.
-   </td>
-   <td>Fédérateur
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Jade</strong>
-   </td>
-   <td>Impression d’avoir appris un métier en 5 jours.
-<p>
-Beaucoup de plateformes et de connaissances sur l’open data apprises en très peu de temps.
-   </td>
-   <td>Difficulté : toutes les difficultés techniques (workbench, dataviz), la fatigue à partir du 3ème jour, la mise en qualité chronophage 
-<p>
-Réussite : travail d’équipe et des résultats concrets.
-   </td>
-   <td>Intense
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Manon </strong>
-   </td>
-   <td>Je n’aurais jamais cru pouvoir faire autant de choses à partir d’une liste de données. Le Challenge Data m’a fait réaliser que travailler sur des données n’était pas le travail impossible que je m’imaginais.
-   </td>
-   <td>La plus grosse difficulté : la visualisation, surtout quand on a une connexion qui ne supporte pas le poids de gather et des différentes plateformes. 
-<p>
-Réussite : arriver au bout de cette semaine en un seul morceau !
-   </td>
-   <td>Intense
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Marion</strong>
-   </td>
-   <td>J’ai réellement découvert un nouvel univers avec l’Open Data. J’ai appris que ce domaine nécessite à la fois de la rigueur et de la patience qui méritent d’être enseignées afin de tendre vers plus de transparence.
-   </td>
-   <td>L’étape de la data visualisation a été à la fois la plus grosse difficulté et la plus grosse réussite. Les étapes ont été bien plus longues que prévues mais le résultat fut à la hauteur !
-   </td>
-   <td>Coopération
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Téva </strong>
-   </td>
-   <td>Pleins de choses ! Globalement le traitement de données, le fonctionnement du Workbench, Umap
-   </td>
-   <td>Nettoyer, compiler et standardiser la base commerce + nos visuels
-   </td>
-   <td>Convivial
-   </td>
-  </tr>
-</table>
-
 
