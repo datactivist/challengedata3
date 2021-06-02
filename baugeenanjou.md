@@ -156,7 +156,7 @@ Or le lieu indiqué des espaces verts était parfois très vague. Si le “Rond 
 
 
 
-***4 - La validation ***
+***4 - La validation**
 
 Enfin, la dernière étape de la journée est la validation. Il existe des sites vérifiant la qualité de nos bases de données, comme par exemple validata.etalab.studio, celui que nous avons utilisé pour vérifier la base de données du budget, correspondant à la catégorie du site nommée “Budget des collectivités et établissements publics locaux”. Une fois notre fichier déposé, il faut valider le fichier et le site affichera son résultat avec une jauge de validation évaluant en comparant avec une base de donnée standard. Voici la liste des bases de données standards qu’ils sont capables de valider : 
 
@@ -179,7 +179,7 @@ Concernant la validation de la BDD des arbres, il en est ressorti des erreurs de
 Pour faire le bilan de cette journée, les conseillers ne nous avaient pas menti en disant que cette journée serait chargée. Vu comme les conseillers étaient sollicités, ce sentiment est sûrement partagé par l’ensemble des équipes. Malgré tout, une fois avoir pris en main nos nouveaux outils de travail, nous avançons efficacement. Nous avons réalisé l’ensemble du travail sur lequel nous nous étions engagés, et nous avons même réussi à traiter une base de données supplémentaire ! Pour retrouver facilement la marche à suivre lors de la mise en qualité de données, vous pourrez dans le futur vous référer à ce carnet de bord ou suivre les étapes inscrites à gauche de la BDD dans Workbench pour facilement retrouver nos différentes manoeuvres. Demain, nous pourrons donc bien publier les données sur le budget communal, sur les arbres, sur les espaces verts et enfin sur les subventions allouées aux associations. 
 
 
-**Liens Workbench (fichiers validés) :***
+**Liens Workbench (fichiers validés) :**
 
 
 * [https://app.workbenchdata.com/public/moduledata/live/582155.csv](https://app.workbenchdata.com/public/moduledata/live/582155.csv) (subventions associations)
@@ -242,7 +242,7 @@ Tout au long de la journée, lorsque nous avions des interrogations, les coachs 
 ![Organigramme des données](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_09.png)
 
 
-***Réalisations du jour : ***
+**Réalisations du jour :**
 
 * Fiche des jeux de données :
 [https://drive.google.com/file/d/1sL2WYMjZAHA_a3Zn4D8FpY06SXnw5B0x/view](https://drive.google.com/file/d/1sL2WYMjZAHA_a3Zn4D8FpY06SXnw5B0x/view) 
@@ -296,18 +296,18 @@ Autre exemple de difficulté, pour les subventions d’associations : nous ne sa
 A cause de ces difficultés, nous n’avions toujours pas fini nos dataviz respectives à 12h30. En milieu d’après-midi nous avons cependant tous réussi à réaliser les visualisations. La mise en page nous a cependant pris du temps, Excel ne nous permettant pas de modifier toutes les caractéristiques du graphique, nous sommes parfois passés par word pour agrandir la légende par exemple. 
 
 
-***Objectif n°2: Contextualisation ***
+**Objectif n°2: Contextualisation**
 
 Dans un deuxième temps, il nous a fallu expliquer nos choix car des visualisations ne sont jamais neutres. Nos choix pourront être lus ici : [https://docs.google.com/document/d/1V7J1KlKCjvqqjclNjclwwWtCp3yWcN1Ahn3HspdlGOw/edit#](https://docs.google.com/document/d/1V7J1KlKCjvqqjclNjclwwWtCp3yWcN1Ahn3HspdlGOw/edit#) 
 
 
-***Objectif n°3: Publication ***
+**Objectif n°3: Publication**
 
 
 Étant passés par Excel ou Google Sheets nous ne pouvions pas directement publier nos réalisations. Nous avons donc envoyé le lien de notre présentation avec toutes les dataviz à l’expert Arthur qui nous a apporté son aide.
 
 
-***Objectif n°4: Restitution ***
+**Objectif n°4: Restitution**
 
 
 De 17h à 18h30 nous avons restitué notre travail devant M. Philippe Chalopin, Maire de Baugé-en-Anjou, Mme Bénédicte Roux, M. Samuel Guede, et M. Emmanuel Vaslin. Nous avons commencé notre présentation par une restitution globale et brève de nos activités de la semaine, en rappelant les étapes clés de notre processus. Pour poursuivre, nous avons présenté nos différentes visualisations en les commentant. Il nous a fallu insister sur le fait que notre travail n’était pas d’analyser les données mais bien de les ouvrir, et que nos jeux de données ouverts étaient des exemples de ce que la collectivité pourrait faire. Il semble que le jeu de données sur les arbres ait intéressé nos interlocuteurs car il a permis de bien faire comprendre aux élus là où il manquait des données. Cette dataviz a en effet illustré l’utilité de la visualisation et de l’ouverture des jeux de données. M. Le Maire en a donc conclu qu’il fallait veiller à ce que leurs jeux de données soient complets. 
@@ -315,7 +315,7 @@ De 17h à 18h30 nous avons restitué notre travail devant M. Philippe Chalopin, 
 
 **CONCLUSION**
 
-***Bilan pour la commune***
+**Bilan pour la commune**
 
 Au terme de ces cinq jours de travail intensif, notre équipe dresse un bilan très positif de ce Challenge Data. Nous sommes ravis d’avoir pu fournir un travail précis et consciencieux à la Ville de Baugé-en-Anjou à partir des données fournies par ses différents services, que nous tenons à remercier tout particulièrement pour leur temps et réactivité tout au long de la semaine.
 
@@ -323,7 +323,7 @@ M. Vaslin, qui a suivi notre projet avec enthousiasme et intérêt, nous a chaud
 
 Comme le soulignait très justement M. Guède lors de notre première réunion avec la collectivité, s’engager dans l’open data permet non seulement de donner du sens à des données froides et inexploitées, mais surtout de mieux connaître sa Ville et ses habitants : ceci en fait un outil prometteur et pertinent dans les processus de renforcement démocratique. Nous espérons que la Ville trouvera un appui dans notre travail, et soutiendra dans les années à venir la mise en place d’un service ou d’un personnel responsable de l’open data !
 
-***Bilan pour le groupe***
+**Bilan pour le groupe**
 
 Notre groupe de six étudiants, tous issus de spécialités différentes, est ressorti plus soudé et qualifié de cette expérience, plus conscient des problématiques et des enjeux liés à l’open data. Nous avons particulièrement apprécié cette semaine de travail en groupe, à l’heure où les interactions sociales et les échanges entre jeunes se font rares, et nous tirons un bilan très positif de notre organisation ces cinq derniers jours. Les sessions de brainstorming et le travail en binôme se sont révélés être des stratégies efficaces et stimulantes, les compétences des uns (Excel, finances publiques, communication, etc) palliant aux difficultés des autres. Ce challenge nous a également redonné un rythme de travail structuré, avec un emploi du temps intense (9h-18h) mais indispensable pour fournir un travail de qualité en peu de temps. Nous regrettons néanmoins qu’il ait eu lieu en pleine période de partiels, de candidatures en masters, voire même de recherche de stage de M1 pour certains, mais comprenons que le choix des dates ait été grandement conditionné par le contexte exceptionnel de cette année. Nous sommes ravis d’avoir découvert des sites, logiciels et outils performants tels que Workbench, Airtable, Raw Graph, Gather et data.gouv.fr, qui nous seront sans nul doute utiles lors de futurs stages ou emplois et ne manqueront pas d’ajouter une plus-value à nos CV respectifs. Nous avons bien compris que ce challenge reposait sur une base de  “donnant-donnant”, ce qui nous a permis de l’aborder avec sérieux et enthousiasme.
 
