@@ -94,11 +94,12 @@ Bilan de la journée : Comme les autres jours, nous rencontrons une certaine dif
 
 Liens vers les jeux de données : 
 
-Comptes Administratifs de la Communauté de Commune du Pays de Mormal : ![](https://www.data.gouv.fr/fr/datasets/comptes-administratifs-de-la-communaute-de-commune-du-pays-de-mormal/) ;
+Comptes Administratifs de la Communauté de Commune du Pays de Mormal : 
+[https://www.data.gouv.fr/fr/datasets/comptes-administratifs-de-la-communaute-de-commune-du-pays-de-mormal/](https://www.data.gouv.fr/fr/datasets/comptes-administratifs-de-la-communaute-de-commune-du-pays-de-mormal/) ;
 
-Marchés Publics pour les années 2015, 2016, 2017 pour la Communauté de Commune de Pays de Mormal :  ![](https://www.data.gouv.fr/fr/datasets/marches-publics-pour-les-annees-2015-2016-2017-pour-la-communaute-de-commune-de-pays-de-mormal/) ;
+Marchés Publics pour les années 2015, 2016, 2017 pour la Communauté de Commune de Pays de Mormal :  [https://www.data.gouv.fr/fr/datasets/marches-publics-pour-les-annees-2015-2016-2017-pour-la-communaute-de-commune-de-pays-de-mormal/](https://www.data.gouv.fr/fr/datasets/marches-publics-pour-les-annees-2015-2016-2017-pour-la-communaute-de-commune-de-pays-de-mormal/) ;
 
-Subventions liées au confinement Covid-19 Pays de Mormal 2020 :  ![](https://www.data.gouv.fr/fr/datasets/subventions-liees-au-confinement-covid-19-pays-de-mormal-2020-1/) .
+Subventions liées au confinement Covid-19 Pays de Mormal 2020 :  [https://www.data.gouv.fr/fr/datasets/subventions-liees-au-confinement-covid-19-pays-de-mormal-2020-1/](https://www.data.gouv.fr/fr/datasets/subventions-liees-au-confinement-covid-19-pays-de-mormal-2020-1/) .
 
 
 ## JOUR 5 – VALORISATION
