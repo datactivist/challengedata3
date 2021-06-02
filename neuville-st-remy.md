@@ -275,12 +275,6 @@ Début du jeu de données subventions :
 ![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_09.png)
     
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
-
 
 Jeremy au début de la journée était chargé de rechercher des jeux de données existants pour  pouvoir créer un jeu propre sur les données scolaires. Il n’y avait en effet pas de template sur les données scolaires dans les 28 sur Workbench. Pour cela, il a d’abord tenté de retrouver des templates sur schema[ datagouv.fr](http://datagouv.fr),  open data France ou « communes pionnières de l’open data ». Cependant, ces sources se sont ici avérées inutiles car servent seulement à standardiser les données et ne contiennent pas d’exemple type pour des données scolaires. 
 
