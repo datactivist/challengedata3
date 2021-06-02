@@ -61,6 +61,8 @@ Julia  a joué un rôle primordial d’interlocutrice et nous a accompagnés tou
 
 <span style="text-decoration:underline;">Wishlist transmise à l’équipe :</span>
 
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_01.png)
+
 
 **Les apprentissages du jour ont été les suivants** : 
 
@@ -171,9 +173,11 @@ Ainsi, nous pensons avoir pu passer à travers chacune des étapes définies dan
 
 En définitive, cette journée a été importante pour cadrer notre travail et évaluer nos possibilités à la suite du travail de récolte. Cette étape nous permet de réellement nous projeter dans les jours à venir alors qu’hier matin il était plus compliqué de comprendre l’ampleur du travail. Bien que motivés, nous nous rendons compte qu’il nous faudrait des jours voire des semaines pour pouvoir mener à bien cette mission en entier. Toutefois, nous restons motivés et avons hâte de mettre en qualité les données récoltées aujourd’hui. 
 
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_02.png)
 
 Les documents du jour sont : 
 
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_03.png)
 
 ## JOUR 3 – MISE EN QUALITÉ
 
@@ -196,15 +200,13 @@ Le deuxième tableau est lui bien plus restreint. Il concerne les capacités de 
 Annexe 1 : Début du jeu de données 1 - Infrastructures Accueil Enfants 0-17 ans : 
 
 
-![alt_text](images/image1.png "image_tooltip")
-
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_04.png)
 
 
 Annexe 2 : Jeu de données 2 - Accueil de Loisirs “Les P’tits Futés”-Capacité
 
 
-![alt_text](images/image2.png "image_tooltip")
-
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_05.png)
 
 
 Clémence était chargée de créer le jeu de données sur les prénoms des nouveaux-nés et Yannis était chargé de créer le jeu de données sur l’état civil avec les mariages et les décès.  Plusieurs difficultés se sont présentées. 
@@ -228,23 +230,13 @@ Nous avons cependant pris conscience, grâce au schéma dont le lien figure sur 
 
 Début du jeu de données “prénoms” : 
 
-
-![alt_text](images/image3.png "image_tooltip")
-
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_07.png)
 
 
 Les difficultés étaient similaires pour les actes d’état civil. Il a dans un premier temps fallu se référer au schéma pour s’assurer que nous disposions des éléments obligatoires concernant les décès et les mariages. Il s’agit en l'espèce du jour, du nombre de décès ou mariage par jour considéré, et de l’année de relevé. Si les documents fournis comportent toutes ces informations, les tableaux Excel contenaient également des informations en trop, notamment les noms et prénoms des mariés ou des personnes décédées. Nous avons ainsi procédé au nettoyage sur Excel avant d’importer les fichiers sur Workbench. Ici aussi, il a fallu traiter des dates sous différentes formes (écrit en toutes lettres, avec des “/” ou des “-”)  Il fallait modifier ces dates au format standard pour l’état civil : aaaammjj. Il fallait également ajouter une colonne sur le nombre de mariages ou décès le même jour et trier du plus récent au plus ancien. Le travail le plus fastidieux a été d’importer les différents documents Excel qui comprenaient différentes formes d’écriture de dates  dans un seul document. 
 
 
 Il a ensuite fallu l'importer dans workbench. Il fallait supprimer les doublons pour que les dates où il y avait plusieurs événements ne soient inscrits qu’une fois, avec dans la colonne de droite leur nombre. L’ultime difficulté a concerné la validation. Ce jeu de données ne dispose pas de validateur, il a donc fallu le valider manuellement. Nous nous sommes à ce moment rendu compte que certaines dates présentaient des erreurs. En effet, il arrivait que l’année ne corresponde pas à la date événement. Il était donc nécessaire de modifier manuellement les années. Cette étape apparaît dans la case 8 sur Workbench et aurait pu être réalisée de manière automatique mais cette fonctionnalité n’a pas été trouvée. 
-
-
-Début du jeu de données “état civil” : 
-
-
-
-![alt_text](images/image4.png "image_tooltip")
-
 
 
 PA était chargé de s’occuper du jeu de données sur les subventions. Notre interlocutrice  nous avait transmis un tableau qui était malheureusement en format word. Il a également fallu trouver la carte d’identité de Subvention sur data.gouv/data.Paris pour pouvoir standardiser les données. Paul-Alexis a ainsi eu la tâche de transformer le fichier en excel et le nettoyer(cases vides, titre, lignes inutiles (Total), redéfinition en texte). Il a ensuite fallu ensuite importer le fichier sur workbenchdata. Malheureusement l’upload avait modifié complètement les chiffres, chiffres qui se sont retrouvés avec des décimales etc… PA a beaucoup cogité car certains chiffres étaient considérés comme des textes et d’autres comme des chiffres. Finalement après quelques temps, il a trouvé l’origine du problème et a refait un excel et à dû de nouveau retranscrire tous les chiffres. 
@@ -256,7 +248,7 @@ L’upload a finalement marché sur workbenchdata. Il manquait plus qu'à contac
 La dernière étape de mise en qualité concernait la validation. Pour cela, ce jeu de données “subventions” bénéficie d’un validateur. Après de nombreux essais, nous sommes parvenus à entrer le jeu dans le validateur et nous avons obtenu un score de cellules valides de 87.9% 
 
 
-![alt_text](images/image5.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_08.png)
 
 
 
@@ -280,7 +272,7 @@ Il faut enfin préciser que certains effectifs sont introuvables malgré les rec
 
 Début du jeu de données subventions : 
 
-
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_09.png)
     
 
 <p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -298,7 +290,7 @@ Jérémy a ensuite fait appel à Julia pour réfléchir sur les lignes qu’il f
 Début jeu de données “Provenance géographique des élèves de primaire scolarisés à NSR” : 
 
 
-![alt_text](images/image7.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_10.png)
 
 
 
@@ -393,7 +385,7 @@ Au sujet du logo, Paul-Alexis en avait créé 7 variantes, reprenant les couleur
 
 
 
-![alt_text](images/image8.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_11.png)
  
 
 
@@ -416,10 +408,7 @@ En parallèle, Yannis s’est connecté sur la plateforme data.gouv pour publier
 
 
 
-![alt_text](images/image9.png "image_tooltip")
-
-
-
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_12.png)
                
 
 
@@ -507,8 +496,7 @@ PA entama le pas en proposant un graphique de compartimentage représentant tout
 
 
 
-
-![alt_text](images/image10.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_13.png)
 
 
 Illustration 1: répartition des subventions auprès des associations de Neuville Saint-Rémy en 2020
@@ -517,7 +505,7 @@ Dans le même temps, un Yannis de compétition accoucha sur une datavisualisatio
 
 
 
-![alt_text](images/image11.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_14.png)
 
 
 Illustration 2: saisonnalité des mariages à Neuville Saint-Rémy entre 1983 et 2016
@@ -525,8 +513,7 @@ Illustration 2: saisonnalité des mariages à Neuville Saint-Rémy entre 1983 et
 Notre journée est allée de surprise en surprise. Alors que la réalisation des datavisualisations battait son plein, Manon et Jérémy se sont attelés à créer une datavisualisation géographique des infrastructures d’accueil des enfants de 0 à 17 ans. Un difficulté s’est rapidement présentée: les données géographiques préalablement entrées dans les jeux de données étaient erronées. Il a fallu les modifier (latitude, longitude) sur data.gouv. L’autre problème a été de trouver le bon contributeur, étant donné les droits d’auteur. Après acharnement, une première carte graphique faite à partir de Umap a vu le jour: une réussite difficile qui entamait le pas sur une journée à succès. 
 
 
-
-![alt_text](images/image12.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_15.png)
 
 
 Illustration 3: localisation des infrastructures d’accueil des enfants de 0 à 17 ans de la Ville de Neuville Saint-Rémy
@@ -535,7 +522,9 @@ En fin de matinée et en début d’après-midi, PA et Clémence ont créé non 
 
 
 
-![alt_text](images/image13.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_16.png)
+
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_17.png)
 
 
 Illustrations 4 et 5: TOP 10 des prénoms féminins et masculins des Neuvillois(es) de 1983 à 2016
@@ -545,10 +534,7 @@ Illustrations 4 et 5: TOP 10 des prénoms féminins et masculins des Neuvillois(
 
 Dans un but plus statistique, PA a réalisé 3 graphiques superposés qui prenaient en compte à la fois le nombre de naissances de filles et de garçons, le nombre totale de naissances et la répartition des naissances en fonction du sexe. La difficulté a été de mettre en statut secondaire les diagrammes et les courbes pour pouvoir rendre harmonique le graphique cumulé. Comme dans tous les graphiques utilisant ces jeux de données, l’année 2013 manquait des données fournies par la mairie. Néanmoins, la tendance globale subsistait. La formule =NB.SI.ENS a été très utile pour aller dénicher dans les milliers de ligne le nombre d’occurence du sexe par année et permettre les diagrammes en bâton. Le graphique de comparaison était fait.
 
-
-
-![alt_text](images/image14.png "image_tooltip")
-
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_18.png)
 
 Illustration 6: comparaison de la proportion de filles et de garçons nés à Neuville Saint-Rémy entre 1983 et 2016
 
@@ -560,8 +546,7 @@ Clémence et Manon ont eu un appel surprise en début d’après-midi de notre i
 Pour continuer dans une bonne voie, Jérémy a recruté Yannis pour créer une nouvelle map de datavisualisation encore plus difficile à réaliser. L’idée était de cartographier la provenance géographique des élèves de primaires scolarisés à Neuville Saint-Rémy. L’implacable Jérémy s’est donc lancé dans une course contre la montre toute l’après-midi et a fait face à de nombreux problèmes. Faire une capture d’écran d’une carte de la ville et pointer maladroitement les emplacements sans distinction quantitative était d’emblé rejeté. La qualité, ou rien. Après avoir choisi le format bubble map chart, il fallait trouver un logiciel: Umap n’a pas répondu aux attentes, alors à partir d’une vidéo explicative sur youtube, Excel a été une nouvelle fois choisi. Au début, il était pensé de saisir les données géographiques des communes une par une et changer les colonnes de workbench, puis de les exporter en csv. Mais cela n’a pas fonctionné. La deuxième option se révelera être la bonne: importer la couverture géographique de google maps en arrière plan d’un graphique à point où chaque point correspond à une localisation d’une ville d’où proviennent les élèves. La précision nécessaire était conséquente. Il restait à changer la taille des villes pour les rendre proportionnelles au nombre d’élèves qu’elles envoyaient: l’effectif a été rentré pour faire concorder. Le dernier problème a été de rendre transparente la bulle correspondante à Neuville pour ne pas occulter les deux villes dans le rayon proche de la ville. Une fois fait, quelques ajustements ont suffit. Le jeu en valait la chandelle, le résultat laisse sans voix.
 
 
-
-![alt_text](images/image15.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb03_19.png)
 
 
 Illustration 7: cartographie bubble map chart de la provenance géographique des élèves de primaire scolarisés à Neuville Saint-Rémy
