@@ -167,7 +167,7 @@ Mindmap : [https://l.facebook.com/l.php?u=https%3A%2F%2Fapp.mindmup.com%2Fmap%2F
 [https://app.mindmup.com/map/_free/2021/02/87e69f10704311ebae67bbcc1838520c?fbclid=IwAR1z017jB9FvVbrtoEHBni_v8UPB6vG2oDw-oXoIgFFxMuKcxbx4GaWs4hg](https://app.mindmup.com/map/_free/2021/02/87e69f10704311ebae67bbcc1838520c?fbclid=IwAR1z017jB9FvVbrtoEHBni_v8UPB6vG2oDw-oXoIgFFxMuKcxbx4GaWs4hg)
 
 
-TABLEAU
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb18_03.png)
 
 ## JOUR 3 – MISE EN QUALITE
 
@@ -176,15 +176,14 @@ A 9h, nous suivons  la réunion habituelle durant laquelle nous prenons une phot
 
 
 
-![alt_text](images/image3.png "image_tooltip")
+![](https://user-images.githubusercontent.com/52663777/120489029-94ee2a80-c3b7-11eb-8b32-8e7871972d09.png)
 
 
 
 Il s’agit aujourd’hui de faire la mise en qualité de nos données afin de les rendre utiles.  Nous allons donc traiter les différents jeux de données que nous avons conservés.
 
 
-![alt_text](images/image4.png "image_tooltip")
-
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb18_05.png)
 
 
 **<span style="text-decoration:underline;">Etape 1 : le Nettoyage : </span>**
@@ -236,7 +235,7 @@ Nous avons eu un problème car nous ne savions pas si on devait garder la colonn
 
 
         
-![alt_text](images/image5.jpg "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb18_06.png)
 
 
 
@@ -377,8 +376,11 @@ Alix et Emma ont d’abord cherché et testé les différents logiciels afin de 
 
 **Le diagramme en bâton**
 
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb18_07.png)
 
 **Le diagramme en courbe:**
+
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb18_08.png)
 
 
 **Difficultés**: 
@@ -390,8 +392,9 @@ Alix et Emma ont d’abord cherché et testé les différents logiciels afin de 
 Les garçons se demandent d’abord quelles données représenter: les sexes ? les prénoms? les occurrences? les préférences des prénoms? 
 
 
-Le jeu de données qu’ils possèdent amenait à réaliser des diagrammes de répartition et de distribution des données, c’est pourquoi ils ont décidé de choisir les histogrammes. Leur premier histogramme a été réalisé sur workbench: il représente les 10 prénoms les plus donnés entre 2018 et 2020. La seule réserve de ce graphique est le manque d’exhaustivité puisqu’il s’agit seulement de 10 prénoms (sur une courte période) dont l'occurrence n’est pas si élevée. 
+Le jeu de données qu’ils possèdent amenait à réaliser des diagrammes de répartition et de distribution des données, c’est pourquoi ils ont décidé de choisir les histogrammes. Leur premier histogramme a été réalisé sur workbench: il représente les 10 prénoms les plus donnés entre 2018 et 2020. La seule réserve de ce graphique est le manque d’exhaustivité puisqu’il s’agit seulement de 10 prénoms (sur une courte période) dont l'occurrence n’est pas si élevée.
 
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb18_09.png)
 
 Ensuite les garçons ont voulu analyser la répartition des prénoms en fonction du sexe. Pour cela, ils ont choisi d’utiliser opendatasoft. 
 
@@ -401,6 +404,7 @@ Ils ont d’abord réaliser un simple diagramme circulaire pour regarder la rép
 
 **Diagramme circulaire:**
 
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb18_10.png)
 
 **Diagramme à barres empilées**
 
@@ -413,9 +417,11 @@ Ils ont donc réalisé un diagramme en bâton pour chaque année avec les trois 
 
 **Diagramme en bâton des trois prénoms masculins les plus utilisés par année**
 
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb18_13.png)
 
 **Diagramme en bâton des trois prénoms féminins les plus utilisés par année**
 
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb18_14.png)
 
 **Difficultés**: 
 
@@ -438,12 +444,14 @@ Ainsi nous avons importé le template sur excel où nous avons rajouté une colo
 
 Nous avons donc représenté le nombre d'occurrence des sujets abordés en délibérations entre 2003 et 2020. 
 
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb18_15.png)
+
 
 **Histogramme des matières les plus examinées entre 2003 et 2020**
 
-
 Nous avons ensuite décidé de ne retenir que les matières dont les occurrences dépassaient les 100: 
 
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb18_16.png)
 
 Nous avons donc sélectionné 7 matières (finances locales, institutions et vie politique, commande publique, domaine et patrimoine, intercommunalité, fonction publique et urbanisme). 
 
@@ -459,6 +467,7 @@ Notre graphique représente donc les matières les plus importantes selon les an
 
 **Graphique sur l’évolution des 7 matières les plus examinées selon les années**
 
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb18_17.png)
 
 Une fois nos graphiques terminés, nous avons fait une pause déjeuner. Puis nous avons tous rédigé les fiches explicatives liées à nos graphiques. 
 
@@ -477,6 +486,7 @@ De leur côté, Alix et Daniel ont amélioré notre mindmap: couleurs pour les d
 
 **Les éléments en gris concernent les données non reçues ou non exploitées après décision du groupe.**
 
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb18_18.png)
 
 Plus le temps passait, plus nous nous rapprochions du rendu. L’atmosphère était mêlée de stress, d’excitation et de nostalgie pour cette dernière soirée ensemble. 
 
@@ -569,3 +579,5 @@ Outre cette réussite, à savoir le fait que nous avons réussi à apprivoiser d
 
 
 C’est non sans nostalgie que nous mettons un terme à ce carnet de bord et au Challenge Data. L’expérience fut riche et intense. Une chose est certaine : nous avons tout « données » !
+
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb18_19.png)
