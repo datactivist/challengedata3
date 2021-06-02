@@ -16,7 +16,7 @@ Une fois tout le monde réuni, nous avons pu faire la connaissance de tous les m
 Nous sommes donc tous très enthousiastes à l’idée de concrétiser ce projet, mais n’avons pour l’instant aucune certitude sur les choix de la commune. Nous sommes dans l’attente de la réponse de Mme Roux afin de pouvoir commencer à rechercher les données exploitables à partir de demain. C’est une difficulté et une source d’inquiétude pour notre groupe : Mme Roux a tenu à ce qu’elle centralise nos demandes, et non pas à ce que nous contactions nous mêmes les services concernés. Ce n’est pas un problème en soi, et pourrait même paraître plus simple, cependant Mme Roux nous a indiqué être absente demain, mardi. Nous espérons donc qu’elle puisse nous envoyer au plus vite la wishlist finalisée afin que nous puissions commencer nos recherches. 
 
 
-Voici, à ce jour, les thèmes que nous avons relevés et que nous avons récapitulés par mail à Mme Roux : 
+Voici, à ce jour, les thèmes que nous avons relevés et que nous avons récapitulés par mail à notre référent : 
 * Budget primitif : autorisations de programmes et crédits de paiements
 * Marchés publics : critères sociaux/environnementaux
 * Marchés publics : critères de genre et de promotions
@@ -31,6 +31,7 @@ Voici, à ce jour, les thèmes que nous avons relevés et que nous avons récapi
 
 
 **JOUR 2 – IDENTIFICATION**
+
 ***2.1 Exploration à la recherche de données***
 
 Ce matin, nous sommes repartis de la réponse de Madame Bénédicte Roux, Directrice Générale des Services, que nous avons reçue hier soir, après la fin de la première journée. Elle nous y avait communiqué la hiérarchie des jeux de données possiblement ouvrables ainsi que les coordonnées des services à contacter pour obtenir ces données. Nous avons fixé une réunion avec Monsieur Vaslin, adjoint au Maire de Baugé-en-Anjou, afin de lui présenter à 16h30 le choix des jeux de données que nous pouvions retenir pour l’ouverture. Nous avons envoyé des courriels aux différents services et personnes pour lesquels Madame Roux nous avait fourni des contacts. Nous avons fait face à quelques difficultés durant cette étape. Madame Roux était absente ce jour-là, mardi 16 février. Autre difficulté rencontrée, les premiers services à nous communiquer des données ne nous ont pas fourni le fichier ou document complémentaire pour comprendre les données choisies (sigles, abréviations etc.). 
