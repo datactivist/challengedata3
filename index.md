@@ -1,10 +1,10 @@
 # Liste des carnets de bord (par ordre alphabétique)
 
 ## Armentières (Commune)
-[![Illustration réalisée par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata3/blob/main/images_cdb/armentieres.jpeg)](https://datactivist.coop/challengedata3/armentieres)
+[![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/armentieres.jpeg)](https://datactivist.coop/challengedata3/armentieres)
 
 ## Baugé-en-Anjou (Commune)
-[![Illustration réalisée par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata3/blob/main/images_cdb/baugeenanjou.JPG)](https://datactivist.coop/challengedata3/baugeenanjou)
+[![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/baujeenanjou.JPG)](https://datactivist.coop/challengedata3/baugeenanjou)
 
 ## Beauvais (Commune)
 [![Illustration réalisée par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata3/blob/main/images_cdb/beauvais.JPG)](https://datactivist.coop/challengedata3/beauvais)
