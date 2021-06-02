@@ -375,15 +375,15 @@ Les logiciels proposés par Datactivist (Rawgraphs et opendatasoft) ainsi que wo
 
 
 
-*   **Alix et Emma: Les actes civils **
+*   **Alix et Emma: Les actes civils**
 
 Alix et Emma ont d’abord cherché et testé les différents logiciels afin de trouver les meilleurs modèles graphiques. Elles ont très vite écarté Workbench car le jeu de données des actes civils possède différent type d’évènement au sein d’une même colonne et sans transformation en nombre (les données événements sont en format texte) il était impossible de les représenter sur ce site. Ainsi les filles ont choisi d’aller sur opendatasoft ce qui leur offrait la possibilité de faire des diagrammes en bâtons. Le logiciel était compliqué à s’approprier, les filles ont dû se créer un compte et au bout de quelques essais mêlant maîtrise, chance et hasard elles ont obtenu un graphique en bâton permettant de comparer les naissances, les décès et les mariages. Afin de diversifier les visualisations, elles ont également réalisé un diagramme en courbe. Ces deux graphiques permettent donc de comparer plus facilement les grandes tendances des mariages, naissances et décès sur 20 ans. 
 
 
-**Le diagramme en bâton **
+**Le diagramme en bâton**
 
 
-**Le diagramme en courbe: **
+**Le diagramme en courbe:**
 
 
 **Difficultés**: 
