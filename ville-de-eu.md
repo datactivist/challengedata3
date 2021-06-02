@@ -13,7 +13,7 @@ La ville de Eu est une commune française qui se situe dans le département de l
 Notre entretien téléphonique s’est déroulé avec notre interlocuteur, un responsable informatique. A l’issue de notre questionnaire, nous avons pu déterminer les objectifs à atteindre ainsi que les motivations qui ont poussé la commune à s’inscrire au Data Challenge. 
 
 
-La municipalité de la commune de Eu est composée de 200 agents. A l’heure actuelle, **aucun service n’est dédié à la politique de l’Open Data**. En effet, le Challenge Data organisé en partenariat avec les étudiants de Sciences Po Saint-Germain constitue une occasion pour mettre en place un premier système de collecte de données et de pérenniser cette pratique sur le long terme. C**ertaines données sont déjà disponibles** sur le site de la ville, sur les réseaux sociaux (page Facebook) ainsi que via l’application de la commune. Cependant, elles s**e limitent pour la plupart du temps à des comptes-rendus municipaux et  n’ont pas été réalisées selon les critères gouvernementaux.**
+La municipalité de la commune de Eu est composée de 200 agents. A l’heure actuelle, **aucun service n’est dédié à la politique de l’Open Data**. En effet, le Challenge Data organisé en partenariat avec les étudiants de Sciences Po Saint-Germain constitue une occasion pour mettre en place un premier système de collecte de données et de pérenniser cette pratique sur le long terme. **Certaines données sont déjà disponibles** sur le site de la ville, sur les réseaux sociaux (page Facebook) ainsi que via l’application de la commune. Cependant, elles **se limitent pour la plupart du temps à des comptes-rendus municipaux et n’ont pas été réalisées selon les critères gouvernementaux.**
 
 
 Les difficultés à la mise en place d’un tel système sont notamment liées au **manque de temps et de moyens de la municipalité**. Notre interlocuteur insiste ainsi sur la volonté d’automatiser ces récoltes de données afin de fournir des services complets et efficaces aux administrés. A partir de ces informations, nous avons pu établir avec notre interlocuteur une liste des jeux de données les plus pertinents à traiter. Au vue de l’état peu avancé de la politique de l’Open Data dans la ville de Eu, nous nous sommes limités aux données de niveau 1 qui relèvent d’une obligation légale de publication : 
@@ -30,7 +30,7 @@ Les difficultés à la mise en place d’un tel système sont notamment liées a
 
 A la suite de notre rendez-vous téléphonique, les réponses à notre questionnaire ont été retranscrites sur Airtable et nous avons pu déterminer le niveau de maturité de la commune de Eu : celle-ci correspond ainsi au niveau 2. 
 
-Afin d’obtenir les bases de données pré-existantes, notre interlocuteur nous a transmis le contact d’une personne responsable du service de la communication. **Nous n’avons pas réussi à la contacter, celle-ci n’étant pas disponible**. De plus, nous devions passer par l’intermédiaire d’une standardiste qui, n’étant pas au courant de notre mission, **manifestait de la méfiance à notre égard. **
+Afin d’obtenir les bases de données pré-existantes, notre interlocuteur nous a transmis le contact d’une personne responsable du service de la communication. **Nous n’avons pas réussi à la contacter, celle-ci n’étant pas disponible**. De plus, nous devions passer par l’intermédiaire d’une standardiste qui, n’étant pas au courant de notre mission, **manifestait de la méfiance à notre égard.**
 
 Dans l’après-midi, nous avons appelé un membre de la direction générale des services qui  nous a invité à prendre contact avec une contrôleuse de gestion. Cette dernière doit nous transmettre dans la journée les bases de données liées au budget primitif, aux délibérations et aux subventions. 
 
@@ -67,7 +67,7 @@ En ce qui concerne la base de données sur les actes d'état civils, nous avons 
 
 Il manque beaucoup de données sur le fichier des marchés publics : \
 l’ID du marché ; le marché U ; les acheteurs ID ; Nom des acheteurs ; le CPV Code (id de l’objet du marché) ; Procédure ; Lieu exec code (7610 ?) code du bureau centralisateur du canton ; Durée ; date de notification ; date de publication ; montant. \
-Nous avons donc rappelé une dame pour avoir un accès à ces informations, étant absente demain, **nous aurons les fichiers seulement jeudi. **
+Nous avons donc rappelé une dame pour avoir un accès à ces informations, étant absente demain, **nous aurons les fichiers seulement jeudi.**
 
 En ce qui concerne les équipements publics, nous avons utilisé la base de données de l’INSEE car la commune n’avait rien à fournir. Nous rencontrons des difficultés de formats avec le fichier téléchargé et l’importation sur Workbench. Grâce à Magalie nous avons pu enfin l’ouvrir après plusieurs essais.  \
 Un membre du service technique nous a indiqué que les seuls documents EXCEL qu’il pouvait nous fournir étaient obsolètes (certains établissements n’existant plus ou ayant changé de propriétaires, etc). Il a accès aux données concernant les équipements collectifs via le progiciel Atal et n’est pas en mesure de nous les fournir. En effet, celui-ci ne peut nous fournir la liste qu’en format PDF et il est impossible de nous transmettre les adresses car il lui faudrait cliquer sur la fiche de chaque établissement collectif et créer des fichiers PDF pour chacun.  \
@@ -77,12 +77,12 @@ Pour les subventions, il y a eu un problème de communication avec le Secrétari
 Nous avons finalement réussi à mettre les données sur Workbench, mais il manque: la date exacte de convention, l’identifiant attribuant, l’identifiant du bénéficiaire, la nature, les objets, les conditions de versements et leur date  (mais étant donné la taille de la collectivité, peut-être que ce sont toujours des versements uniques),  \
  La référence de la décision n’est pas en bonne forme
 
-Nous avons reçu des **fichiers pour le CA avec de nombreuses pages **pour remplir le budget primitif. Sur certaines pages on trouve des tableaux détaillés, mais le travail semble fastidieux (copier les tableaux intéressants, 1 par 1).
+Nous avons reçu des **fichiers pour le CA avec de nombreuses pages** pour remplir le budget primitif. Sur certaines pages on trouve des tableaux détaillés, mais le travail semble fastidieux (copier les tableaux intéressants, 1 par 1).
 
 Pour les fichiers des élections, on nous dit qu’ils sont disponibles sur le site de la préfecture, mais nous avons besoin des détails par bureau de vote, une personne du service élection est donc censée nous les faire parvenir.
 
-![alt_text](images/image1.png "image_tooltip")
 
+**Livrable :**  [Whishlist](https://drive.google.com/file/d/1UZboRJf8GcsrfCUtYDVB3U_0b0-c3X9u/view?usp=sharing) 
 
 
 ## JOUR 3 – MISE EN QUALITÉ
@@ -106,24 +106,25 @@ En ce qui concerne les résultats des élections présidentielles, différents a
 Sacha et Emma B. traitent les données sur le budget primitif à l’aide de deux bases de données : le budget primitif et le compte administratif. Ils ont traduit et croisé les données sur un fichier excel lui-même basé sur le template exemple du WorkBench, afin de créer la base de données finale du budget primitif. Ce fut très long et difficile et ils ne sont pas certains de pouvoir terminer à collecter toutes les données demandées par l’exemple du benchwork 
 
 
-_Subventions : [https://app.workbenchdata.com/workflows/132558](https://app.workbenchdata.com/workflows/132558) _
+_Subventions_ : [https://app.workbenchdata.com/workflows/132558](https://app.workbenchdata.com/workflows/132558) 
 
 
-_marché public : [https://app.workbenchdata.com/workflows/132553](https://app.workbenchdata.com/workflows/132553) _
+_marché public_ : [https://app.workbenchdata.com/workflows/132553](https://app.workbenchdata.com/workflows/132553) 
 
 
-_elections présidentielles : [https://app.workbenchdata.com/workflows/132916/](https://app.workbenchdata.com/workflows/132916/) _
+_elections présidentielles_ : [https://app.workbenchdata.com/workflows/132916/](https://app.workbenchdata.com/workflows/132916/) 
 
 
-_equipements : [https://app.workbenchdata.com/workflows/132666/](https://app.workbenchdata.com/workflows/132666/) _
+_equipements_ : [https://app.workbenchdata.com/workflows/132666/](https://app.workbenchdata.com/workflows/132666/) 
 
 
-_Délibérations (terminé) [https://app.workbenchdata.com/workflows/132599/](https://app.workbenchdata.com/workflows/132599/) _
+_Délibérations_ (terminé) : [https://app.workbenchdata.com/workflows/132599/](https://app.workbenchdata.com/workflows/132599/) 
 
 
-_Budget primitif: _
+_Budget primitif_ : 
 
-![alt_text](images/image2.png "image_tooltip")
+
+![Organigramme](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb17_02.png)
 
 
 
@@ -134,9 +135,9 @@ Afin de faire valider les bases de données et les fiches descriptives liées, n
 
 
 
-*   Emma m’informe qu’elle a en sa possession deux bases de données **équipements** **collectifs publics**: mais seule celle de l’INSEE est conforme avec validata. Emma et Garance ont donc dû chercher les adresses manquantes sur google maps pour le fichier équipements collectifs** **fournis par la commune** **car il y avait parfois des points de localisation sans les noms de rue.
+*   Emma m’informe qu’elle a en sa possession deux bases de données **équipements collectifs publics**: mais seule celle de l’INSEE est conforme avec validata. Emma et Garance ont donc dû chercher les adresses manquantes sur google maps pour le fichier équipements collectifs **fournis par la commune car il y avait parfois des points de localisation sans les noms de rue**.
 
-Cependant le fichier de la commune va quand même être publié car il reste intéressant pour les communes d’avoir certaines informations (des géo-localisations par exemple). Il faut donc que nous fassions valider la base de données** équipements collectifs publics. **De nombreuses difficultés sont apparues sur le workbench car il a fallu rajouter la colonne SIRET sans laquelle on ne peut pas passer par le logiciel validata et ce fut très long car pour le valider il fallait rajouter une colonne en faisant du codage python. Au final bien une bonne validation par validata. YOUHOU !
+Cependant le fichier de la commune va quand même être publié car il reste intéressant pour les communes d’avoir certaines informations (des géo-localisations par exemple). Il faut donc que nous fassions valider la base de données **équipements collectifs publics.** De nombreuses difficultés sont apparues sur le workbench car il a fallu rajouter la colonne SIRET sans laquelle on ne peut pas passer par le logiciel validata et ce fut très long car pour le valider il fallait rajouter une colonne en faisant du codage python. Au final bien une bonne validation par validata. YOUHOU !
 
 *   Sacha a appelé ce matin le service des finances pour obtenir des précisions sur le budget. Sacha et Emma se sont rendu compte que l’exemple qu’ils ont utilisé du template de Bordeaux est de mauvaise qualité comparativement à une base de donnée mais ça ne leur change pas trop car ils ont rentré toutes les données. Ils doivent cependant renommer certains noms de colonnes à partir du standard fourni par datagouv. Au final bonne validation par Validata.
 *   Au sujet du Workflow créé pour les **élections présidentielles,** Manon s’est rendue compte que le format disponible dans l’onglet “Template” - qui normalement est le format standardisé - ne correspondait pas aux standards du site data.gouv.fr. Il aurait donc fallu refaire le travail d’hier pour obtenir un jeu de données standardisé. Finalement, nous avons abandonné cette base de données car le template était faux et pas le temps de continuer. De même sur les marchés publics, nous n’avons pas reçu les données complètes.
@@ -155,7 +156,7 @@ Nous pouvons la contacter demain à partir de midi pour lui communiquer le plan 
 **Prélancement** : informer le service communication, les élus, le maire + leur  expliciter les bénéfices politiques pour qu’ils les communiquent 
 
 
-**Lancement **: communication spontanée politique et informationnelles (réseaux)
+**Lancement**: communication spontanée politique et informationnelles (réseaux)
 
 
 Trois axes politiques (twitter et facebook) : transparence politique, améliorer l'information sur la ville pour faciliter l’accès des services aux citoyens; innovation technique dans l’air du temps.
@@ -180,7 +181,7 @@ Linkedin = explications avec avantage pour les milieux d’affaires…..
 = Publication des données/ mise en avant pour montrer leur avantages= visu avec cette mise en avant sur les réseaux. 
 
 
-**Post lancement **: évaluation 
+**Post lancement**: évaluation 
 
 Manon a envoyé le plan de communication au service dédié.
 
