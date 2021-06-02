@@ -128,7 +128,7 @@ Datavisualisations :
         
 
 
-![alt_text](images/image1.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb10_01.png)
 
 
 
