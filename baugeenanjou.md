@@ -42,7 +42,7 @@ Notre recherche a porté sur les dix jeux de données que souhaite ouvrir Baugé
 
 Nous avons constitué cet organigramme des données avec une carte mentale. Cette carte mentale permet de savoir vers quel service et quelle personne se tourner pour pouvoir avoir accès à tel ou tel jeu de données. Après avoir créé de grandes catégories pour indiquer les services, nous avons ajouté d’autres données sur les branches comme les noms des responsables présents au sein d’une direction, en plus du nom du directeur ou de la directrice de cette direction. Madame Roux nous avait fourni les adresses courriels de toutes les personnes à contacter pour obtenir ces jeux de données, ce qui a permis de réaliser cet organigramme relativement facilement. Nous n’avons pas éprouvé de difficulté particulière à constituer l’organigramme. 
 
-[![Organigramme des données](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_02.png)](https://datactivist.coop/challengedata3/armentieres)
+[![Organigramme des données](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_02.png)](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_02.png)
 
 ***2.3 Évaluer le travail de mise en qualité***
 
@@ -77,7 +77,7 @@ En tant que novices en traitement de données, il a parfois été difficile de t
 
 Après avoir fait ce travail d’évaluation des données, nous avons constitué une Wanted Data List. Sur ce document, nous avons indiqué par un code couleur le niveau de difficulté du travail d'ouverture de chaque jeu de données. Après avoir réalisé l’évaluation des données en fonction de la liste hiérarchisée souhaitée par la commune, nous nous sommes engagés vis-à-vis de la Ville à ouvrir leurs données sur trois jeux : le budget primitif (budget d’investissement), les espaces verts et les arbres (les deux sous-catégories de la catégorie espaces verts). Nous leur avons indiqué que nous pourrions peut-être ouvrir un ou deux autres jeux de données : celui des subventions aux associations et celui sur les usagers de la médiathèque. En effet, les trois premiers jeux de données correspondaient à une couleur verte, c’est-à-dire qu’ils ne nécessiteraient pas de grande difficulté pour être ouverts. De même, les deux autres jeux de données possibles correspondaient à une couleur verte et seraient donc facilement ouvrables. Nous pouvions donc nous engager sur un nombre significatif de jeux de données. Les autres jeux de données étaient plus difficilement ouvrables. La Ville a été satisfaite de constater que les jeux de données facilement ouvrables étaient également ceux qu’elles souhaitaient ouvrir en priorité. C’est pourquoi nous nous sommes engagés sur leurs trois premiers choix (le deuxième thème regroupant deux jeux de données). 
 
-[![La wanted data list de Baugé-en-Anjou](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/cdb16_01.png)]()
+[![La wanted data list de Baugé-en-Anjou](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_01.png)]()
 
 
 **JOUR 3 – MISE EN QUALITÉ***
