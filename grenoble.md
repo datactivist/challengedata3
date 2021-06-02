@@ -70,10 +70,11 @@ _Les **difficultés** sont survenues dès lors que nous avons cherché à contac
 *   Les **imprévus techniques** (mise à jour du site Gather, connexions instables, ordinateurs pas assez puissants)
 *   “**L’aveuglement**” de la métropole quant à l’**utilisation** faite de ces données à la suite de leur publication : elle ne peut pas accéder au nombre de téléchargements, il lui manque cette **traçabilité **qui lui permettrait d’évaluer précisément l’intérêt de l’open data.
 
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb19_01.png)
+
 Ci-dessous le tableau qui résume nos **efforts** du jour, hélas souvent vains. 
 
-![Wishlist](https://drive.google.com/file/d/1wTCmD7iW-uXbzh1EbXj4PGzJ4iWqNUvf/view?usp=sharing)
-
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb19_02.png)
 
 
 ## JOUR 2 – IDENTIFICATION
@@ -120,7 +121,12 @@ En dehors d'un imprévu technique qui a empêché la synchronisation au compte g
 
 Dire ce qu’on fait, c’est bien, mais dire ce qu’on n’a pas pu faire, c’est nécessaire aussi : nous avons choisi d'intégrer nos pistes de recherche externes à la collectivité à cette carte mentale, afin de rendre compte de notre parcours de recherche de manière quasiment exhaustive. Il en résulte donc un témoin assez fidèle de nos avancées du jour, laborieuses mais effectives.
 
-        INSERER ORGA
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb19_03.png)
+
+**Update de l'organigramme au 19/02**
+
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb19_04.png)
+
 
 **2.3 <span style="text-decoration:underline;">Évaluer le travail de mise en qualité</span>**
 
@@ -141,11 +147,7 @@ Quant aux données portant sur les **budgets primitifs 2020 de la Ville**, le do
 
 
         
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb19_05.png)
 
 
 
@@ -285,11 +287,7 @@ En premier lieu, la plupart des plateformes proposées semblent payantes ou trè
 
 
         
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb19_06.png)
 
 
 
