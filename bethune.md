@@ -339,7 +339,6 @@ Une **50**aine de mails échangés avec les agents de la mairie de Béthune
 **Tableau récapitulatifs des bilans individuels :**
 
 
-
 <table>
   <tr>
    <td>
@@ -358,7 +357,7 @@ Une **50**aine de mails échangés avec les agents de la mairie de Béthune
    </td>
    <td>Difficultés importantes avec l’outil Workbench. 
 <p>
-Difficultés à cause de mon manque sérieux de connaissances dans les outils tels qu’Excel mais aussi les compétences de base en informatique. 
+Difficultés à cause de mon manque sérieux de connaissances dans les outils tels qu’Excel mais aussi les compétences de base en informatique.
    </td>
    <td>Fédérateur
    </td>
@@ -366,7 +365,7 @@ Difficultés à cause de mon manque sérieux de connaissances dans les outils te
   <tr>
    <td><strong>Diane</strong>
    </td>
-   <td>Découverte de l’utilité de l’ouverture de données publiques - ce qui semble très abstrait quand on n’en a jamais vraiment entendu parler. J’ai également appris à utiliser beaucoup mieux Excel et j’ai découvert plein de logiciels que je connaissais pas du tout comme Open Street Map et Workbench, entre autres.  
+   <td>Découverte de l’utilité de l’ouverture de données publiques - ce qui semble très abstrait quand on n’en a jamais vraiment entendu parler. J’ai également appris à utiliser beaucoup mieux Excel et j’ai découvert plein de logiciels que je connaissais pas du tout comme Open Street Map et Workbench, entre autres.
    </td>
    <td>Difficultés à appréhender l’outil Workbench mais c’était amusant aussi de devoir rechercher comment l’utiliser en manipulant différentes fonctionnalités. Difficultés aussi pour la visualisation avec le jeu de données sur l’éclairage public - il y avait beaucoup d’informations à mettre en avant. La réussite c’était vraiment le résultat final, de voir ce qu’on avait accompli en 5 jours en visualisation.
    </td>
@@ -378,11 +377,11 @@ Difficultés à cause de mon manque sérieux de connaissances dans les outils te
    </td>
    <td>Impression d’avoir appris un métier en 5 jours.
 <p>
-Beaucoup de plateformes et de connaissances sur l’open data apprises en très peu de temps 
+Beaucoup de plateformes et de connaissances sur l’open data apprises en très peu de temps.
    </td>
    <td>Difficulté : toutes les difficultés techniques (workbench, dataviz), la fatigue à partir du 3ème jour, la mise en qualité chronophage 
 <p>
-Réussite : travail d’équipe et des résultats concrets 
+Réussite : travail d’équipe et des résultats concrets.
    </td>
    <td>Intense
    </td>
@@ -420,3 +419,5 @@ Réussite : arriver au bout de cette semaine en un seul morceau !
    </td>
   </tr>
 </table>
+
+
