@@ -1,5 +1,5 @@
 # Carnet de bord de l'ouverture des données de la CC des Villes Soeurs
-par  Gabriel Collardey, Paul Luppino, Elise Varlet, Mélissa Prou, Alexandre Teyssandier, Candide d’Amato
+par  Gabriel Collardey, Paul Luppino, Elise Varlet, Mélissa Prou, Candide D.
 
 <center><img src="./images_cdb/villessoeurs.jpeg"></center>
 
@@ -21,7 +21,7 @@ Les réponses que nous avons reçues ont été entrées afin de générer le tab
 * Fluidité de répartition des tâches et de la prise de décision 
 * Grosse matière à étudier et à traiter
 * Découverte de Tourinsoft et des attentes de la collectivité territoriale quant à l’autonomie de la gestion de leurs données.
-* Échanges cordiaux et réactifs avec notre référente Ferreira 
+* Échanges cordiaux et réactifs avec notre référente 
 
 **Points problématiques :**
 
@@ -37,7 +37,8 @@ Nous avons reçu les premiers jeux de données, lesquels sont difficilement lisi
 
 Prendre connaissance des jeux de données et des champs d’analyse. notre référente nous a prévenus que nous devions rassembler les bases de données du 76 (Seine Maritime) et du 80 (Somme). Il faudra que nous fusionnions les deux bases de données. 
 
-  
+**Livrable :**  [Whishlist](https://drive.google.com/file/d/1SRM1S5M4gpKD5R9A6jrH2fkGSJXiuZA9/view?usp=sharing) 
+
    
 
 ### JOUR 2 – IDENTIFICATION
@@ -73,18 +74,15 @@ Nous avons rencontré quelques difficultés sur Workbench, notamment parce que n
 
 Il a été décidé avec notre référente de ne pas travailler sur les données Patrimoines naturel et culturel car cela n’était pas jouable en termes de temps. La décision a été prise de nous concentrer exclusivement sur les hébergements, afin de rendre un travail qualitatif et en prévision de la création d’une map des hébergements, vendredi. 
 
-L’organigramme a été plutôt simple à établir. Nous n’avons en effet pas eu besoin de contacter nous-mêmes différents services. Notre référente avait accès aux jeux de données qu’elle nous a ensuite aimablement partagés. Elle nous a partagé le contact de Justine Follain, que nous contacterons mercredi afin d’avoir de plus amples informations.  
+L’organigramme a été plutôt simple à établir. Nous n’avons en effet pas eu besoin de contacter nous-mêmes différents services. Notre référente avait accès aux jeux de données qu’elle nous a ensuite aimablement partagés. Elle nous a partagé un contact que nous contacterons mercredi afin d’avoir de plus amples informations.  
 
 [Lien vers l’organigramme](https://app.mindmup.com/map/_free/2021/02/2366eef070fc11eb9b9ef934d234be45)
 
 
 ### JOUR 3 – MISE EN QUALITÉ
 
-Dans cette partie, vous aurez à expliquer les traitements réalisés sur les différents jeux de données à ouvrir : vos procédés et vos objectifs.
 
-Pièce à joindre : bilans des traitements exportés depuis Workbench
-
-Notre journée a débuté par le briefing général quotidien puis par une petite réunion avec notre référente Ferreira. Nous avons fait un point avec elle afin d’avoir son retour sur le travail que nous avions déjà effectué hier sur workbench, nous souhaitions nous assurer que tout lui convenait et que notre travail correspondait aux besoins et aux attentes de la CCVS. Nous avons eu l’opportunité d’échanger  avec Justine Follain qui travaille quotidiennement la donnée via l’extranet Tourinsoft. Elle nous a expliqué son travail, l’usage et l’utilité de Tourinsoft, les problématiques liées au RGPD et les difficultés fréquemment rencontrées pour collecter les données auprès des professionnels du tourisme pour aboutir à des bases complètes et toujours actualisées. 
+Notre journée a débuté par le briefing général quotidien puis par une petite réunion avec notre référente. Nous avons fait un point avec elle afin d’avoir son retour sur le travail que nous avions déjà effectué hier sur workbench, nous souhaitions nous assurer que tout lui convenait et que notre travail correspondait aux besoins et aux attentes de la CCVS. Nous avons eu l’opportunité d’échanger avec un contact qui travaille quotidiennement la donnée via l’extranet Tourinsoft. Cette personne nous a expliqué son travail, l’usage et l’utilité de Tourinsoft, les problématiques liées au RGPD et les difficultés fréquemment rencontrées pour collecter les données auprès des professionnels du tourisme pour aboutir à des bases complètes et toujours actualisées. 
 
 Notre référente nous a apporté quelques compléments d’informations afin de peaufiner notre organigramme que nous avons donc détaillé davantage. 
 
@@ -114,6 +112,9 @@ Nous avons ensuite créé le compte Open Data des Villes-Sœurs pour publier not
 
 En même temps que la création et la publication des données une équipe s’est occupée du plan de communication de la CCVS. Nous avons proposé à notre référente de réaliser un bulletin d’information pour le site internet, ainsi que des visuels pour les réseaux sociaux de l’office de Tourisme du Tréport-Mers. Après validation de sa part, nous avons utilisé l’outil Canva pour produire ces visuels. Les visuels ont été déposés sur le drive auquel notre référente a accès. Nous avons aussi choisi de proposer deux logo en lien avec l’événement challenge data, que la communauté pourra réutiliser pour la communication en lien avec l’événement.
   
+[Lien vers le jeu publié](https://www.data.gouv.fr/fr/datasets/hebergement-touristique-ccvs/)
+
+
 
 ### JOUR 5 – VALORISATION
  
@@ -134,16 +135,12 @@ Nous avons réalisé trois supports de datavisualisations. Le template est simpl
 
 ### CONCLUSION
 
-Dans cette partie, vous aurez à faire un double bilan : celui de la commune, celui de votre groupe. Combien de jeux de données ont été ouverts ? Quels ont été les freins et les leviers de cette ouverture de données ? Et à vous en tant qu’étudiants en sciences politiques, que vous a appris cette semaine ? Qu’est-ce qu’elle vous a apporté ?
-
-La conclusion devra également présenter votre plus gros casse-tête et votre plus belle réussite dans l’ouverture des données afin de permettre à notre facilitatrice graphique [Anne-Cécile Calléjon](https://annececilecallejon.com/) de dresser le bilan de votre expérience en dessin !
-
 Après une semaine riche d’enseignements comme de pratique, nous approchons enfin de la restitution finale de notre projet. Ce travail de longue haleine, réalisé aux côtés de l’équipe de Datactivist et de l’équipe de la communauté de communes des Villes Soeurs, a progressivement pu prendre forme jusqu’à parvenir à une version plus aboutie de la mise en forme des données. Nous avons pu travailler sur 10 jeux de données différents, des hôtels en passant par les campings. Ces jeux de données ont été minutieusement choisis et les données nous ont été fournies par notre référente locale. Nous avons dû mettre ces données en ordre et sélectionner les champs. Ces données ont été soigneusement “nettoyées” et standardisées, de façon à permettre davantage de clarté. La dispersion de la communauté de commune des Villes Soeurs sur deux départements (76 et 80) n’était pas un avantage pour travailler sur les données, car celles-ci n’étaient pas réunies.
 
 Le nettoyage des données, comme tout le reste de notre travail, était également conditionné par la loi et notamment le RGPD. Nous nous devions de protéger les données des personnes privées, et le Challenge Data fut l’occasion d’en apprendre davantage sur les contours de ce règlement. En plus de ce savoir, le Challenge Data a été une très bonne façon d’apprendre à collaborer avec une collectivité territoriale. Nous avons pu constater une disparité a priori dans la publication des données ouvertes entre territoires urbains et ruraux, et cette semaine a pu permettre d’aider une communauté de communes à parvenir à une mise à niveau. Les Villes Soeurs étant une CDC très touristique et riche en infrastructures, ce travail a permis de répondre à un impératif de clarté, de transparence et de facilitation du travail des professions relevant du tourisme.
 
 Les compétences acquises relativement aux données, en termes de nettoyage, de traitement, de standardisation et de présentation furent importantes et pourront servir à l’avenir. Ce travail d’équipe a nécessité une grande cohésion de groupe et a permis d’améliorer notre esprit d’équipe. 
 
-La plus grande difficulté rencontrée fut celle avec le logiciel Workbench, qui n’est pas adapté au travail de groupe et ne permet pas de travailler à plusieurs sur la plateforme. Nos données n’étaient pas compatibles avec Workbench et ont dû être corrigées et adaptées.
+La plus **grande difficulté** rencontrée fut celle avec le logiciel Workbench, qui n’est pas adapté au travail de groupe et ne permet pas de travailler à plusieurs sur la plateforme. Nos données n’étaient pas compatibles avec Workbench et ont dû être corrigées et adaptées.
 
-La plus belle de nos réussites réside dans la campagne de communication que nous avons pu mettre en place, mais également dans les divers graphiques réalisés par notre équipe et le travail effectué avec le logiciel Excel. Nous sommes parvenus à mettre en forme et à rendre plus intelligibles des données qui peuvent initialement sembler obscures et abstraites, répondant ainsi à l’impératif d’évolution vers une République numérique.---
+La plus **belle de nos réussites** réside dans la campagne de communication que nous avons pu mettre en place, mais également dans les divers graphiques réalisés par notre équipe et le travail effectué avec le logiciel Excel. Nous sommes parvenus à mettre en forme et à rendre plus intelligibles des données qui peuvent initialement sembler obscures et abstraites, répondant ainsi à l’impératif d’évolution vers une République numérique.---
