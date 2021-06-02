@@ -80,7 +80,7 @@ Après avoir fait ce travail d’évaluation des données, nous avons constitué
 [![La wanted data list de Baugé-en-Anjou](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_12.png)]()
 
 
-**JOUR 3 – MISE EN QUALITÉ***
+**JOUR 3 – MISE EN QUALITÉ**
 
 Hier, nous avons obtenu les bases de données depuis les différents services municipaux, puis déterminé en concertation avec M.Vaslin la sélection des sujets d’étude que nous traiterons en priorité. Il s’agira aujourd’hui de traiter ces bases de données - en l'occurrence celle du budget, des espaces verts et des arbres - pour qu’elles puissent être exploitables. 
 
@@ -112,7 +112,7 @@ Il a donc fallu remplir ces cases par des “0” car autrement le programme ne 
 *   Uniformisation : Dans la même idée, il faut que chaque ligne et chaque colonne soit cohérente dans ses informations. On ne doit pas trouver dans la même colonne des cases de texte et des cases de chiffres ou deux informations qui n’ont pas de rapport entre elles (mis à part la ligne des titres). Certaines informations de notre base de données des espaces verts étaient par exemple inscrits en km2 au lieu de m2, or il faut que toutes les informations d’une même colonne soient notées dans la même unité. 
 
 
-***2 - La compilation des données*</span>***
+***2 - La compilation des données***
 
 
 Vient ensuite l’étape de la compilation. Il s’agit en d’autres termes de mettre sur une base de données unique des données provenant de fichiers multiples.
