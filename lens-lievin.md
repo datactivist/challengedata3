@@ -94,7 +94,9 @@ Evaluation des données :
 
 Voici notre organigramme : 
 
-![alt_text](images/image1.png "image_tooltip")
+
+![Organigramme](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb13_01.png)
+
 
 
 
@@ -112,8 +114,6 @@ Trier le jeu de 860 données s’avère particulièrement long et fastidieux. No
 
 Nous avons appris un peu tard que notre base de données n’était pas exploitable et nous avons travaillé dans le vent pendant une partie de l’après-midi. Notre journée a été longue et fatigante. Les données géolocalisées n’allaient pas et il a fallu refaire une partie de nos bases de datas.  Après cette journée quelque peu frustrante, nous quittons le navire à 19h après avoir passé la journée sur excel et workbench (où toujours une seule personne peut écrire et modifier les données. 
 
-
-[https://app.workbenchdata.com/workflows/132598/](https://app.workbenchdata.com/workflows/132598/)
 
 
 [https://app.workbenchdata.com/workflows/132561/](https://app.workbenchdata.com/workflows/132561/)
@@ -161,7 +161,7 @@ Nous mettons en place notre plan com en écrivant un mail afin de présenter not
 Nous allons devoir donner du sens à nos données et réfléchir à ce que l’on peut en faire. Une partie politique et une partie technique. Dans quelle mesure nos données vont-elles servir à la CALL ? Après la traditionnelle réunion du matin, nous discutons un peu avec Guillaume et nous nous lançons dans la réalisation de nos datavisualisations : pour les faire parler, il faut qu’elles prennent une forme bien plus facile à comprendre qu’un tableau excel. Ainsi, nous utilisons **Openstreetmap** pour mettre en valeur notre jeu de données sur la base horaire des administrations de la Communauté d’agglomération de Lens-Liévin. Le but de notre démarche est de proposer une carte interactive : sur chaque point, on clique et on découvre les heures d’ouverture, le mail et le site internet de la mairie en question. 
 
 
-Pour le jeu de données sur les équipements publics, nous partons sur **Opendatasoft **mais le résultat n’est pas à la hauteur de nos attentes, nous cherchons quelque chose de plus propre. Nous allons donc sur **Rawgraph **et nous nous occupons de ce tableau en début d’après-midi. Nous décidons, dans ce tableau, de dresser des catégories (santé, éducation, parcs…) et d’offrir une comparaison des 36 communes de la CALL. 
+Pour le jeu de données sur les équipements publics, nous partons sur **Opendatasoft** mais le résultat n’est pas à la hauteur de nos attentes, nous cherchons quelque chose de plus propre. Nous allons donc sur **Rawgraph** et nous nous occupons de ce tableau en début d’après-midi. Nous décidons, dans ce tableau, de dresser des catégories (santé, éducation, parcs…) et d’offrir une comparaison des 36 communes de la CALL. 
 
 
 Nous envoyons un mail de remerciement à nos responsables et préparons le mail final (avec le carnet de bord terminé, nos templates, nos données publiées et les graphiques sur datagouv) que nous enverrons à 18h à la fin du challenge. Nous débutons notre réunion de présentation à 17h. Nous recevons nos responsables à notre table et nous discutons de notre semaine. 
