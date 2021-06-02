@@ -339,6 +339,7 @@ Une **50**aine de mails échangés avec les agents de la mairie de Béthune
 **Tableau récapitulatifs des bilans individuels :**
 
 
+
 <table>
   <tr>
    <td>
@@ -349,6 +350,7 @@ Une **50**aine de mails échangés avec les agents de la mairie de Béthune
    </td>
    <td>Le challenge en <strong>un mot </strong>pour vous
    </td>
+  </tr>
   <tr>
    <td><strong>Amaïa</strong>
    </td>
@@ -361,6 +363,7 @@ Difficultés à cause de mon manque sérieux de connaissances dans les outils te
    <td>Fédérateur
    </td>
   </tr>
+  <tr>
    <td><strong>Diane</strong>
    </td>
    <td>Découverte de l’utilité de l’ouverture de données publiques - ce qui semble très abstrait quand on n’en a jamais vraiment entendu parler. J’ai également appris à utiliser beaucoup mieux Excel et j’ai découvert plein de logiciels que je connaissais pas du tout comme Open Street Map et Workbench, entre autres.  
@@ -370,6 +373,7 @@ Difficultés à cause de mon manque sérieux de connaissances dans les outils te
    <td>Fédérateur
    </td>
   </tr>
+  <tr>
    <td><strong>Jade</strong>
    </td>
    <td>Impression d’avoir appris un métier en 5 jours.
@@ -416,4 +420,3 @@ Réussite : arriver au bout de cette semaine en un seul morceau !
    </td>
   </tr>
 </table>
-
