@@ -9,12 +9,7 @@ par Emma Thuy jomary, Marie Lacourty, Arthur Maimbourg, Daniel Dobias, Clothilde
 
 Notre équipe travaille sur la ville du Pré-Saint-Gervais située en Seine-Saint-Denis dans la région Ile-de-France. Cette petite commune, limitrophe de la capitale, comptait en 2017 17 950 habitants pour une superficie de 0,7 km2. La commune est caractérisée par sa faible superficie et sa proximité à Paris. 
 
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-![alt_text](images/image2.png "image_tooltip")
-
+![carte](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb18_01.png)
 
 
 A la suite de la réunion de présentation du matin, notre équipe se retrouve sur Gather pour faire le point sur les tâches à effectuer et prendre connaissance des outils mis à notre disposition (questionnaire, catalogue de données etc). Nous contactons notre référent 1, notre principal interlocuteur, et fixons un rendez-vous à 13h30. Après quelques difficultés techniques, nous décidons de nous répartir les tâches pour la réunion de l’après-midi : 
@@ -462,7 +457,7 @@ Enfin notre dernier problème a été de trouver un modèle graphique compréhen
 Notre graphique représente donc les matières les plus importantes selon les années. Sa complexité, nécessitant une lecture attentive, ne le rend pas moins intéressant: il nous permet d’analyser la proportion de chaque matière selon les années mais également de les comparer sur un temps plus long. Nous pouvons également remarquer l’apparition de la couleur bleue (institutions et vie politique) en 2012 ce qui induit l’hypothèse selon laquelle cette matière n’était pas enregistrée avant cette date. 
 
 
-**Graphique sur l’évolution des 7 matières les plus examinées selon les années **
+**Graphique sur l’évolution des 7 matières les plus examinées selon les années**
 
 
 Une fois nos graphiques terminés, nous avons fait une pause déjeuner. Puis nous avons tous rédigé les fiches explicatives liées à nos graphiques. 
