@@ -338,6 +338,16 @@ Une **50**aine de mails échangés avec les agents de la mairie de Béthune
 
 **Tableau récapitulatifs des bilans individuels :**
 
+|  | Ce que vous avez appris durant cette semaine  | La plus grosse difficulté + belle réussite  | Le challenge en un mot pour vous |
+|-|-|-|-|
+| Amaïa | Première immersion dans le domaine des données pour une étudiante très peu qualifiée (voire pas du tout) en informatique et dans ces questions de traitement. J’ai appris à analyser un jeu de données, le nettoyer et tenter d’utiliser au mieux Workbench ! | Difficultés importantes avec l’outil Workbench.  Difficultés à cause de mon manque sérieux de connaissances dans les outils tels qu’Excel mais aussi les compétences de base en informatique. | Fédérateur |
+| Diane | Découverte de l’utilité de l’ouverture de données publiques - ce qui semble très abstrait quand on n’en a jamais vraiment entendu parler. J’ai également appris à utiliser beaucoup mieux Excel et j’ai découvert plein de logiciels que je connaissais pas du tout comme Open Street Map et Workbench, entre autres. | Difficultés à appréhender l’outil Workbench mais c’était amusant aussi de devoir rechercher comment l’utiliser en manipulant différentes fonctionnalités. Difficultés aussi pour la visualisation avec le jeu de données sur l’éclairage public - il y avait beaucoup d’informations à mettre en avant. La réussite c’était vraiment le résultat final, de voir ce qu’on avait accompli en 5 jours en visualisation. | Fédérateur |
+| Jade | Impression d’avoir appris un métier en 5 jours. Beaucoup de plateformes et de connaissances sur l’open data apprises en très peu de temps. | Difficulté : toutes les difficultés techniques (workbench, dataviz), la fatigue à partir du 3ème jour, la mise en qualité chronophage  Réussite : travail d’équipe et des résultats concrets. | Intense |
+| Manon  | Je n’aurais jamais cru pouvoir faire autant de choses à partir d’une liste de données. Le Challenge Data m’a fait réaliser que travailler sur des données n’était pas le travail impossible que je m’imaginais. | La plus grosse difficulté : la visualisation, surtout quand on a une connexion qui ne supporte pas le poids de gather et des différentes plateformes.  Réussite : arriver au bout de cette semaine en un seul morceau ! | Intense |
+| Marion | J’ai réellement découvert un nouvel univers avec l’Open Data. J’ai appris que ce domaine nécessite à la fois de la rigueur et de la patience qui méritent d’être enseignées afin de tendre vers plus de transparence. | L’étape de la data visualisation a été à la fois la plus grosse difficulté et la plus grosse réussite. Les étapes ont été bien plus longues que prévues mais le résultat fut à la hauteur ! | Coopération |
+| Téva  | Pleins de choses ! Globalement le traitement de données, le fonctionnement du Workbench, Umap | Nettoyer, compiler et standardiser la base commerce + nos visuels | Convivial |
+
+
 
 <table>
   <tr>
