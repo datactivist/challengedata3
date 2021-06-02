@@ -77,6 +77,8 @@ En tant que novices en traitement de données, il a parfois été difficile de t
 
 Après avoir fait ce travail d’évaluation des données, nous avons constitué une Wanted Data List. Sur ce document, nous avons indiqué par un code couleur le niveau de difficulté du travail d'ouverture de chaque jeu de données. Après avoir réalisé l’évaluation des données en fonction de la liste hiérarchisée souhaitée par la commune, nous nous sommes engagés vis-à-vis de la Ville à ouvrir leurs données sur trois jeux : le budget primitif (budget d’investissement), les espaces verts et les arbres (les deux sous-catégories de la catégorie espaces verts). Nous leur avons indiqué que nous pourrions peut-être ouvrir un ou deux autres jeux de données : celui des subventions aux associations et celui sur les usagers de la médiathèque. En effet, les trois premiers jeux de données correspondaient à une couleur verte, c’est-à-dire qu’ils ne nécessiteraient pas de grande difficulté pour être ouverts. De même, les deux autres jeux de données possibles correspondaient à une couleur verte et seraient donc facilement ouvrables. Nous pouvions donc nous engager sur un nombre significatif de jeux de données. Les autres jeux de données étaient plus difficilement ouvrables. La Ville a été satisfaite de constater que les jeux de données facilement ouvrables étaient également ceux qu’elles souhaitaient ouvrir en priorité. C’est pourquoi nous nous sommes engagés sur leurs trois premiers choix (le deuxième thème regroupant deux jeux de données). 
 
+[![La wanted data list de Baugé-en-Anjou](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/cdb16_01.png)]()
+
 
 **JOUR 3 – MISE EN QUALITÉ***
 
