@@ -80,7 +80,7 @@ A la suite des réponses de nos interlocuteurs, nous découvrons que la maturit�
 
 7° <span style="text-decoration:underline;">Prénoms des nouveaux-nés</span> 
 
-TABLEAU
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb18_02.png)
 
 
 ## JOUR 2 – IDENTIFICATION
