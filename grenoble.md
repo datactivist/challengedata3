@@ -34,7 +34,7 @@ Tous ces éléments permettent de dresser le portrait d’une métropole et d’
 Cette **première journée de diagnostic** nous a appris à : nous immerger dans une collectivité territoriale de grande échelle (445 000 habitants pour 49 communes), appréhender les objectifs de ce challenge, organiser notre emploi du temps à la journée et se projeter sur la semaine entière, comprendre nos propres limites, agir avec transparence et professionnalisme, surmonter les tâches complexes et techniques, ne pas nous arrêter aux aléas déstabilisants.
 
 
-Depuis sa création en **2015**, la métropole de **Grenoble** investit dans l’open data. Elle a déjà publié **135 jeux de données** et ses services sont autonomes sur ce point (ils utilisent le logiciel libre CKAN). C’est une** situation spécifique** par rapport aux 18 autres communes participantes. Nous pensions qu’elle serait un **atout**, mais elle s’est révélée être un **frein** à notre démarche.
+Depuis sa création en **2015**, la métropole de **Grenoble** investit dans l’open data. Elle a déjà publié **135 jeux de données** et ses services sont autonomes sur ce point (ils utilisent le logiciel libre CKAN). C’est une **situation spécifique** par rapport aux 18 autres communes participantes. Nous pensions qu’elle serait un **atout**, mais elle s’est révélée être un **frein** à notre démarche.
 
 
 La motivation de la métropole à ouvrir ses données réside dans la **transparence de la vie politique**. Elle veut **rendre des comptes aux citoyens**, les informer du fonctionnement de l’entité en interne, et se conformer à la **loi** de 2016. La métropole évoque aussi un **objectif pédagogique**, en termes de **décloisonnement **entre les différentes directions : il s’agit de faire en sorte que la **donnée soit accessible**.
@@ -47,7 +47,7 @@ La motivation de la métropole à ouvrir ses données réside dans la **transpar
 *   La **première réunion** à 11h45 avec notre référent 1 et notre référent 2 (membre de son équipe), tous deux sont très volontaires, bien formés et réceptifs. Ils ont clairement identifié le thème de la **finance/économie/gestion** comme une priorité dans leurs attentes.
 *   La **disponibilité** et la bienveillance d’**Allyson** sont aussi à souligner, car il s’est évertué à nous guider tout au long de la journée, même dans les temps forts
 *   Nous nous sommes efforcés de déchiffrer le langage complexe des **métadonnées** et des **logiciels** évoqués malgré notre non-initiation
-*   Nous nous sommes rapidement approprié **l’interface Canva** du challenge data grâce aux tutoriels intuitifs et nous avons fait preuve de** réactivité** en contactant immédiatement par appel téléphonique nos relais à Grenoble (30 en tout)
+*   Nous nous sommes rapidement approprié **l’interface Canva** du challenge data grâce aux tutoriels intuitifs et nous avons fait preuve de **réactivité** en contactant immédiatement par appel téléphonique nos relais à Grenoble (30 en tout)
 *   La “**pêche à la donnée**” et l’**exploration** sur les bases de données ne nous ont pas fait peur, mais nous nous sommes pourtant rapidement heurtés à des réalités qui nous dépassaient.
 
 _Les **difficultés** sont survenues dès lors que nous avons cherché à contacter les responsables de service, en nous basant sur un tableau de coordonnées transmis par notre référent 1._
@@ -60,7 +60,7 @@ _Les **difficultés** sont survenues dès lors que nous avons cherché à contac
 *   Le **niveau de maturité** des interlocuteurs quant à la data variait d’un service à l’autre (certains ne voyaient pas de quoi l’on parlait, tandis que d’autres disposaient déjà une équipe dédiée à la data)
 *   Sur les 28 responsables que nous avons démarchés, peu nous ont accordé de leur temps, et nous avons souvent été redirigés de standards en standards, parfois sans aboutissement. Malgré nos relances par téléphone et par mail, **aucun interlocuteur n’a accepté de nous envoyer de document**
 *   C’est pourquoi nous pensons que le contact de **petites communes**, membres de la métropole, aurait été plus utile que celui de services importants au fonctionnement déjà huilé, et détaché du site de l’open data métropole
-*   Dernier problème de communication, et de taille :** la ville de Grenoble et sa métropole sont en clash politique**. On nous a conseillé de nous présenter sous la casquette de la ville, afin de ne pas se faire éconduire. Or la convention a été passée avec la métropole.
+*   Dernier problème de communication, et de taille : **la ville de Grenoble et sa métropole sont en clash politique**. On nous a conseillé de nous présenter sous la casquette de la ville, afin de ne pas se faire éconduire. Or la convention a été passée avec la métropole.
 
 **Difficultés logistiques** :
 
@@ -134,7 +134,7 @@ Nous nous posons un certain nombre de questions pour évaluer les efforts néces
 Nous n’allons pas ouvrir la base portant sur les **aires de jeux de la GAM**, qui représenterait un engagement trop important, dépassant la semaine du Challenge. **Le nettoyage semble très important** : il y a notamment beaucoup de cellules vides, et la base de données n’est pas standardisée.
 
 
-Quant aux données portant sur les **budgets primitifs 2020 de la Ville**, le document est un format** .xml **: nettoyer ces données relevant d’une compétence professionnelle, **l’équipe de Datactivist nous propose de s’en charger. **
+Quant aux données portant sur les **budgets primitifs 2020 de la Ville**, le document est un format **.xml** : nettoyer ces données relevant d’une compétence professionnelle, **l’équipe de Datactivist nous propose de s’en charger.**
 
 
 **<span style="text-decoration:underline;">2.4 L’engagement sur une Wanted Datalist</span>**
@@ -159,7 +159,7 @@ Quant aux données portant sur les **budgets primitifs 2020 de la Ville**, le do
 Cette troisième journée était dédiée à la mise en qualité des données. 
 
 
-Après la réunion journalière de 9h avec Allyson, où il nous a expliqué les différentes missions de la journée, ce dernier nous a transmis un document nous libérant d’un poids et nous permettant réellement de commencer la phase d’analyse et de mise en qualité des données. Effectivement, la veille, Allyson et Arthur ont durement travaillé afin de nous aider à rendre** lisible le seul jeu de données exploitables** procuré par la ville de Grenoble. 
+Après la réunion journalière de 9h avec Allyson, où il nous a expliqué les différentes missions de la journée, ce dernier nous a transmis un document nous libérant d’un poids et nous permettant réellement de commencer la phase d’analyse et de mise en qualité des données. Effectivement, la veille, Allyson et Arthur ont durement travaillé afin de nous aider à rendre **lisible le seul jeu de données exploitables** procuré par la ville de Grenoble. 
 
 
 C’est à partir de ce moment qu’a démarré notre **recherche de métadonnées** pour comprendre et pouvoir analyser correctement le document contenant des abréviations parfois peu intuitives telles que « BGT_CONTNAT », mais aussi pour savoir à quoi correspondaient certains chiffres pour lesquels il manquait la labellisation. Après une réunion avec Allyson, nous avons choisi deux pistes. 
@@ -191,10 +191,10 @@ Hormis quelques complications occasionnelles dues à la prise en main de Workben
 Ensuite, l’opération de traitement « drop empty columns » nous a permis de **supprimer la colonne**  « BGT_NATURE_LABEL ». Nous avons un doute concernant l’utilité de certaines colonnes (nous demanderons l’avis des experts). 
 
 
-Concernant la** standardisation**, après vérification il nous a suffit de changer le nom de la colonne « MtRAR31112 » en « BGT_MTRAR3112 « pour que le document puisse être compris par la machine. Pour les valeurs, toutes les colonnes étaient considérées comme contenant du texte, nous avons donc transformé celles contenant des chiffres en numériques.
+Concernant la **standardisation**, après vérification il nous a suffit de changer le nom de la colonne « MtRAR31112 » en « BGT_MTRAR3112 « pour que le document puisse être compris par la machine. Pour les valeurs, toutes les colonnes étaient considérées comme contenant du texte, nous avons donc transformé celles contenant des chiffres en numériques.
 
 
-**<span style="text-decoration:underline;">Bilan </span>**: La journée a une fois de plus été très chargée. La mission de mise en qualité n’a pas pu être totalement achevée. Nous n’avons pas eu le temps de procéder à l’étape de validation, d’un côté car nous avons été recontactés par différents services de la ville pour nous fournir de nouveaux jeux de données (en vain) et de l’autre car la recherche de métadonnées nous a pris beaucoup plus de temps que prévu. 
+**Bilan**: La journée a une fois de plus été très chargée. La mission de mise en qualité n’a pas pu être totalement achevée. Nous n’avons pas eu le temps de procéder à l’étape de validation, d’un côté car nous avons été recontactés par différents services de la ville pour nous fournir de nouveaux jeux de données (en vain) et de l’autre car la recherche de métadonnées nous a pris beaucoup plus de temps que prévu. 
 
 
 Nous avons cependant réussi à bien avancer avec le jeu de données que nous possédons. Nous comptons rattraper le léger retard accumulé lors de la quatrième journée.
@@ -233,7 +233,7 @@ Avant le début de l’étape 4, nous avons une réunion avec le service financi
 Nous attaquons donc l’étape 4.1 “Compléter la fiche descriptive des jeux de données” sans difficultés,	du fait de notre progression dans la prise en main des logiciels proposés. Pris par le temps, nous n’avons pu publier nos jeux de données sur les plateformes mais les contacts ont été établis avec nos interlocuteurs pour lancer la publication dès demain matin. Nous avons pu échanger avec nos référents 1 et 2 au sujet de notre stratégie de communication, qui sera portée par des publications sur le site datagouv.fr et par les différents comptes de réseaux sociaux disponibles (datactivist, métropole de grenoble, ville de grenoble, Sciences Po Saint-Germain) et sur différentes plateformes (facebook, twitter, linkedin). Le second jeu de données empruntera le même processus de publication. 
 
 
-**Bilan : Du négatif (notre retard n’a pas été entièrement comblé et nous accusons les dysfonctionnements de communication et de partage des jeux de données des 2 premiers jours) mais du positif également car nous avons récupéré un nouveau jeu de données exploitables et standardisé, nous avons amélioré notre maîtrise des outils mis à notre disposition (workbench, excel, validata), nous avons approfondi nos connaissances sur les métadonnées et les enjeux de données dans les collectivités territoriales et enfin nous avons poursuivi nos échanges avec nos coaches et interlocuteurs, nous permettant de mieux comprendre et saisir les enjeux de ce #ChallengeData !! **
+**Bilan :** Du négatif (notre retard n’a pas été entièrement comblé et nous accusons les dysfonctionnements de communication et de partage des jeux de données des 2 premiers jours) mais du positif également car nous avons récupéré un nouveau jeu de données exploitables et standardisé, nous avons amélioré notre maîtrise des outils mis à notre disposition (workbench, excel, validata), nous avons approfondi nos connaissances sur les métadonnées et les enjeux de données dans les collectivités territoriales et enfin nous avons poursuivi nos échanges avec nos coaches et interlocuteurs, nous permettant de mieux comprendre et saisir les enjeux de ce #ChallengeData !! 
 
 
 ## JOUR 5 – VALORISATION
@@ -241,7 +241,7 @@ Nous attaquons donc l’étape 4.1 “Compléter la fiche descriptive des jeux d
 
 En dépit des obstacles rencontrés sur le chemin, cette cinquième journée est placée sous le signe de la **valorisation**: des données, de nos efforts, de la posture de père, de mère et de mentor qu’Allyson a incarné pour notre équipe tout au long de la semaine.
 
-1. **<span style="text-decoration:underline;"> Volonté de rattraper notre retard et constat des difficultés </span>**
+**1. Volonté de rattraper notre retard et constat des difficultés**
 
 Au regard du retard accumulé depuis lundi, notre priorité consiste en réalité à **publier nos deux jeux de données** au plus vite, afin de consacrer la plus grande partie de la journée à leur mise en valeur. Pour discuter de cette étape et des suivantes, nous avons **rendez-vous à 10h15** avec nos référents. Le temps de latence avant cette entrevue nous permet de prendre connaissance des tutoriels du jour et de compléter l’organigramme de données avec celles obtenues et traitées en quatrième vitesse la veille - Arthur, <span style="text-decoration:underline;">ces données te doivent beaucoup.</span> 
 
@@ -260,7 +260,7 @@ Suite à cette réunion, branle-bas de combat : nous contactons Allyson pour con
 
 En parallèle <span style="text-decoration:underline;">se joue un drame</span> :  sur le point de publier les données du Budget primitif 2020 de la Ville de Grenoble sur le site open data de la Métropole, nous nous avisons de l’impossibilité d’achever cette manœuvre. Bien que notre référent 2 nous ait assuré avoir autorisé notre compte à publier ces données, il n’en est rien. Autrement dit, **nous sommes vendredi midi et nous n’avons toujours aucun jeu de données publié**. Un membre de notre groupe s’empresse de l’en prévenir par mail, et commence alors la seconde partie de la journée. Pressés par le temps, nous devons réaliser en 5h ce que les autres groupes ont fait en 14h. 
 
-2. **<span style="text-decoration:underline;"> Passion, fièvre et excès : la publication et la valorisation des données</span>**
+**2. Passion, fièvre et excès : la publication et la valorisation des données**
 
 Scindant une nouvelle fois le groupe, nous nous attelons à des tâches différentes : 
 
@@ -269,7 +269,7 @@ Scindant une nouvelle fois le groupe, nous nous attelons à des tâches différe
 *   Travail de mise en valeur du budget primitif de la Ville par la visualisation
 *   Tentative de mise en valeur des subventions associatives par la visualisation 
 
-L’élaboration du plan de communication n’a pas été tâche facile. Déjà évoquée le jeudi après-midi, cette thématique est finalement repoussée au point du vendredi matin par nos interlocuteurs. Les orientations larges et vagues qu’ils évoquent nous placent face à la problématique suivante : **confrontés à un template **(produit par Datactivist)** très fourni, très détaillé et ambitieux, nous ne disposons pas des attentes et des capacités de la Métropole**. Face au relatif désintérêt et au manque d’information que nous avons ressenti de la part de nos interlocuteurs, nous optons donc pour une <span style="text-decoration:underline;">présentation simple de nos objectifs, stratégies et réseaux mobilisés</span>, en dehors du cadre prévu par le template. Puisque la Métropole de Grenoble-Alpes est **déjà bien armée** (compte Twitter dédié à la publication de données ouvertes et base de données relatives à la Ville et la Métropole), la meilleure manière de présenter la communication nous semble être de la **centraliser**, dans un **souci de cohérence et d’efficacité**, en usant des techniques déjà pensées par leur service. Si nous n’avons pas débordé de créativité dans notre projet de communication, l’ensemble des discussions liées à nos incertitudes en la matière ont considérablement **rallongé le temps de l’opération**, qui nous a occupé plus du double du temps nécessaire. Voici en pdf le document final détaillant le plan de communication sur les données ouvertes de la Métropole :  
+L’élaboration du plan de communication n’a pas été tâche facile. Déjà évoquée le jeudi après-midi, cette thématique est finalement repoussée au point du vendredi matin par nos interlocuteurs. Les orientations larges et vagues qu’ils évoquent nous placent face à la problématique suivante : **confrontés à un template (produit par Datactivist)** très fourni, très détaillé et ambitieux, nous ne disposons pas des attentes et des capacités de la Métropole. Face au relatif désintérêt et au manque d’information que nous avons ressenti de la part de nos interlocuteurs, nous optons donc pour une <span style="text-decoration:underline;">présentation simple de nos objectifs, stratégies et réseaux mobilisés</span>, en dehors du cadre prévu par le template. Puisque la Métropole de Grenoble-Alpes est **déjà bien armée** (compte Twitter dédié à la publication de données ouvertes et base de données relatives à la Ville et la Métropole), la meilleure manière de présenter la communication nous semble être de la **centraliser**, dans un **souci de cohérence et d’efficacité**, en usant des techniques déjà pensées par leur service. Si nous n’avons pas débordé de créativité dans notre projet de communication, l’ensemble des discussions liées à nos incertitudes en la matière ont considérablement **rallongé le temps de l’opération**, qui nous a occupé plus du double du temps nécessaire. Voici en pdf le document final détaillant le plan de communication sur les données ouvertes de la Métropole :  
 
 
 **[https://drive.google.com/file/d/1zRzVncBv4eRYSU_UdT140v88u_Lsv2yJ/view?usp=sharing](https://drive.google.com/file/d/1zRzVncBv4eRYSU_UdT140v88u_Lsv2yJ/view?usp=sharing)**
@@ -305,7 +305,7 @@ Toute cette démarche ayant pris un temps considérable et mobilisé toute notre
 Nous sommes fiers, honorés et reconnaissants d’avoir pu ouvrir **<span style="text-decoration:underline;">deux jeux de données</span>** à l’issue de cette semaine du Data Challenge ! 
 
 
-Chaque publication a le goût de l’ouvrage achevé, de l’effort récompensé, de la coopération magnifiée. Nous sommes surtout heureux d’avoir pu ouvrir deux jeux de données en réalité assez complémentaires, et surtout essentiels à l’échelle d’une collectivité : le **budget primitif pour l’année 2020**, qui retrace les recettes et les dépenses prévues pour l’année, et les** subventions versées aux associations**, qui vient préciser ces dépenses de la municipalité pour dynamiser le tissu associatif local. 
+Chaque publication a le goût de l’ouvrage achevé, de l’effort récompensé, de la coopération magnifiée. Nous sommes surtout heureux d’avoir pu ouvrir deux jeux de données en réalité assez complémentaires, et surtout essentiels à l’échelle d’une collectivité : le **budget primitif pour l’année 2020**, qui retrace les recettes et les dépenses prévues pour l’année, et les **subventions versées aux associations**, qui vient préciser ces dépenses de la municipalité pour dynamiser le tissu associatif local. 
 
 
 Cette joie qui nous emporte n’est pas seulement liée au plaisir que nous avons pris à travailler pendant toute la semaine avec Allyson et sa bonne humeur communicative (et avec Arthur dont l’aide nous a aussi été précieuse), mais bien aux **difficultés que nous avons dû surmonter** pour parvenir à l’ouverture de ces jeux de données. 
