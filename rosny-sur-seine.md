@@ -1,15 +1,15 @@
 # Carnet de bord de l'ouverture des données de Rosny-sur-Seine
-par Orphée Silard, Yasmine Elka, Mélanie E Silva, Inès Mahiou, Bertrand Benoit, Clémence Vigneau et Claire Houzé
+par Orphée Silard, Yasmine E., Mélanie E Silva, Inès Mahiou, Bertrand Benoit, Clémence Vigneau et Claire Houzé
 
 ![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/rosnysurseine.jpeg)
 
 ## INTRODUCTION
 
 
-L'ère du numérique a bouleversé nos habitudes et notre société dans sa globalité. Il nous incombe de faire de ces nouvelles technologies le meilleur ou le pire des usages. L’open-data, à n’en pas douter, prouve que l’Homme peut utiliser ces nouvelles données produites massivement pour** servir l'intérêt général**.
+L'ère du numérique a bouleversé nos habitudes et notre société dans sa globalité. Il nous incombe de faire de ces nouvelles technologies le meilleur ou le pire des usages. L’open-data, à n’en pas douter, prouve que l’Homme peut utiliser ces nouvelles données produites massivement pour **servir l'intérêt général**.
 
 
-Avant de commencer, explicitons certains termes. **Le big data** ou “mégadonnées”, désigne l’ensemble volumineux de données produit chaque jour sur un territoire. Ces big datas se définissent par les 3V: vitesse, volume et vélocité. **L’open data**, ou “la donnée ouverte” est une information publique brute publiée, librement accessible et réutilisable par tous sans restriction. La data est devenue un** enjeu clef** de notre monde interconnecté. Le challenge data prouve la nouvelle importance de ces données dans nos sociétés. 
+Avant de commencer, explicitons certains termes. **Le big data** ou “mégadonnées”, désigne l’ensemble volumineux de données produit chaque jour sur un territoire. Ces big datas se définissent par les 3V: vitesse, volume et vélocité. **L’open data**, ou “la donnée ouverte” est une information publique brute publiée, librement accessible et réutilisable par tous sans restriction. La data est devenue un **enjeu clef** de notre monde interconnecté. Le challenge data prouve la nouvelle importance de ces données dans nos sociétés. 
 
 
 Le challenge data est issu du partenariat entre la société coopérative Datactivist et Sciences Po Saint Germain-en-Laye. Le 15 février 2021 ouvre ainsi la troisième édition de ce challenge. 
@@ -22,7 +22,7 @@ La visée de ce projet est double:
 
 - En second lieu, ce challenge permet aux étudiants de Saint-Germain-en-Laye d’obtenir **une expérience professionnelle** tout en aidant la collectivité. Cette expérience se révèle riche de sens dans cette société interconnectée où les big-data ont désormais une place prépondérante. C’est la raison pour laquelle, chaque groupe, composé de 6 à 7 étudiants, a pour objectif d’aider une collectivité territoriale plus ou moins avancée sur la question des data et plus ou moins grande (communes, communautés de communes, métropoles).
 
-Notre groupe de 7 étudiants, **Claire Houzé, Mélanie E-Silva, Clémence Vigneau, Yasmine Elka, Inès Mahiou, Orphée Silard et Bertrand Benoit,** est bien déterminé à aider de son mieux la Commune de Rosny-sur-Seine.
+Notre groupe de 7 étudiants, **Claire Houzé, Mélanie E-Silva, Clémence Vigneau, Yasmine E., Inès Mahiou, Orphée Silard et Bertrand Benoit,** est bien déterminé à aider de son mieux la Commune de Rosny-sur-Seine.
 
 Cette commune des Yvelines, d'environ 6 100 habitants, est en pleine expansion démographique depuis 50 ans. Située au nord de Mantes-la-Jolie, elle fait partie de la Communauté urbaine Grand Paris Seine et Oise, laquelle est composée de 73 communes.  La ville jouit notamment d’une connexion à Paris avec le train et avec l’autoroute A13.
 
@@ -32,14 +32,14 @@ La commune de Rosny-sur-Seine, qui se définit comme une mauvaise élève concer
 5 jours, 5 étapes:
 
 
-*   Le premier jour, il s’agira de réaliser **un diagnostic **sur d’avancement de la commune en termes de récolte et de publication de ses données. Puis nous réaliserons une wish list afin de déterminer quels jeux de données la commune souhaite potentiellement publier. 
-*   Le second jour, nous nous attacherons à** récupérer les différents jeux** de données déjà produits par la commune afin de déterminer lesquels sont en pratique publiables. Une fois que nous aurons évalué la charge de travail à réaliser pour harmoniser les data, nous remplirons une wanted data list: les données que nous publierons effectivement en fin de semaine.
-*   Le troisième jour sera le plus ardu. Nous devrons** nettoyer, compiler puis standardiser** nos données. Elles seront prêtes à être publiées.
-*   Le jeudi nous devrons** publier les données** sur la page open data de GPS&O. Puis nous construirons avec la commune un premier plan de communication sur l’ouverture des données.
+*   Le premier jour, il s’agira de réaliser **un diagnostic** sur d’avancement de la commune en termes de récolte et de publication de ses données. Puis nous réaliserons une wish list afin de déterminer quels jeux de données la commune souhaite potentiellement publier. 
+*   Le second jour, nous nous attacherons à **récupérer les différents jeux** de données déjà produits par la commune afin de déterminer lesquels sont en pratique publiables. Une fois que nous aurons évalué la charge de travail à réaliser pour harmoniser les data, nous remplirons une wanted data list: les données que nous publierons effectivement en fin de semaine.
+*   Le troisième jour sera le plus ardu. Nous devrons **nettoyer, compiler puis standardiser** nos données. Elles seront prêtes à être publiées.
+*   Le jeudi nous devrons **publier les données** sur la page open data de GPS&O. Puis nous construirons avec la commune un premier plan de communication sur l’ouverture des données.
 *   Enfin, le dernier jour, nous **valoriserons les données**. Nous construirons des outils, comme des cartes, des diagrammes, afin de permettre aux utilisateurs de mieux appréhender les données publiées.
 
 
-Nous sommes accompagné.e.s dans notre démarche par **Madame XXX**, responsable de la communication de la commune de Rosny-sur-Seine . De plus, nous sommes encadré.e.s par **Arthur, membre de Datactivist,** une société coopérative et participative qui se donne pour mission d’ouvrir les données et de les rendre utiles et utilisées.
+Nous sommes accompagné.e.s dans notre démarche par notre référente, responsable de la communication de la commune de Rosny-sur-Seine . De plus, nous sommes encadré.e.s par **Arthur, membre de Datactivist,** une société coopérative et participative qui se donne pour mission d’ouvrir les données et de les rendre utiles et utilisées.
 
 
         
@@ -61,15 +61,15 @@ Notons également qu’avant même de découvrir le carnet de bord du challenge,
 **<span style="text-decoration:underline;">1.1 : Évaluer la maturité open data et comprendre les besoins </span>**
 
 
-Sans plus attendre, nous avons appelé notre interlocutrice de la commune de Rosny, Sabrina Ballot. Nous avons convenu d’un rendez-vous pour 14h. En attendant ce rendez-vous, nous avons analysé le catalogue des jeux de données, et avons tenté de nous informer au mieux sur la commune avec laquelle nous travaillons.
+Sans plus attendre, nous avons appelé notre interlocutrice de la commune de Rosny. Nous avons convenu d’un rendez-vous pour 14h. En attendant ce rendez-vous, nous avons analysé le catalogue des jeux de données, et avons tenté de nous informer au mieux sur la commune avec laquelle nous travaillons.
 
 
 A 14h, nous retrouvons notre interlocutrice sur gather town. Nous discutons avec elle brièvement, faisons un tour de table pour présenter l’équipe au complet. Nous lui posons ensuite les questions du questionnaire de maturité sur l’open data. Lors de notre conversation préalable, nous avions cru comprendre que la ville est néophyte en termes de données ouvertes. C’est ce que le questionnaire a confirmé.
 
 
-→ La commune de Rosny-sur-Seine compte soixante-dix agents, et n’a pas de service consacré à l’open data, ni (à la connaissance de Mme Ballot) un fonctionnaire en capacité d’en produire. Rien que pour les besoins informatiques, la mairie fait appel à un informaticien extérieur.
+→ La commune de Rosny-sur-Seine compte soixante-dix agents, et n’a pas de service consacré à l’open data, ni (à la connaissance de notre référente) un fonctionnaire en capacité d’en produire. Rien que pour les besoins informatiques, la mairie fait appel à un informaticien extérieur.
 
-→ La commune a été alertée par le vice président de l’intercommunalité GPSO de l’opportunité de participer au programme open data, et l’offre était une occasion pour celle-ci de rattraper son retard dans le domaine, retard qui n’était dû qu'à un manque de moyens et à un contexte priorisant d’autres domaines plus urgents. Mme Ballot précise également que le format du challenge les a séduit, au vu en particulier de la collaboration avec des étudiants.
+→ La commune a été alertée par le vice président de l’intercommunalité GPSO de l’opportunité de participer au programme open data, et l’offre était une occasion pour celle-ci de rattraper son retard dans le domaine, retard qui n’était dû qu'à un manque de moyens et à un contexte priorisant d’autres domaines plus urgents. Notre référente précise également que le format du challenge les a séduit, au vu en particulier de la collaboration avec des étudiants.
 
 
 Le questionnaire donne un résultat de maturité niveau 2. Nous avons été surpris par ce résultat car la commune n’a réellement pas d’avancement dans le domaine de l’open data. Cependant, ce chiffre s’explique par le point fort de la ville car le questionnaire prenait aussi en compte les plateformes de communication et la fréquence de posts sur ceux-ci. 
@@ -87,7 +87,7 @@ La constitution de la wishlist fut un peu rude, car sur le niveau 1 et 2, la plu
 *   Etat civil
 *   Budget primitif
 
-Après cette concertation, Mme Ballot nous a proposé de reprendre un rendez-vous en fin de journée pour qu’elle confirme entre-temps ces informations avec ses collègues et s’assure que leurs jeux de données sont bien en la possession des services communaux.
+Après cette concertation, notre référente nous a proposé de reprendre un rendez-vous en fin de journée pour qu’elle confirme entre-temps ces informations avec ses collègues et s’assure que leurs jeux de données sont bien en la possession des services communaux.
 
 En fin de journée, nous recevons une fois de plus notre interlocutrice sur gather town. Elle nous informe que certaines catégories ne pourront pas être exploitables. Par exemple, les jeux de données sur l'état civil relèvent de la préfecture, et ne sont donc pas à notre portée. Également, la catégorie des modes de transports est trop large et certaines informations sur le sujet sont déjà publiées au niveau national (plutôt que communal). Nous nous mettons alors d’accord pour proposer d’autres possibilités. 
 
@@ -105,7 +105,7 @@ Au final, se construit une petite wishlist composée de jeux de données sur:
 Notre interlocutrice nous envoie suite à cet entretien un mail avec tous les services possédant les données en question. Nous émettons des réserves sur la possibilité de trouver des jeux de données utiles sur les 4 catégories, et suggérons que dans les jours qui viennent nous serons plutôt concentrés sur 2 voire 3 catégories.
 
 
-La wishlist remplie (disponible ici: [https://docs.google.com/document/d/1VE9XEJz3rkSghTDUxfY3Ohft3qrGs2rW/edit](https://docs.google.com/document/d/1VE9XEJz3rkSghTDUxfY3Ohft3qrGs2rW/edit)), notre journée est terminée. Nous notons tous nos ressentis de la journée sur le carnet de bord brouillon, et la personne responsable procède à l’écriture du compte-rendu du jour. 
+La wishlist remplie (disponible [ici](https://docs.google.com/document/d/1VE9XEJz3rkSghTDUxfY3Ohft3qrGs2rW/edit)), notre journée est terminée. Nous notons tous nos ressentis de la journée sur le carnet de bord brouillon, et la personne responsable procède à l’écriture du compte-rendu du jour. 
 
 
 
@@ -117,7 +117,7 @@ Et c’est ce que notre groupe s’est empressé de faire afin de se familiarise
 
 **<span style="text-decoration:underline;">2.1 Exploration à la recherche de données</span>**
 
-La première mission du jour a été de préparer le matériel nécessaire à la collecte des données. Dans le Workbench du Challenge Data, nous avons dupliqué puis renommé les jeux de données correspondant à notre collectivité. Pour rappel, notre « wish list » se constitue de cinq jeux de données :
+La première mission du jour a été de préparer le matériel nécessaire à la collecte des données. Dans le Workbench du Challenge Data, nous avons dupliqué puis renommé les jeux de données correspondant à notre collectivité. Pour rappel, notre « wishlist » se constitue de cinq jeux de données :
 
 
 - « Budget primitif »
@@ -248,7 +248,7 @@ Lien Workbench : [https://app.workbenchdata.com/workflows/132499/](https://app.w
 ![](https://raw.githubusercontent.com/ArthurSrz/images/main/rosny_carnet4.png)
 
 
-*   
+ 
 
 ## JOUR 4 – PUBLICATION
 
@@ -327,32 +327,31 @@ Finalement, grâce à la documentation et à Arthur, la publication s’est fait
 **Budgets:** 
 
 
-2018: **prochainement disponible**
+2018: [https://www.data.gouv.fr/fr/datasets/rosny-sur-seine-budget-primitif-2018/](https://www.data.gouv.fr/fr/datasets/rosny-sur-seine-budget-primitif-2018/)
 
+2019: [https://www.data.gouv.fr/fr/datasets/rosny-sur-seine-budget-primitif-2019/](https://www.data.gouv.fr/fr/datasets/rosny-sur-seine-budget-primitif-2019/)
 
-2019: **prochainement disponible**
-
-2020: **prochainement disponible**
+2020: [https://www.data.gouv.fr/fr/datasets/rosny-sur-seine-budget-primitif-2020/](https://www.data.gouv.fr/fr/datasets/rosny-sur-seine-budget-primitif-2020/)
 
 
 **Délibérations:**
 
-2015: **prochainement disponible**
+2015: []()
 
-2016: **prochainement disponible**
+2016: []()
 
-2017: **prochainement disponible**
+2017: []()
 
-2018: **prochainement disponible**
+2018: []()
 
-2019: **prochainement disponible**
+2019: []()
 
-de 2015 à 2019: **prochainement disponible**
+de 2015 à 2019: []()
 
 
-**Equipement jeunesse: ** : **prochainement disponible**
+**Equipement jeunesse: ** : []()
 
-**Etablissement accueil petite enfance:** : **prochainement disponible**
+**Etablissement accueil petite enfance:** :[https://www.data.gouv.fr/fr/datasets/rosny-sur-seine-etablissements-daccueil-petite-enfance/](https://www.data.gouv.fr/fr/datasets/rosny-sur-seine-etablissements-daccueil-petite-enfance/)
 
 Pour finir, en fin de journée, nous avons reçu un retour de la chargée de communication de Rosny-sur-Seine qui nous a fait un premier retour sur notre plan de communication. Cela a surtout été des corrections quant à la rédaction et des erreurs d’inattention.
 
