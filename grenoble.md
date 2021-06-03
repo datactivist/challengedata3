@@ -237,9 +237,9 @@ Nous attaquons donc l’étape 4.1 “Compléter la fiche descriptive des jeux d
 
 **Bilan :** Du négatif (notre retard n’a pas été entièrement comblé et nous accusons les dysfonctionnements de communication et de partage des jeux de données des 2 premiers jours) mais du positif également car nous avons récupéré un nouveau jeu de données exploitables et standardisé, nous avons amélioré notre maîtrise des outils mis à notre disposition (workbench, excel, validata), nous avons approfondi nos connaissances sur les métadonnées et les enjeux de données dans les collectivités territoriales et enfin nous avons poursuivi nos échanges avec nos coaches et interlocuteurs, nous permettant de mieux comprendre et saisir les enjeux de ce #ChallengeData !! 
 
-Subventions et avantages en nature accordées aux associations par la Ville de Grenoble en 2020 : https://data.metropolegrenoble.fr/ckan/dataset/subventions-et-avantages-en-nature-accordees-aux-associations-par-la-ville-de-grenoble-en-2020 ;
+Subventions et avantages en nature accordées aux associations par la Ville de Grenoble en 2020 : [https://data.metropolegrenoble.fr/ckan/dataset/subventions-et-avantages-en-nature-accordees-aux-associations-par-la-ville-de-grenoble-en-2020](https://data.metropolegrenoble.fr/ckan/dataset/subventions-et-avantages-en-nature-accordees-aux-associations-par-la-ville-de-grenoble-en-2020) ;
 
-Budget primitif de la Ville de Grenoble pour 2020 : https://data.metropolegrenoble.fr/ckan/dataset/budget-primitif-de-la-ville-de-grenoble-pour-2020 .
+Budget primitif de la Ville de Grenoble pour 2020 : [https://data.metropolegrenoble.fr/ckan/dataset/budget-primitif-de-la-ville-de-grenoble-pour-2020](https://data.metropolegrenoble.fr/ckan/dataset/budget-primitif-de-la-ville-de-grenoble-pour-2020) .
 
 
 ## JOUR 5 – VALORISATION
