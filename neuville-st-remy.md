@@ -433,19 +433,19 @@ Il est à noter qu’après la création de notre compte sur le site open data, 
 
 *   Infrastructure d’accueil des enfants de 0 à 17 ans
 
-[https://www.data.gouv.fr/fr/datasets/infrastructures-daccueil-des-enfants-de-0-a-17-ans-de-neuville-saint-remy/](https://www.data.gouv.fr/fr/datasets/infrastructures-daccueil-des-enfants-de-0-a-17-ans-de-neuville-saint-remy/)
+	[https://www.data.gouv.fr/fr/datasets/infrastructures-daccueil-des-enfants-de-0-a-17-ans-de-neuville-saint-remy/](https://www.data.gouv.fr/fr/datasets/infrastructures-daccueil-des-enfants-de-0-a-17-ans-de-neuville-saint-remy/)
 
 
 
 *   Capacité de l’accueil de loisirs “Les p’tis futés”
 
-[https://www.data.gouv.fr/fr/datasets/capacites-de-laccueil-de-loisirs-les-ptits-futes-de-neuville-saint-remy/](https://www.data.gouv.fr/fr/datasets/capacites-de-laccueil-de-loisirs-les-ptits-futes-de-neuville-saint-remy/)
+	[https://www.data.gouv.fr/fr/datasets/capacites-de-laccueil-de-loisirs-les-ptits-futes-de-neuville-saint-remy/](https://www.data.gouv.fr/fr/datasets/capacites-de-laccueil-de-loisirs-les-ptits-futes-de-neuville-saint-remy/)
 
 
 
 *   Effectifs genrés par niveau dans les établissements
 
-[https://www.data.gouv.fr/fr/datasets/effectifs-genres-par-niveau-pour-le-primaire-de-neuville-saint-remy/](https://www.data.gouv.fr/fr/datasets/effectifs-genres-par-niveau-pour-le-primaire-de-neuville-saint-remy/)
+	[https://www.data.gouv.fr/fr/datasets/effectifs-genres-par-niveau-pour-le-primaire-de-neuville-saint-remy/](https://www.data.gouv.fr/fr/datasets/effectifs-genres-par-niveau-pour-le-primaire-de-neuville-saint-remy/)
 
 
 
@@ -468,6 +468,8 @@ Il est à noter qu’après la création de notre compte sur le site open data, 
 *   Subventions
 
 	[https://www.data.gouv.fr/fr/datasets/subventions-de-neuville-saint-remy/](https://www.data.gouv.fr/fr/datasets/subventions-de-neuville-saint-remy/)
+
+
 
 ## JOUR 5 – VALORISATION
 
