@@ -41,6 +41,7 @@ Ainsi, son score de maturité n’est que de 2, c’est-à-dire que le même que
 Après ce constat, nous nous sommes penchés sur la wishlist déjà préparée par notre interlocutrice. Nous avons repris chaque point pour voir ce qu’il nous était possible de trouver par nous-mêmes, avec quelques résultats, mais pas suffisants. Cela nous a cependant permis d’élaborer un mail adressé à notre interlocutrice, pour lui demander les contacts exacts des services à contacter (dans la matinée de mardi) en interne, et des pistes de contacts externes.
 
 
+![wishlist](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb07_wl.png)
 
 **Livrable :**  [Whishlist](https://drive.google.com/file/d/1lzbsvAiwOwxA9mkIsqsUpUvxQ9iNwmnX/view?usp=sharing) 
   
