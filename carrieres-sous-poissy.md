@@ -36,6 +36,11 @@ Une des premières difficultés est la contrainte de temps, car sans cet appel, 
 
 **18h:** Fin du rendez-vous, nous effectuons les derniers envois sur airtable, et complétons la wishlist avec les informations de contacts obtenues auprès de madame la DGS Catherine Guérin. 
 
+![wishlist](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb15_wl.png)
+
+**Livrable :**  [Whishlist](https://drive.google.com/file/d/1gqAjtFK2BwfVq2-HoyApAlWeASV96gl9/view?usp=sharing) 
+
+
 ## JOUR 2 – IDENTIFICATION
 
 
