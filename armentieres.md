@@ -1,4 +1,4 @@
- # Carnet de bord de l'ouverture des données d'Armentieres 
+# Carnet de bord de l'ouverture des données d'Armentieres 
 par Lucie Breton, A.L., Rémy T., Clarisse Veillard, Caroline C., Ruben El Fasci
 
 ![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/armentieres.jpeg)
