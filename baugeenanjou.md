@@ -4,7 +4,7 @@ par Lyna B., Thomas Delaunay, Mia F., Mathilde Gambe, Jean-Etienne Lemelle et Ag
 ![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/baugeenanjou.JPG)
 
 
-**JOUR 1 – DIAGNOSTIC**
+## JOUR 1 – DIAGNOSTIC
 
 Baugé-en-Anjou est une commune située dans le département de Maine-et-Loire dans les Pays de la Loire. Elle est peuplée de 12100 habitants en 2021 (dernier chiffre communiqués par les élus), et a à sa tête l’avocat Philippe Chalopin depuis 2013. Baugé-en-Anjou est un regroupement de quinze communes, né en 2013, puis refondu en 2016.
 
@@ -30,7 +30,7 @@ Voici, à ce jour, les thèmes que nous avons relevés et que nous avons récapi
 * Médiathèque
 
 
-**JOUR 2 – IDENTIFICATION**
+## JOUR 2 – IDENTIFICATION
 
 ***2.1 Exploration à la recherche de données***
 
@@ -81,7 +81,7 @@ Après avoir fait ce travail d’évaluation des données, nous avons constitué
 ![La wanted data list de Baugé-en-Anjou](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_12.png)
 
 
-**JOUR 3 – MISE EN QUALITÉ**
+## JOUR 3 – MISE EN QUALITÉ
 
 Hier, nous avons obtenu les bases de données depuis les différents services municipaux, puis déterminé en concertation avec M.Vaslin la sélection des sujets d’étude que nous traiterons en priorité. Il s’agira aujourd’hui de traiter ces bases de données - en l'occurrence celle du budget, des espaces verts et des arbres - pour qu’elles puissent être exploitables. 
 
@@ -189,7 +189,7 @@ Liens Workbench (fichiers validés) :
 * [https://app.workbenchdata.com/workflows/132898/](https://app.workbenchdata.com/workflows/132898/) (arbres urbains)
     
 
-**JOUR 4 – PUBLICATION**
+## JOUR 4 – PUBLICATION
 
 
 Il est 9h lorsque nous arrivons (les premiers) sur Gather Town pour la réunion avec notre coach, Julia. Nous sommes revenus sur l’intense journée d’hier. Il a été noté qu’il serait nécessaire, aujourd’hui, de communiquer aux collectivités des remarques et recommandations au sujet des difficultés rencontrées lors du traitement de données. 
@@ -259,7 +259,7 @@ https://docs.google.com/document/d/1kAToiK0VojsvYA3UlKv_5VdO7EkinEbBQTUvIkNLEk4/
     
 
 
-**JOUR 5 – VALORISATION**
+## JOUR 5 – VALORISATION
 
 Le but du 5ème et dernier jour était de faire parler les données en produisant des “Dataviz” (datavisualisations) pour permettre à tous de tirer des informations en quelques coups d’œil. Il nous a fallu remplir 4 objectifs: réaliser les dataviz - les contextualiser - les publier sur data.gouv et enfin, les présenter à la collectivité lors de la restitution en fin de journée. 
 
