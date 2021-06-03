@@ -43,7 +43,7 @@ Notre recherche a porté sur les dix jeux de données que souhaite ouvrir Baugé
 
 Nous avons constitué cet organigramme des données avec une carte mentale. Cette carte mentale permet de savoir vers quel service et quelle personne se tourner pour pouvoir avoir accès à tel ou tel jeu de données. Après avoir créé de grandes catégories pour indiquer les services, nous avons ajouté d’autres données sur les branches comme les noms des responsables présents au sein d’une direction, en plus du nom du directeur ou de la directrice de cette direction. Madame Roux nous avait fourni les adresses courriels de toutes les personnes à contacter pour obtenir ces jeux de données, ce qui a permis de réaliser cet organigramme relativement facilement. Nous n’avons pas éprouvé de difficulté particulière à constituer l’organigramme. 
 
-![Organigramme des données](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_02.png)
+![Organigramme des données](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_organigramme.png)
 
 ***2.3 Évaluer le travail de mise en qualité***
 
