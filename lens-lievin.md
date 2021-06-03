@@ -43,6 +43,7 @@ Nous avons envoyé un mail à nos deux responsables pour connaître leur avis. I
 
 Nous avons donc une liste de priorités pour nous guider pour le lendemain, tout en partant du principe que nous n’aurons malheureusement pas le temps de gérer tous les jeux de données demandés par la collectivité (nous n’avons même pas une semaine !). Nous appelons Guillaume vers 16h et il nous explique que dans le cas où les bases de données seraient déjà bien remplies, nous serions en mesure de faire nos recherches sur les quatre sujets. Dans le cas contraire, nous concentrerons nos recherches sur les équipements publics et la base horaire des administrations. Nous demandons donc à nos deux responsables de nous envoyer les bases de données disponibles afin de comprendre notre marge de manœuvre. 
 
+![wishlist](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb13_wl.png)
 
 WISHLIST : [https://docs.google.com/document/d/1Ta4R-mxIx6usNtWYUFJNq8ZztDijTKpn/edit?fbclid=IwAR0EnnvNbtLrNjoFG1tdoQeddo4ebqaF7xheaSVC2eSTe7btvUiP4S_oL68](https://docs.google.com/document/d/1Ta4R-mxIx6usNtWYUFJNq8ZztDijTKpn/edit?fbclid=IwAR0EnnvNbtLrNjoFG1tdoQeddo4ebqaF7xheaSVC2eSTe7btvUiP4S_oL68)
 
