@@ -40,7 +40,7 @@ En équipe nous avons validé le questionnaire et obtenu notre score (2). Nous a
 
 Debrief d’équipe sur la journée
 
-
+![wishlist](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb09_wl.png)
 
 **Livrable :**  [Whishlist](https://drive.google.com/file/d/13KLK-cqWaIaDQwBEasl0gHqDo1NjFjTE/view?usp=sharing) 
 
