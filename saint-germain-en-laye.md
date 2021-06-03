@@ -67,6 +67,7 @@ Nous avons bien entendu les besoins de la commune de Saint-Germain, et nous avon
 
 Cette première journée de diagnostic se conclut, pour nous, sur une réelle motivation. En tant qu’étudiants saint-germanois, nous sommes particulièrement motivés pour ce Challenge qui va s’intéresser à une commune dans laquelle nous vivons. Nous n’avions pas de grandes connaissances en open data, mais nous avons déjà beaucoup appris en une journée, ce qui est très motivant. Nous n’avons pas fait face à de réelles difficultés pour ce premier jour. 
 
+![wishlist](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb01_wl.png)
 
 <span style="text-decoration:underline;">Lien wishlist</span> : [https://drive.google.com/file/d/17yRyudkkHHwUz3CZQA5vx8FOjjxG-6TL/view](https://drive.google.com/file/d/17yRyudkkHHwUz3CZQA5vx8FOjjxG-6TL/view) 
 
