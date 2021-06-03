@@ -56,6 +56,9 @@ Le délai serré pour réaliser cette tâche montre qu’établir une politique 
 
 L’évaluation de la mise en qualité des jeux de données a été importante afin d’établir un état des lieux de ce qui fonctionne et ce qui fonctionne moins, dans une perspective d’amélioration et de relance du chantier open data de Beauvais. Aussi, travailler autant sur la réactualisation d’un data set que sur l’ouverture d’un inédit permet d’avoir un bon aperçu des différents types de tâches et missions que les administrateurs de la commune pourront rencontrer lorsqu’ils débuteront une politique globale d’open data.
 
+**Organigramme**
+
+![Organigramme](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb04_organigramme.png)
 
 
 ## JOUR 3 – MISE EN QUALITE
