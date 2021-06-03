@@ -72,6 +72,8 @@ Après la réunion, nous sommes repartis en phase de dataexploration pour les do
 
 Nous avons donc pu proposer à la maire une liste réduite des thèmes qui nous semble pertinents à garder dans la wanted data list. Nous validons les emprunts de livres et les lieux de stationnements, et leur proposons de choisir entre permis de construire et DAE, qui demandent tous deux un grand travail de complétion. Nous attendons confirmation de leur part.
 
+![Organigramme](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb07_organigramme.png)
+
 
 [Organigramme Free mind map (mindmup.com)](https://app.mindmup.com/map/_free/2021/02/9536ceb0729611eba5ce8590888743c1)
 
