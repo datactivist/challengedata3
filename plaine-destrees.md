@@ -31,6 +31,7 @@ La maturité en open data de la Plaine d'Estrées est de niveau 2. Il n'existe p
 
 Notre travail d'aujourd'hui peut se résumer comme suit : contact facile et rapide avec notre interlocuteur, bonne organisation au sein du groupe, prise de conscience du besoin profond de la collectivité en terme d'open data (très peu avancée sur le sujet, même si notre interlocuteur semble y être sensible).
 
+![wishlist](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb11_wl.png)
 
 **Livrable :**  [Whishlist](https://drive.google.com/file/d/18YBmDN0Ia5EFGbpximdd3yO0xLB4TrQx/view?usp=sharing) 
 
