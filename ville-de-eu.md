@@ -81,6 +81,7 @@ Nous avons reçu des **fichiers pour le CA avec de nombreuses pages** pour rempl
 
 Pour les fichiers des élections, on nous dit qu’ils sont disponibles sur le site de la préfecture, mais nous avons besoin des détails par bureau de vote, une personne du service élection est donc censée nous les faire parvenir.
 
+![wishlist](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb17_wl.png)
 
 **Livrable :**  [Whishlist](https://drive.google.com/file/d/1UZboRJf8GcsrfCUtYDVB3U_0b0-c3X9u/view?usp=sharing) 
 
