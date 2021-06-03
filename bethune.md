@@ -44,6 +44,8 @@ Cette première journée de Challenge s’est globalement très bien déroulée.
 Ci-dessous, la wishlist constitue l’aboutissement de cette première journée de Challenge que nous entamons dans la joie et la bonne humeur.
 
 
+![wishlist](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb02_wl.png)
+
 <span style="text-decoration:underline;">Lien wishlist</span> : [https://docs.google.com/document/d/1O8OEKXmWw9Ab2Tnbs8WHK26pZdZb0Bsd/edit](https://docs.google.com/document/d/1O8OEKXmWw9Ab2Tnbs8WHK26pZdZb0Bsd/edit) 
 
 
