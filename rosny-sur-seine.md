@@ -105,6 +105,8 @@ Au final, se construit une petite wishlist composée de jeux de données sur:
 Notre interlocutrice nous envoie suite à cet entretien un mail avec tous les services possédant les données en question. Nous émettons des réserves sur la possibilité de trouver des jeux de données utiles sur les 4 catégories, et suggérons que dans les jours qui viennent nous serons plutôt concentrés sur 2 voire 3 catégories.
 
 
+![wishlist](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb08_wl.png)
+
 La wishlist remplie (disponible [ici](https://docs.google.com/document/d/1VE9XEJz3rkSghTDUxfY3Ohft3qrGs2rW/edit)), notre journée est terminée. Nous notons tous nos ressentis de la journée sur le carnet de bord brouillon, et la personne responsable procède à l’écriture du compte-rendu du jour. 
 
 
