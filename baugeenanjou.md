@@ -157,7 +157,7 @@ Or le lieu indiqué des espaces verts était parfois très vague. Si le “Rond 
 
 
 
-***4 - La validation**
+**4 - La validation**
 
 Enfin, la dernière étape de la journée est la validation. Il existe des sites vérifiant la qualité de nos bases de données, comme par exemple validata.etalab.studio, celui que nous avons utilisé pour vérifier la base de données du budget, correspondant à la catégorie du site nommée “Budget des collectivités et établissements publics locaux”. Une fois notre fichier déposé, il faut valider le fichier et le site affichera son résultat avec une jauge de validation évaluant en comparant avec une base de donnée standard. Voici la liste des bases de données standards qu’ils sont capables de valider : 
 
@@ -180,7 +180,7 @@ Concernant la validation de la BDD des arbres, il en est ressorti des erreurs de
 Pour faire le bilan de cette journée, les conseillers ne nous avaient pas menti en disant que cette journée serait chargée. Vu comme les conseillers étaient sollicités, ce sentiment est sûrement partagé par l’ensemble des équipes. Malgré tout, une fois avoir pris en main nos nouveaux outils de travail, nous avançons efficacement. Nous avons réalisé l’ensemble du travail sur lequel nous nous étions engagés, et nous avons même réussi à traiter une base de données supplémentaire ! Pour retrouver facilement la marche à suivre lors de la mise en qualité de données, vous pourrez dans le futur vous référer à ce carnet de bord ou suivre les étapes inscrites à gauche de la BDD dans Workbench pour facilement retrouver nos différentes manoeuvres. Demain, nous pourrons donc bien publier les données sur le budget communal, sur les arbres, sur les espaces verts et enfin sur les subventions allouées aux associations. 
 
 
-**Liens Workbench (fichiers validés) :**
+Liens Workbench (fichiers validés) :
 
 
 * [https://app.workbenchdata.com/public/moduledata/live/582155.csv](https://app.workbenchdata.com/public/moduledata/live/582155.csv) (subventions associations)
@@ -243,17 +243,17 @@ Tout au long de la journée, lorsque nous avions des interrogations, les coachs 
 ![Organigramme des données](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb16_09.png)
 
 
-**Réalisations du jour :**
+**Réalisations du jour:**
 
 * Fiche des jeux de données :
 [https://drive.google.com/file/d/1sL2WYMjZAHA_a3Zn4D8FpY06SXnw5B0x/view](https://drive.google.com/file/d/1sL2WYMjZAHA_a3Zn4D8FpY06SXnw5B0x/view) 
 * Lien Data.gouv de Baugé-en-Anjou :[https://www.data.gouv.fr/fr/organizations/bauge-en-anjou/](https://www.data.gouv.fr/fr/organizations/bauge-en-anjou/)
 * Plan de communication : \
-** Stratégie de communication, textes et visuels des publications concernant les jeux de données venant d’être ouverts :  \
+**Stratégie de communication, textes et visuels des publications concernant les jeux de données venant d’être ouverts :**
 https://docs.google.com/document/d/1kAToiK0VojsvYA3UlKv_5VdO7EkinEbBQTUvIkNLEk4/edit \
-** Recommandation de stratégie de communication globale pour les jeux de données ouverts à l’avenir :  \
+**Recommandation de stratégie de communication globale pour les jeux de données ouverts à l’avenir :**
 [https://drive.google.com/file/d/1nGNa64tS6IAEL4u6EaZXKUED9eVV_Y69/view?usp=sharing](https://drive.google.com/file/d/1nGNa64tS6IAEL4u6EaZXKUED9eVV_Y69/view?usp=sharing) 
-* Fiche recommandation **concernant les données, communiquée à la collectivité et envoyée par mail à Julia : \
+**Fiche recommandation concernant les données, communiquée à la collectivité et envoyée par mail à Julia :**
 [https://docs.google.com/document/d/1U72Yo4OMCSchZAGFJrsbZ7YlwPTV9JYCIzfpGch1Vf8/edit](https://docs.google.com/document/d/1U72Yo4OMCSchZAGFJrsbZ7YlwPTV9JYCIzfpGch1Vf8/edit) 
 
     
@@ -264,7 +264,7 @@ https://docs.google.com/document/d/1kAToiK0VojsvYA3UlKv_5VdO7EkinEbBQTUvIkNLEk4/
 Le but du 5ème et dernier jour était de faire parler les données en produisant des “Dataviz” (datavisualisations) pour permettre à tous de tirer des informations en quelques coups d’œil. Il nous a fallu remplir 4 objectifs: réaliser les dataviz - les contextualiser - les publier sur data.gouv et enfin, les présenter à la collectivité lors de la restitution en fin de journée. 
 
 
-***Objectif n°1: Réalisation des dataviz***
+**Objectif n°1: Réalisation des dataviz**
 
 Avant de nous lancer dans la réalisation des datavisualisations, nous nous sommes répartis le travail en groupes de deux, afin de travailler sur 4 jeux de données (budget des investissements pour 2021, subventions des associations de 2018 à 2020, espaces verts et arbres urbains). Par la suite, il nous a fallu nous rendre sur un des sites conseillés par les experts ([https://app.rawgraphs.io/](https://app.rawgraphs.io/) , [https://www.opendatasoft.com/fr/](https://www.opendatasoft.com/fr/) et [https://app.workbenchdata.com](https://app.workbenchdata.com)). Cependant, nous avons rencontré des difficultés avec chacun de ces sites. Par exemple, le site Rawgraphs ne nous permettait pas d’importer nos fichiers csv ou excel. Nous avons ainsi tenté une autre approche en copiant toutes les données de nos tableaux et en les collant dans l’onglet “paste” du site. Toutefois, une fois après avoir réussi à faire cela, nous nous sommes rendus compte que les graphiques réalisés n’étaient pas très esthétiques, nous ne pouvions pas modifier la police des éléments inscrits sur les graphiques par exemple. Certains membres de l’équipe ont décidé de poursuivre avec cet outil, quant aux autres, ils ont choisi de passer par Excel ou Google Sheets pour réaliser les dataviz car les autres outils ne leur convenaient pas. 
 
