@@ -37,7 +37,7 @@ Cette **première journée de diagnostic** nous a appris à : nous immerger dans
 Depuis sa création en **2015**, la métropole de **Grenoble** investit dans l’open data. Elle a déjà publié **135 jeux de données** et ses services sont autonomes sur ce point (ils utilisent le logiciel libre CKAN). C’est une **situation spécifique** par rapport aux 18 autres communes participantes. Nous pensions qu’elle serait un **atout**, mais elle s’est révélée être un **frein** à notre démarche.
 
 
-La motivation de la métropole à ouvrir ses données réside dans la **transparence de la vie politique**. Elle veut **rendre des comptes aux citoyens**, les informer du fonctionnement de l’entité en interne, et se conformer à la **loi** de 2016. La métropole évoque aussi un **objectif pédagogique**, en termes de **décloisonnement entre les différentes directions : il s’agit de faire en sorte que la **donnée soit accessible**.
+La motivation de la métropole à ouvrir ses données réside dans la **transparence de la vie politique**. Elle veut **rendre des comptes aux citoyens**, les informer du fonctionnement de l’entité en interne, et se conformer à la **loi** de 2016. La métropole évoque aussi un **objectif pédagogique**, en termes de **décloisonnement entre les différentes directions : il s’agit de faire en sorte que la donnée soit accessible**.
 
 
 **Réussites de la journée** : 
