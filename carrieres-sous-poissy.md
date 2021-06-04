@@ -165,6 +165,31 @@ Revue des différents documents utilisés au cours de la semaine: les infographi
 
 **17h**: Présentation de nos travaux sur le stand de Carrières-sous-Poissy
 
+Dataviz : 
+
+Carrières-sous-Poissy Prénoms des nouveau-nés : [https://gpseo.opendatasoft.com/explore/dataset/carrieres-sous-poissy-prenoms-des-nouveau-nes/table/](https://gpseo.opendatasoft.com/explore/dataset/carrieres-sous-poissy-prenoms-des-nouveau-nes/table/)
+
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb15_viz%20prenoms.png)
+
+Carrières-sous-Poissy - Zone de parking : [https://gpseo.opendatasoft.com/explore/dataset/carrieres-sous-poissy/table/](https://gpseo.opendatasoft.com/explore/dataset/carrieres-sous-poissy/table/)
+
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb15_viz%20zone%20de%20parking.png)
+
+Carrières-sous-Poissy - Petite Enfance : [https://gpseo.opendatasoft.com/explore/dataset/carrieres-sous-poissy-petite-enfance/table/](https://gpseo.opendatasoft.com/explore/dataset/carrieres-sous-poissy-petite-enfance/table/)
+
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb15_viz%20petite%20enf.png)
+
+Carrières-sous-Poissy - Livraison des logements en 2020-2021 : [https://gpseo.opendatasoft.com/explore/dataset/carrieres-sous-poissy-livraison-des-logements-en-2020-2021/table/](https://gpseo.opendatasoft.com/explore/dataset/carrieres-sous-poissy-livraison-des-logements-en-2020-2021/table/)
+
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb15_viz%20livraisons.png)
+
+Carrières-sous-Poissy - DAE : [https://gpseo.opendatasoft.com/explore/dataset/carrieres-sous-poissy-dae/map/?location=15,48.94437,2.03001&basemap=jawg.streets](https://gpseo.opendatasoft.com/explore/dataset/carrieres-sous-poissy-dae/map/?location=15,48.94437,2.03001&basemap=jawg.streets)
+
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb15_viz%20dae.png)
+
+
+Carrières-sous-Poissy Horaires Mairie : [https://gpseo.opendatasoft.com/explore/dataset/carrieres-sous-poissy-horaires-mairie/table/](https://gpseo.opendatasoft.com/explore/dataset/carrieres-sous-poissy-horaires-mairie/table/)
+
 
 ## CONCLUSION
 
