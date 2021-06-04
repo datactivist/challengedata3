@@ -188,6 +188,8 @@ Tourisme : [https://www.hebergeur-image.com/upload/37.171.22.141-602fd7e694412.p
 
 Transport et déplacements : [https://www.hebergeur-image.com/upload/37.171.22.141-602fd7e694412.png](https://www.hebergeur-image.com/upload/37.171.22.141-602fd7e694412.png?fbclid=IwAR3iBWaFmFF5-ZzBOnTfRY6QcTKk2CmLrQSi8VXhfs4IFkB4hCNyfUt5l1k)
 
+![carte](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb13_carte.png)
+
 
 Liens DATAGOUV : 
 
