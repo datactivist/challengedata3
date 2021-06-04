@@ -1,5 +1,5 @@
 # Carnet de bord de l'ouverture des données de Carrières-sous-Poissy
-par Joana Devarieux, Etienne Vêtu, Antoine Goussot, Alban Tran, César Veillon et Lucas Gomes
+par Joana Devarieux, Etienne Vêtu, Antoine Goussot, Alban Tran, C.V et L.G
 
 ![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/carrieressouspoissy.jpeg)
     
@@ -10,10 +10,10 @@ par Joana Devarieux, Etienne Vêtu, Antoine Goussot, Alban Tran, César Veillon 
 **10:50 :** Petit debriefing après la réunion d’ouverture Zoom. On parle et on essaie de comprendre la plateforme et ce qu’il faut faire. Nous entamons les premières recherches sur la ville de Carriere Sous Poissy pour nous familiariser avec elle. 
 
 
-**11:00 :** Nous tentons d’accéder aux données de la ville de Carriere Sous Poissy. Nous avons des difficultés à comprendre exactement comment commencer le travail, puis Arthur nous explique que nous devons contacter monsieur XXX pour obtenir les informations du questionnaire.
+**11:00 :** Nous tentons d’accéder aux données de la ville de Carriere Sous Poissy. Nous avons des difficultés à comprendre exactement comment commencer le travail, puis Arthur nous explique que nous devons contacter notre interlocuteur pour obtenir les informations du questionnaire.
 
 
-**11:15 :** Nous contactons monsieur XXX par téléphone pour prendre rendez-vous avec lui et obtenir les informations nécessaires. Nous regardons les vidéos et entamons une répartition des taches de la semaine selon les plannings des journées à suivre. 
+**11:15 :** Nous contactons notre interlocuteu par téléphone pour prendre rendez-vous avec lui et obtenir les informations nécessaires. Nous regardons les vidéos et entamons une répartition des taches de la semaine selon les plannings des journées à suivre. 
 
 
 → Le rendez vous est fixé à 14:30 et A 15 heures on fixera le planning de travail de la semaine. 
@@ -34,7 +34,7 @@ Une des premières difficultés est la contrainte de temps, car sans cet appel, 
 **17h :** Début de l’entretien, nous recevons l’une des cheffes de services qui ne s’y connaît pas beaucoup en Data. Elle tente tout de même de répondre à nos questions mais avec un peu de nonchalance surtout au début car elle ne maîtrise pas du tout le sujet. Nous sommes renvoyés en permanence vers le DSI. Elle aborde tout de même le fait que la réalisation de maps soit pertinente et nécessaire dans sa commune.
 
 
-**18h:** Fin du rendez-vous, nous effectuons les derniers envois sur airtable, et complétons la wishlist avec les informations de contacts obtenues auprès de madame la DGS Catherine Guérin. 
+**18h:** Fin du rendez-vous, nous effectuons les derniers envois sur airtable, et complétons la wishlist avec les informations de contacts obtenues auprès de madame la DGS. 
 
 ![wishlist](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb15_wl.png)
 
@@ -44,7 +44,7 @@ Une des premières difficultés est la contrainte de temps, car sans cet appel, 
 ## JOUR 2 – IDENTIFICATION
 
 
-**9h30:** connexion du groupe, réunion sur le déroulé de la journée. Arthur de Datactivist nous aide à contacter notre interlocuteur du jour, Monsieur XXX. Nous avons rendez-vous avec lui à 10h30 pour organiser la journée. Nous poursuivons notre organisation en attendant.
+**9h30:** connexion du groupe, réunion sur le déroulé de la journée. Arthur de Datactivist nous aide à contacter notre interlocuteur du jour. Nous avons rendez-vous avec lui à 10h30 pour organiser la journée. Nous poursuivons notre organisation en attendant.
 
 
 **11h30:** Notre rendez-vous arrive avec un peu de retard. Nous lui expliquons le projet et les fichiers dont nous allons avoir besoin. Il nous promet de nous envoyer les premiers fichiers de données avant la fin de la matinée. S’ils sont compensables, les retards de la mairie dus à d’autres obligations et absences sur ces 2 premiers jours (vacances, cas COVID, autres réunions…) nous handicapent dans le bon déroulé de la journée.
@@ -56,7 +56,7 @@ Une des premières difficultés est la contrainte de temps, car sans cet appel, 
 **14h:** Nouveau rendez-vous avec notre interlocuteur privilégié et la responsable de l'État civil. Nous obtenons une promesse d’envoi de documents sur les naissances, décès et sur l'État civil en général.
 
 
-**14h30:** Nous recevons des données sur la petite enfance et l'État civil 2018-2020 nous ayant été fournies à la suite d’un échange téléphonique par XXX  de la direction de la Petite enfance. Nous en commençons l’analyse et l’import dans Workbench. Nous obtenons au téléphone de la part des services d’urbanisme des promesses de données de la part des services à propos des permis de construire et des places de stationnement cet après-midi ou à demain 9h. 
+**14h30:** Nous recevons des données sur la petite enfance et l'État civil 2018-2020 nous ayant été fournies à la suite d’un échange téléphonique par la direction de la Petite enfance. Nous en commençons l’analyse et l’import dans Workbench. Nous obtenons au téléphone de la part des services d’urbanisme des promesses de données de la part des services à propos des permis de construire et des places de stationnement cet après-midi ou à demain 9h. 
 
 
 **15h:** Nous avons les services des espaces verts et municipaux au téléphone, on nous promet des données sur les espaces verts et défibrillateurs.
@@ -156,7 +156,7 @@ Revue des différents documents utilisés au cours de la semaine: les infographi
 
 Cette semaine de challenge data nous a permis de pouvoir étudier, traiter et standardiser un certain nombre de données. Les jeux de données ayant été ouverts sont au nombre de sept et correspondent aux éléments suivants : les défibrillateurs automatisés externes (DAE), les lieux de stationnement, la livraison des logements, la base horaire de l’administration (mairie), aux établissements d’accueil de la petite enfance, aux actes d'État-civil et aux prénoms des nouveaux-nés. 
 
-Pour pouvoir ces différentes données, un certain nombre de leviers nous ont été fournis grâce aux contacts avec la mairie. On a ainsi pu contacter XXX, Directrice Générale des Services de la mairie, avec laquelle nous avons pu introduire le challenge data à la mairie de la commune. Cela a facilité la transmission de nos informations et la communication avec les divers services compétents de la mairie. Par la suite, nous avons pu communiquer avec XXX, travaillant à la direction des services informatiques et ayant pu nous permettre d’avoir accès aux différents services de la mairie. Nous avons pu obtenir par ses contacts différents services de la mairie : les espaces verts, l’urbanisme, les services technique, la petite-enfance, l’Etat civil. Un certain nombre de freins ont constitué de véritables challenges à relever. 
+Pour pouvoir ces différentes données, un certain nombre de leviers nous ont été fournis grâce aux contacts avec la mairie. On a ainsi pu contacter la Direction Générale des Services de la mairie, avec laquelle nous avons pu introduire le challenge data à la mairie de la commune. Cela a facilité la transmission de nos informations et la communication avec les divers services compétents de la mairie. Par la suite, nous avons pu communiquer avec la direction des services informatiques et ayant pu nous permettre d’avoir accès aux différents services de la mairie. Nous avons pu obtenir par ses contacts différents services de la mairie : les espaces verts, l’urbanisme, les services technique, la petite-enfance, l’Etat civil. Un certain nombre de freins ont constitué de véritables challenges à relever. 
 
 La mairie a mis beaucoup de temps à nous fournir les différentes données nous étant nécessaires à la constitution de bases de données, étant souvent des données peu adaptées, et difficile à formater manuellement. Le challenge data nous a permis de développer un véritable esprit de travail utilisé dans différents domaines, comme par exemple la standardisation, l’appel des contacts de la mairie, ou encore la réalisation de la visualisation des données. Par ailleurs, elle nous a appris à utiliser de nouveaux outils tels que uMap, workbench data, ou encore Microsoft Excel et RAWgraph. En tant qu’étudiants en sciences politiques, nous avons obtenu un lien privilégié avec des institutions du service publique que sont la mairie de Carrières-sous-Poissy, ce qui nous a permis d’entrevoir le fonctionnement spécifique de cette collectivité. 
 
