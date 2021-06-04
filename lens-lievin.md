@@ -146,12 +146,15 @@ A 17h, un frisson traverse la salle et nous ne pouvons nous empêcher d’applau
 
 Nous mettons en place notre plan com en écrivant un mail afin de présenter notre projet. Nous avons donc deux bases de données : la première base de données recense les horaires d'ouverture, adresses, contacts et coordonnées GPS des Mairies et autres administrations de la CALL. La seconde répertorie, classifie et géolocalise les équipements publics de la communauté d'agglomération.
 
+**Liens datagouv** :
 
 [https://www.data.gouv.fr/fr/datasets/base-horaires-des-administrations-de-la-communaute-dagglomeration-lens-lievin/](https://www.data.gouv.fr/fr/datasets/base-horaires-des-administrations-de-la-communaute-dagglomeration-lens-lievin/)
 
+[https://www.data.gouv.fr/fr/datasets/equipements-de-la-communaute-dagglomeration-lens-lievin/](https://www.data.gouv.fr/fr/datasets/equipements-de-la-communaute-dagglomeration-lens-lievin/)
+
+**Liens vers les fichiers CSV** :
 
 [https://static.data.gouv.fr/resources/base-horaires-des-administrations-de-la-communaute-dagglomeration-de-lens-lievin/20210218-173423/base-horaires-administrations-call.csv](https://static.data.gouv.fr/resources/base-horaires-des-administrations-de-la-communaute-dagglomeration-de-lens-lievin/20210218-173423/base-horaires-administrations-call.csv?fbclid=IwAR3MdCusBFdmF1TjVHEDqlVutVsCMObVSdeOqB1asa6EwcEtRi8QEeVprLc)
-
 
 [https://static.data.gouv.fr/resources/equipements-publics-de-la-communaute-dagglomeration-lens-lievin/20210218-172037/equipement-public-call.cs](https://static.data.gouv.fr/resources/equipements-publics-de-la-communaute-dagglomeration-lens-lievin/20210218-172037/equipement-public-call.csv?fbclid=IwAR1jI0TqJrg7w7-ZbtqXmapx_Q4YpyNUUe9H1VoIlJfR4vbJiNWqNpxcP8g)v
 
