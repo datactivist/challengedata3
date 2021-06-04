@@ -110,8 +110,7 @@ Afin de pouvoir avancer sur le travail de demain, nous commençons à transmettr
 
 
 
-
-1. **<span style="text-decoration:underline;">Réunion avec notre interlocutrice : 9h30. </span>**
+1. **<span style="text-decoration:underline;">1/ Réunion avec notre interlocutrice : 9h30. </span>**
 
 Nous annonçons à notre interlocutrice le programme de la journée à savoir la recherche des jeux de donnés sur la base des 10 décidées hier. Le problème qui se profile est que la commune n’a pas de fichiers EXCEL avec les donnés dedans, nous devons donc créer des tableurs EXCELS nous mêmes, pour que les services les complètent avec leurs informations. 
 
@@ -121,13 +120,13 @@ Notre interlocutrice semble être la seule véritablement concernée par les pro
 Nous décidons d’importer les templates de Workbench sur des fichiers Google Sheets dans un drive commun que nous partageons avec notre interlocutrice afin qu’elle puisse transmettre aux différents services. Nous avons ajouté une ligne “significations” pour traduire les sigles codés compliqués à comprendre, ainsi qu’une ligne exemple pour que les services comprennent exactement quel type de donnée est attendue. Nous continuons donc dans notre démarche pédagogique, le but étant avant tout que la commune s’approprient ces nouvelles façons de travailler avec la data.  \
 Durant cette étape la difficulté rencontrée est d’harmoniser les tableurs EXCEL et standardiser les données dans les cellules : il faut respecter les formats de cellule de la template qui ne correspondent pas aux documents envoyés par notre interlocutrice : c’est donc un travail très long et peu réjouissant. 
 
-2. **<span style="text-decoration:underline;">Deuxième réunion avec notre interlocutrice : 12h30 </span>**
+2. **<span style="text-decoration:underline;">2/ Deuxième réunion avec notre interlocutrice : 12h30 </span>**
 
 Nous lui transmettons tous nos tableurs et échangeons avec elle, pour savoir si elle comprend bien tous les éléments. Elle demande des précisions sur certaines données : par exemple les données “petite enfance” doivent aller jusqu'à quel âge ? 
 
 Notre interlocutrice semble très préoccupée par rapport à l’avancement des autres villes, elle demande plusieurs fois “les autres villes galèrent autant ?”, ce qui prouve encore une fois son engagement dans ce challenge. Elle a à coeur de montrer qu’Epône est une commune qui s’engage dans la démarche open data 
 
-3. **<span style="text-decoration:underline;">L’organigramme</span>**
+3. **<span style="text-decoration:underline;">3/ L’organigramme</span>**
 
 Après la pause déjeuner nous réalisons l’organigramme des donnés sur Mindup avec l’aide de notre interlocutrice. Alors que cette étape paraît très simple, c’est finalement plus compliqué car dans une toute petite commune comme Epone, il est difficile d’identifier clairement quel service est géré par qui : entre ceux  dirigés par la mairie directement, et d’autres services par l”intercommunalité (service intercommunal de la région d'Epône pour les transports, petite enfance etc) , les élus personnellement, ceux qui ont plusieurs casquettes …. 
 
@@ -136,7 +135,7 @@ Difficultés : la Mindmap réalisée dans l'après-midi ne s’est pas enregistr
 
 ![](https://raw.githubusercontent.com/ArthurSrz/images/main/Epone_carnet3.png)
 
-4. **<span style="text-decoration:underline;">Evaluation de la qualités des donnés : Wanted list </span>**
+4. **<span style="text-decoration:underline;">4/ Evaluation de la qualités des donnés : Wanted list </span>**
 
 La dernière étape de la journée consiste à évaluer le travail de mise en qualité des données transmises par notre interlocutrice tout au cours de la journée au travers de notre drive commun. 
 
@@ -238,7 +237,7 @@ Notre interlocutrice nous fait cependant part d’une très bonne nouvelle qui d
 
     <span style="text-decoration:underline;">Difficultés rencontrées :</span> On a reçu un nouveau jeu de données, avec des commerces et des entreprises, il a donc fallu recréer (encore) un jeu de données (copie base horaires commerces) pour fusionner les informations de la première base avec celles de la nouvelle table de données (liste entreprises 2020). Nous devions aussi trier les entreprises et les commerces (compliqué car la définition d’un commerce n’est pas si évidente que ça). 
 
-**Base de données Défibrillateurs**
+*  **Base de données Défibrillateurs**
     *   Ajout coordonnées GPS
     *   Disponibilités horaires
 
@@ -354,13 +353,13 @@ Voici nos différentes bases visualisées sous forme de carte. Pour chacune de n
 
 
 
-*   **<span style="text-decoration:underline;">Base Monuments Historique:</span> **
+*   **<span style="text-decoration:underline;">Base Monuments Historique:</span>**
 
 Infobulle: Nom, Adresse, description du monument et siècle. [https://gpseo.opendatasoft.com/explore/dataset/monuments_historiques_epone/map/?basemap=jawg.streets&location=14,48.96207,1.82217](https://gpseo.opendatasoft.com/explore/dataset/monuments_historiques_epone/map/?basemap=jawg.streets&location=14,48.96207,1.82217)
 
 ![graph](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb12_01.png)
 
-*   **<span style="text-decoration:underline;">Base infrastructure de recharge</span>: **
+*   **<span style="text-decoration:underline;">Base infrastructure de recharge</span>:**
 
 Infobulle: nom de la station, type de prise, adresse, nombre et puissance. 
 [https://gpseo.opendatasoft.com/explore/dataset/infrastructures_de_recharge_vehicules_electriques_epone/map/?basemap=jawg.streets&location=22,48.95761,1.81309](https://gpseo.opendatasoft.com/explore/dataset/infrastructures_de_recharge_vehicules_electriques_epone/map/?basemap=jawg.streets&location=22,48.95761,1.81309)
@@ -376,7 +375,7 @@ Infobulle:  Nom, accès, couvert, capacité
 
 ![graph](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb12_03.png)
 
-*   **<span style="text-decoration:underline;">Base de commerce</span>: **
+*   **<span style="text-decoration:underline;">Base de commerce</span>:**
 
 Infobulle: Nom, adresse, horaires d’ouvertures. 
 
@@ -385,7 +384,7 @@ Infobulle: Nom, adresse, horaires d’ouvertures.
 
 ![graph](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb12_04.png)
 
-*   **<span style="text-decoration:underline;">Base Défibrillateurs</span>: **
+*   **<span style="text-decoration:underline;">Base Défibrillateurs</span>:**
 
 Infobulle: Horaires, adresse, accès libre, téléphone, état de fonctionnement. 
 
@@ -403,7 +402,7 @@ Infobulle: gratuité, nombre de place, adresse, nombre de vélos, nom et PMR. Il
 
 ![graph](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb12_06.png)
 
-*   **<span style="text-decoration:underline;">Base mobilité croisée</span>:  **
+*   **<span style="text-decoration:underline;">Base mobilité croisée</span>:**
 
 Nous avons également effectué un croisement entre les lieux de stationnement, les parkings à vélos et les infrastructures de recharges électriques sur une carte, pour faciliter la mobilité. 
 
@@ -421,7 +420,7 @@ Nous avons croisé les bases de commerce, des monuments historiques, des parking
 
 ![graph](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb12_08.png)
 
-*   **Graphique représentant les parkings en fonction du nombre de places. **
+*   **Graphique représentant les parkings en fonction du nombre de places.**
 
 Certaines données de la base ne correspondent pas pour les parkings, nous avons donc dû vérifier nos informations sur internet et donc retrouvé les coordonnées sur google Map. Par  ces vérifications nous avons donc dû effectuer des petites modifications nécessaires et ainsi assurer la véracité des informations que nous partageons pour la ville.
 
