@@ -150,7 +150,7 @@ Répartition des rôles pour tenter de contacter les différents interlocuteurs 
 
  - **Recherche** des données à propos des îlots de fraîcheur mais aucun donnée exploitable n’a été transmise ou trouvée
 
--  **Recherche **des données à propos de la base horaire des administrations (recherches et appel) 
+-  **Recherche** des données à propos de la base horaire des administrations (recherches et appel) 
 
 -  **Recherche** des données à propos des budgets primitifs (recherches et appel) 
 
@@ -404,6 +404,7 @@ URLs workbenchdata :
 
 * actes d’état civil : [https://app.workbenchdata.com/workflows/132902](https://app.workbenchdata.com/workflows/132902) 
 
+\ 
 
 *  **Difficulté n°6:** La publication des résultats sur opendatasoft a l’air de se faire sur le compte de la CU de Grand Paris Seine et Oise, hors ils n’ont pas été nos interlocuteurs, ou très peu. Nous ne savons pas vraiment qui va alimenter et entretenir ce compte et la publication des données, notamment si Nézel décide de continuer son ouverture à l’open data. Nous n’arrivons pas à cerner la place de la commune au sein de ce processus. (Doute confirmé, voir difficulté n°8) 
 
@@ -434,7 +435,7 @@ La réunion nous a permis d’aborder nos interrogations :
 *   questions sur le déroulé de la journée de demain, et notamment au sujet du moment de restitution
 *   proposition de partage de templates vides de bases de données pour aider la commune de Nézel à mieux collecter les données afin d’améliorer leur politique d’open data
 
-**15:00 - 16:30: Finalisation de la stratégie de communication **
+**15:00 - 16:30: Finalisation de la stratégie de communication**
 
 
 Après concertation collective, nous décidons de nous répartir le travail pour finaliser cette partie. 
