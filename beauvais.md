@@ -146,6 +146,8 @@ Finalement, en effectuant quelques recherches personnelles nous avons pu ajouter
 
 Ainsi, nous avons créé une carte sur laquelle figure la localisation et toutes les informations nécessaires sur les bornes de recharge électrique, le stationnement hors voirie en centre-ville, le covoiturage et les parkings à vélo. Nous souhaitons mettre en avant la multimodalité à Beauvais afin de soutenir la transition écologique et le commerce local. A terme, cette carte pourrait être accessible sur l’application de la Ville de Beauvais, et permettre à la collectivité et aux investisseurs de cibler les zones où développer ce type d’infrastructures.
 
+![carte](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb04_carte.png)
+
 [Lien vers la carte interactive](http://umap.openstreetmap.fr/fr/map/intermodalite-a-beauvais-carte-des-mobilites-douce_565072#15/49.4296/2.0927)
 
 **CONCLUSION**
