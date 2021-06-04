@@ -19,10 +19,10 @@
 [![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/carrieressouspoissy.jpeg)](https://datactivist.coop/challengedata3/carrieres-sous-poissy)
 
 ## Châtillon (Commune)
-[![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/chatillon.jpeg)]()
+[![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/chatillon.jpeg)](https://datactivist.coop/challengedata3/chatillon)
 
 ## Eu (Commune)
-[![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/eu.jpeg)]()
+[![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/eu.jpeg)](https://datactivist.coop/challengedata3/ville-de-eu)
 
 ## Epone (Commune)
 [![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/epone.jpeg)](https://datactivist.coop/challengedata3/epone)
@@ -52,7 +52,7 @@
 [![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/rosnysurseine.jpeg)](https://datactivist.coop/challengedata3/rosny-sur-seine)
 
 ## Saint Germain en Laye (Commune)
-[![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/saintgermainenlaye.JPG)](https://datactivist.coop/challengedata3/saint-gerain-en-laye)
+[![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/saintgermainenlaye.JPG)](https://datactivist.coop/challengedata3/saint-germain-en-laye)
 
 ## Villes Soeurs (Communauté de communes)
-[![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/villessoeurs.jpeg)](https://datactivist.coop/challengedata3/ville-soeurs)
+[![Illustration réalisée par Anne-Cécile Calléjon](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/villessoeurs.jpeg)](https://datactivist.coop/challengedata3/villessoeurs)
