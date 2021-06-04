@@ -159,11 +159,28 @@ Le logiciel opendatasoft, qui héberge le portail de la métropole de Lille nous
 <span style="text-decoration:underline;">Datavisualisation : </span>
 
 
-[Délibérations par catégories](https://opendata.lillemetropole.fr/chart/embed/?dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImRlbGliZXJhdGlvbnNfdmlsbGVfZGFybWVudGllcmVzIiwib3B0aW9ucyI6eyJ0aW1lem9uZSI6IkV1cm9wZS9CZXJsaW4ifX0sImNoYXJ0cyI6W3siYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6InRyZWVtYXAiLCJmdW5jIjoiQ09VTlQiLCJ5QXhpcyI6InZvdGVfZWZmZWN0aWYiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1QYWlyZWQifV0sInhBeGlzIjoiZGVsaWJfbWF0aWVyZV9ub20iLCJtYXhwb2ludHMiOiIiLCJ0aW1lc2NhbGUiOiIiLCJzb3J0IjoiIiwic2VyaWVzQnJlYWtkb3duIjoiIiwic2VyaWVzQnJlYWtkb3duVGltZXNjYWxlIjoiIn1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D) - [Nombre de délibérations par mois](https://opendata.lillemetropole.fr/chart/embed/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQ09VTlQiLCJ5QXhpcyI6InZvdGVfZWZmZWN0aWYiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjZmYwMDAwIn1dLCJjb25maWciOnsiZGF0YXNldCI6ImRlbGliZXJhdGlvbnNfdmlsbGVfZGFybWVudGllcmVzIiwib3B0aW9ucyI6e319LCJ4QXhpcyI6ImRlbGliX2RhdGUiLCJtYXhwb2ludHMiOm51bGwsInRpbWVzY2FsZSI6Im1vbnRoIiwic29ydCI6IiJ9XSwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZSwidGltZXNjYWxlIjoieWVhciJ9)
 
 
-[Carte accueil petites enfances](https://opendata.lillemetropole.fr/explore/embed/dataset/accueil_petite_enfance_ville_darmentieres/map/?location=14,50.69092,2.87592&basemap=jawg.streets) -[ Carte Monuments historiques](https://opendata.lillemetropole.fr/explore/dataset/monuments-historiques-armentieres/map/?location=14,50.69689,2.8843&basemap=jawg.streets) - [Carte défibrillateurs](https://opendata.lillemetropole.fr/explore/dataset/daearmentieres/information/)
+[Nombre de délibérations par mois](https://opendata.lillemetropole.fr/chart/embed/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQ09VTlQiLCJ5QXhpcyI6InZvdGVfZWZmZWN0aWYiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjZmYwMDAwIn1dLCJjb25maWciOnsiZGF0YXNldCI6ImRlbGliZXJhdGlvbnNfdmlsbGVfZGFybWVudGllcmVzIiwib3B0aW9ucyI6e319LCJ4QXhpcyI6ImRlbGliX2RhdGUiLCJtYXhwb2ludHMiOm51bGwsInRpbWVzY2FsZSI6Im1vbnRoIiwic29ydCI6IiJ9XSwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZSwidGltZXNjYWxlIjoieWVhciJ9)
 
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb05_vis_delib.png)
+
+
+[Délibérations par catégories](https://opendata.lillemetropole.fr/chart/embed/?dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImRlbGliZXJhdGlvbnNfdmlsbGVfZGFybWVudGllcmVzIiwib3B0aW9ucyI6eyJ0aW1lem9uZSI6IkV1cm9wZS9CZXJsaW4ifX0sImNoYXJ0cyI6W3siYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6InRyZWVtYXAiLCJmdW5jIjoiQ09VTlQiLCJ5QXhpcyI6InZvdGVfZWZmZWN0aWYiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1QYWlyZWQifV0sInhBeGlzIjoiZGVsaWJfbWF0aWVyZV9ub20iLCJtYXhwb2ludHMiOiIiLCJ0aW1lc2NhbGUiOiIiLCJzb3J0IjoiIiwic2VyaWVzQnJlYWtkb3duIjoiIiwic2VyaWVzQnJlYWtkb3duVGltZXNjYWxlIjoiIn1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D) 
+
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb05_viz_budget.png)
+
+[Carte accueil petites enfances](https://opendata.lillemetropole.fr/explore/embed/dataset/accueil_petite_enfance_ville_darmentieres/map/?location=14,50.69092,2.87592&basemap=jawg.streets) 
+
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb05_viz_petite%20enf.png)
+
+[ Carte Monuments historiques](https://opendata.lillemetropole.fr/explore/dataset/monuments-historiques-armentieres/map/?location=14,50.69689,2.8843&basemap=jawg.streets) 
+
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb05_vis_munuments%20historiques.png)
+
+[Carte défibrillateurs](https://opendata.lillemetropole.fr/explore/dataset/daearmentieres/information/)
+
+![](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb05_vis_def.png)
 
 Explication des datavisualisations : [Datavisualisation petite enfance](https://docs.google.com/document/d/11XWkJL8VVavtgnuPr74s5OJJHkiFwRnNiSQTWok4uOo/edit#heading=h.ars1yxghs2t4) - [DAE](https://docs.google.com/document/d/1QSIzZaUA7J5WRt4t3LOS0rThEUXIH-Dv2oTiL_O4UAw/edit#heading=h.gjdgxs) - [Stationnement vélo](https://docs.google.com/document/d/17WjjCeEqvfLFtg90KAu9sSJhi5yPtiSL2vmXf5MdWYE/edit?usp=sharing) - [Datavisualisation délibération](https://docs.google.com/document/d/1SfHzAC7fJzaVQjrU9EkxW2bvE_VILngYv05yTRaIpho/edit?fbclid=IwAR1baF-MD6yhRrf5XCm4I2rp9q24GjubJShGVX37gMaJ2Wnu8GdKQ6qVSIg#heading=h.uyemfzjw7n3y) - [Datavisualisation Monuments historiques](https://docs.google.com/document/d/1mqVXWZHJWEFvYzlJSfX4QK6NzVgbxKjxYTGm5hpm2Ko/edit#)
 
