@@ -336,23 +336,6 @@ Finalement, grâce à la documentation et à Arthur, la publication s’est fait
 2020: [https://www.data.gouv.fr/fr/datasets/rosny-sur-seine-budget-primitif-2020/](https://www.data.gouv.fr/fr/datasets/rosny-sur-seine-budget-primitif-2020/)
 
 
-**Délibérations:**
-
-2015: []()
-
-2016: []()
-
-2017: []()
-
-2018: []()
-
-2019: []()
-
-de 2015 à 2019: []()
-
-
-**Equipement jeunesse: ** : []()
-
 **Etablissement accueil petite enfance:** :[https://www.data.gouv.fr/fr/datasets/rosny-sur-seine-etablissements-daccueil-petite-enfance/](https://www.data.gouv.fr/fr/datasets/rosny-sur-seine-etablissements-daccueil-petite-enfance/)
 
 Pour finir, en fin de journée, nous avons reçu un retour de la chargée de communication de Rosny-sur-Seine qui nous a fait un premier retour sur notre plan de communication. Cela a surtout été des corrections quant à la rédaction et des erreurs d’inattention.
