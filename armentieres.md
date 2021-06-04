@@ -31,6 +31,8 @@ La commune souhaite ouvrir ses données dans un but principalement démocratique
 
 Quelques difficultés de compréhension avec l’interlocuteur de la municipalité pour plusieurs raisons (vocabulaire, autour des objectifs du challenge, manque de connaissances sur la data). Certaines envies du référent open data ne correspondent pas à la liste des standards fournis (données autour des rues avec des noms de femmes, …). Quelques moments d'attente dans la journée.
 
+![wishlist](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb05_wl.png)
+
 [Wishlist de la commune d'Armentières](https://drive.google.com/file/d/1megewK4QBzxXFTm4bt10S7PXc8dB6NKw/view)  - [Résultat du questionnaire](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi)
 
 Bonus : [Data déjà disponible sur la commune d'Armentières - data.gouv.fr](https://www.data.gouv.fr/fr/search/?q=armenti%C3%A8res)
@@ -51,9 +53,10 @@ Concernant les défibrillateurs (DEA), les données fournies par notre référen
 
 Malgré plusieurs tentatives, nous n’avons pas réussi à joindre certains des services de la mairie d’Armentières, dont celui responsable des DEA. Notre référent nous a envoyé les contacts manquants en milieu d’après-midi, ce qui nous a permis de demander les informations manquantes aux services concernés, qui ne nous avaient pas répondu jusque-là. Nous nous sommes rendus compte qu’il existait peut-être un 5ème monument historique à Armentières selon le journal la Voix du Nord. Nous avons rempli une wishlist avec un code couleur pour chaque type de jeu de données en fonction de leur disponibilités ou non. La mindmap La Mindmap a été complétée avec l’ensemble des informations dont nous disposons.
 
+![Organigramme](https://raw.githubusercontent.com/datactivist/challengedata3/main/images_cdb/illustration_publication/cdb05_organigramme.png)
 
-[Carte MindUp des données de la ville d'Armentières](https://app.mindmup.com/map/_free/2021/02/25e5d740707011eba8365d20f0b07fe5)  -  [Wishlist de la commune d'Armentières](https://drive.google.com/file/d/1megewK4QBzxXFTm4bt10S7PXc8dB6NKw/view) 
 
+[Carte MindUp des données de la ville d'Armentières](https://app.mindmup.com/map/_free/2021/02/25e5d740707011eba8365d20f0b07fe5) 
 
 Bonus : [exemple d’utilisation des données standards](https://docs.google.com/presentation/d/1YmCBDzfzmvPQQPQi8Nz6ApLQ8qiVYfXnKAdwRSRCR3o/edit#slide=id.gbe2d05e016_0_75)
 
