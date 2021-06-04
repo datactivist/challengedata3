@@ -423,7 +423,9 @@ Erell et Tsoliné avancent sur la carte des commerces de la ville.
 17h : Réunion zoom et début de la restitution. Nous avons pu présenter notre diaporama à Allyson et étions heureuses de pouvoir le remercier pour cette semaine. En revanche, nous étions déçues de voir que notre référent ne soit même pas venu à notre restitution. Nous avons eu un peu l’impression d’avoir aucune considération pour notre travail. Nous n’avons même pas eu de nouvelles pour notre 2e jeu de données, nous n’avons donc pas pu le publier en public alors que nous avons beaucoup investi dedans et que nous en sommes fières.  
 
 
-[Lien du jeu publié](https://www.data.gouv.fr/fr/datasets/liste-et-horaires-des-commerces-de-la-ville-de-chatillon-2021/?fbclid=IwAR0wmELuRanTImjLYoT2pMd-TPdg84NfNxWAwYNQpQmQ5Shrq9G4SLgJHRM) 
+[Liste et horaires des commerces de la ville de Châtillon 2021](https://www.data.gouv.fr/fr/datasets/liste-et-horaires-des-commerces-de-la-ville-de-chatillon-2021/?fbclid=IwAR0wmELuRanTImjLYoT2pMd-TPdg84NfNxWAwYNQpQmQ5Shrq9G4SLgJHRM) 
+
+![](https://www.hebergeur-image.com/upload/77.204.144.113-602fd8f01c96f.png)
 
 
 **CONCLUSION**
