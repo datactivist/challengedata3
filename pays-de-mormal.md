@@ -50,8 +50,6 @@ La réunion avec notre référent 1 a eu lieu comme convenu à 16h, et nous avon
 Pour terminer la journée, nous avons fait le bilan de l’évaluation des jeux de données reçus, et quatre sont exploitables, et nous attendons éventuellement des réponses pour le lendemain.
 
 
-Organigramme : [https://app.mindmup.com/map/new/1613474855914?fbclid=IwAR2ivit4GTjWF7lMuUv3xPo5t2JKUrDLsAxkx0Cm_E7uclC2eGMEXx0Y9AM](https://app.mindmup.com/map/new/1613474855914?fbclid=IwAR2ivit4GTjWF7lMuUv3xPo5t2JKUrDLsAxkx0Cm_E7uclC2eGMEXx0Y9AM)
-
 
 
 ## JOUR 3 – MISE EN QUALITÉ
