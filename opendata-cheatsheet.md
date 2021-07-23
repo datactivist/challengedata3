@@ -83,14 +83,50 @@ pour les illustrer :
 
 Avant de se lancer, il s'agit de savoir où en est la collectivité, autrement dit de connaitre son niveau de maturité. 
 
-Once you're strong enough, save the world:
+Pour cela, le référent open data de la collectivité peut organiser un temps de travail \(45 minutes\) avec 1 agent rattaché à la DSI et/ou 1 agent rattaché à la Direction Générale des Services. 
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
+Le but de ce temps de travail est de réaliser le [processus d'évaluation de la maturité open data d'une collectivité proposé par l'Open Data Canvas](https://opendatacanvas.org/evaluer-maturite-open-data). 
+
+```text
+Madame, monsieur, 
+
+Dans le cadre du lancement de notre projet d'ouverture
+des données, nous allons évaluer la maturité open data
+de notre collectivité. 
+
+Seriez-vous disponible pour un temps de travail de 
+45 minutes qui nous permettra de réaliser un processus
+d'évaluation de la maturité open data des collectivités
+(proposé par l'Open Data Canvas, voir lien ci-dessous) ? .
+
+Ce processus se déroule en 3 temps : 
+
+   - Sur la base de nos connaissances,
+   nous allons répondre à un questionnaire d'une 15aine
+   de questions sur l'état d'avancement open data de notre
+   collectivité. 
+   
+   - Nos réponses nous donneront un score qui correspond
+   à un pallier de maturité open data (il existe 5 palliers)
+   
+   - Nous aurons ensuite accès à une base où les évaluations
+   de 20 autres collectivités sont disponbiles, ce qui
+   nous permettra de nous situer relativement à d'autres entités
+   
+A l'issue de ce temps de travail, je vous présenterai un
+catalogue de données que nous pourrons ouvrir, étant donné 
+notre niveau de maturité (voir lien ci-dessous).
+    
+
 ```
-{% endcode %}
+
+#### Liens ou pièces-jointes à joindre/attacher
+
+Lien vers le processus d'évaluation de la maturité open data : [ici](https://opendatacanvas.org/evaluer-maturite-open-data)
+
+Lien vers le catalogue de données classé selon le niveau de maturité nécessaire pour les ouvrir : [ici](https://airtable.com/shrZq3fXafXmSKvrG/tblB9g6JdhQXnnowN)
+
+## Identifier les données disponibles au sein de la collectivité 
 
 
 
