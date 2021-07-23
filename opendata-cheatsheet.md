@@ -79,7 +79,7 @@ pour les illustrer :
 
 {% file src=".gitbook/assets/illustration\_projet\_open\_data.pdf" caption="Illustration d\'un projet open data" %}
 
-## Evaluer le niveau de maturité open data de la collectivité
+## Evaluer le niveau de maturité open data de la collectivité pour identifier les jeux de données qu'elle peut ouvrir
 
 Avant de se lancer, il s'agit de savoir où en est la collectivité, autrement dit de connaitre son niveau de maturité. 
 
@@ -126,7 +126,7 @@ Lien vers le processus d'évaluation de la maturité open data : [ici](https://o
 
 Lien vers le catalogue de données classé selon le niveau de maturité nécessaire pour les ouvrir : [ici](https://airtable.com/shrZq3fXafXmSKvrG/tblB9g6JdhQXnnowN)
 
-## Identifier les données disponibles au sein de la collectivité 
+## Identifier les données disponibles au sein de la collectivité pour établir un recensement exhaustif de son patrimoine informationnel
 
 
 
