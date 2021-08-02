@@ -126,7 +126,45 @@ Lien vers le processus d'évaluation de la maturité open data : [ici](https://o
 
 Lien vers le catalogue de données classé selon le niveau de maturité nécessaire pour les ouvrir : [ici](https://airtable.com/shrZq3fXafXmSKvrG/tblB9g6JdhQXnnowN)
 
-## Identifier les données disponibles au sein de la collectivité pour établir un recensement exhaustif de son patrimoine informationnel
+## Localiser les données disponibles au sein de la collectivité pour réaliser un organigramme de la donnée
+
+Le niveau de maturité ayant été défini, la collectivité dispose désormais du catalogue des données qu'elle peut ouvrir. Il est alors question de localiser ces données au sein de la collectivité. 
+
+Pour cela, le référent open data peut, pour chaque jeu de donnée du catalogue, contacter un agent susceptible de détenir le jeu de donnée en question et lui demander de lui indiquer : 
+
+* s'il détient le jeu de donnée en question \(et si oui, de lui transmettre\)
+* le contact d'un autre service/agent/prestataire impliqué dans sa production 
+
+En réitérant la même procédure avec le nouveau contact, le référent peut alors identifier toutes les parties impliquées, retracer la chaine de production et [établir un organigramme de la donnée.](https://opendatacanvas.org/completer-organigramme-donnees) Il peut également inviter toutes les personnes identifiées pour des sessions de travail courtes qui permettront d'accélérer la suite du projet.
+
+```text
+Madame, monsieur, 
+
+La collectivité souhaite mettre à disposition les données 
+relatives à _____. En tant que référent open data, j'ai pour 
+mission de localiser et de récupérer ces données. 
+
+On m'a indiqué que vous pourriez détenir ces données. 
+Est-ce bien le cas ? Si oui, pourriez-vous me les transmettre 
+sous un format excel par exemple et m'indiquer 
+si vous travaillez avec un autre service, agent, ou prestataire
+pour obtenir ces données ? 
+
+Dans le cas contraire, pourriez-vous me donner le contact 
+d'un agent, service ou prestataire qui pourrait détenir plus 
+d'informations sur ces données ?
+
+Grâce à votre réponse, je pourrai actualiser l'organigramme
+de la donnée (voir lien) de la collectivité qui permettra 
+à tous les agents de savoir quel service produit quel fichier.
+ 
+```
+
+#### Liens ou pièces-jointes à joindre/attacher
+
+Lien vers l'outil de construction de l'organigramme de la donnée, sous forme de carte mentale : [ici](https://www.mindmup.com/). 
+
+## Documenter et mettre en qualité les données récupérées pour les rendre utilisables par tous
 
 
 
