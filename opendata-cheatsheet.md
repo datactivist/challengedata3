@@ -14,6 +14,8 @@ description: >-
 **Qu'est-ce que l'Open Data Cheatsheet ?**
 
 Dans ce cadre, l'OpenData Cheatsheet se définit comme un **"**_**document présentant de la façon la plus concise possible, les grandes lignes d'un projet open data, avec des raccourcis comme des templates de mails ou des conducteurs de réunion pour animer une démarche d'ouverture des données"**_
+
+Elle a été produite suite au [Challenge Data \#3](https://medium.com/datactivist/5-jours-pour-initier-la-d%C3%A9marche-open-data-de-19-collectivit%C3%A9s-1b635a0b1645), et grâce à l'analyse des [carnets de bord ](https://datactivist.coop/challengedata3/)des étudiants de SciencesPo Saint-Germain-en-Laye, faisant le récit de leur expérience d'ouverture des données de 19 collectivités, et plus particulièrement des difficultés rencontrées.
 {% endhint %}
 
 ## Lancer un projet open data en expliquant ce qu'il est et son utilité
@@ -70,7 +72,7 @@ pour les illustrer :
  possible pour le début de sa mission. 
  
  En attendant, nous nous tenons à votre disposition si vous avez 
- des questions sur ce projet open data. 
+ des questions sur ce projet. 
 ```
 
 #### Liens ou pièces-jointes à joindre/attacher
@@ -136,7 +138,7 @@ Lien vers le catalogue de données classé selon le niveau de maturité nécessa
 
 Le niveau de maturité ayant été défini, la collectivité dispose désormais du catalogue des données qu'elle peut ouvrir. Il est alors question de localiser ces données au sein de la collectivité. 
 
-Pour cela, le référent open data peut, pour chaque jeu de donnée du catalogue, contacter un agent susceptible de détenir le jeu de donnée en question et lui demander de lui indiquer : 
+Pour cela, le référent open data peut, pour chaque jeu de donnée du catalogue, contacter un agent susceptible de détenir le jeu de donnée en question et lui demander _****_: 
 
 * s'il détient le jeu de donnée en question \(et si oui, de lui transmettre\)
 * le contact d'un autre service/agent/prestataire impliqué dans sa production 
@@ -178,7 +180,7 @@ Lien vers l'outil de construction de l'organigramme de la donnée, sous forme de
 
 Avec l'organigramme, le référent open data est en capacité de réunir autour de la table toutes les parties impliquées dans la production des données du catalogue. De ce fait, il peut alors organiser des \(courtes\) sessions de travail visant à documenter et mettre en qualité les données récupérées. 
 
-Le but de ces sessions de travail est de suivre [le processus de mise en qualité des données de l'Open Data Canvas](https://opendatacanvas.org/jour-3-qualification), à partir des fichiers excel récupérées dans l'étape précédente.
+Le but de ces sessions de travail est de suivre [le processus de mise en qualité des données de l'Open Data Canvas](https://opendatacanvas.org/jour-3-qualification), à partir des fichiers excel récupérés dans l'étape précédente.
 
 #### Template de mail 
 
@@ -202,8 +204,8 @@ ci-dessous) qui distingue 4 étapes :
 
 - Introduction et nettoyage des données (le JJ/MM/AAAA, 45 minutes) :
 cette session visera à présenter un outil de manipulation des données
-ainsi qu'à créer des jeux de données "propres", c'est à dire sans valeur
-inutile ou illisible
+ainsi qu'à créer des jeux de données "propres", c'est à dire sans valeurs
+inutiles ou illisibles
  
 - Compilation des données (le JJ/MM/AAAA, 45 minutes) : cette session 
 permettra de compléter les données nettoyées avec d'autres sources de 
@@ -211,8 +213,9 @@ données fiables de manière à ce qu'elles soient le plus exhaustive possible.
 
  - Standardisation des données (le JJ/MM/AAAA, 45 minutes) : il sera
  ici question de mettre les données compilées en conformité avec le
- Socle Commun des Données Locales, de manière à ce qu'elles puissent être
- certifiées ensuite par la plateforme nationale data.gouv.fr
+ Socle Commun des Données Locales (voir lien ci-dessous), de manière à 
+ ce qu'elles puissent être certifiées ensuite par la plateforme 
+ nationale data.gouv.fr
  
  - Validation des données (le JJ/MM/AAAA, 45 minutes) : cette dernière
  session de travail permettra de valider la conformité des données avec
@@ -230,6 +233,8 @@ données fiables de manière à ce qu'elles soient le plus exhaustive possible.
 
 Lien vers le processus de mise en qualité : [ici](https://opendatacanvas.org/jour-3-qualification). 
 
+Lien vers le Socle Commun des Données Locales : [ici](https://scdl.opendatafrance.net/docs/)
+
 ## Publier les données sur une plateforme open data et rendre visible leurs producteurs pour préparer les réutilisations
 
 Les données étant prêtes, il est temps de les publier sur une plateforme open data et de communiquer autour du travail effectué pour les rendre disponibles
@@ -245,13 +250,14 @@ N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votr
 ```text
 Madame, monsieur, 
 
-Les données sont prêtes et nous allons les publier sur la plateforme
-nationale data.gouv.fr. Nous avons prévu de communiquer (voir
-le plan ci-dessous) autour des données nouvellement disponibles et mettre en avant le travail que
-vous avez effectué au cours des derniers mois. 
+Les données sont prêtes et nous allons les publier 
+sur la plateforme nationale data.gouv.fr. Nous avons prévu de 
+communiquer (voir le plan ci-dessous) autour des données nouvellement 
+disponibles et mettre en avant le travail que vous avez effectué au 
+cours des derniers mois. 
 
 Pour cela, et si vous en êtes d'accord, nous mentionnerons dans 
-les contenus de communication que vous constituez les personnes clés 
+les contenus de communication que vous êtes les personnes clés 
 à contacter sur les jeux de données dont vous vous êtes occupés. Nous 
 rappellerons également qu'en tant qu'agent de la collectivité, 
 vous assurez en permanence la qualité de ces données, ce qui nécessite
@@ -285,7 +291,8 @@ N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votr
 Madame, monsieur, 
 
 Suite au projet d'ouverture des données, nous avons publié 
-recemment sur le portail national de nouvelles données.
+recemment de nouvelles données sur le portail national (lien vers
+les données publiées).
 
 Maintenant que les données sont publiées, nous pouvons en récupérer
 les fruits et ce, en les réutilisant. Pour cela, la collectivité 
@@ -298,7 +305,7 @@ de voir avec les membres de la DSI, en quoi les données peuvent
 répondre à vos besoins. Ces besoins métiers peuvent être de toute sorte
 : mieux connaitre les béneficiaires d'un dispositif que vous opérez, 
 disposer d'une cartographie précise des entreprises présentes sur le
-territoire, obtenir une informations précise, etc. 
+territoire, obtenir une information précise, etc. 
 
 Par ce message, nous vous convions au lancement de ce club de réutilisation,
 ouvert à tous, qui aura lieu le JJ/MM/AAAA à __h__. 
