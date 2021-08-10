@@ -1,0 +1,214 @@
+---
+title: "Documentation des problèmes récurrents"
+subtitle: "PAYS DE MORMAL - Marchés publics"
+author: "Diane THIERRY"
+date: "22/03/2021"
+output: html_document
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = TRUE, message = FALSE, warning = FALSE,
+collapse = TRUE,  fig.show = "hold",
+out.width = "100%")
+```
+
+<br>
+
+```{r echo=FALSE, out.width='25%', fig.align='left'}
+knitr::include_graphics(here::here("./Post_challenge_stage_Diane/images/datactivist2.png"))
+```
+
+<br> 
+
+Cette courte documentation a pour objectif de lister les problèmes rencontrés avec le jeu des marchés publics du Pays de Mormal. Pour l'*article medium* une visualisation géographique de ce jeu était nécessaire, mais seules les variables du nom du titulaire et du code postal permettaient de trouver des informations géographiques sur les marchés, or :
+
+
++ **LIEU_EXEC_CODE** : correspond parfois au code postal, parfois au code CEDEX. Déjà dans la standard disponible [ici](https://scdl.opendatafrance.net/docs/schemas/marches-publics.html), plusieurs possibilités étaient énumérées pour une seule colonne. 
+```{r eval=FALSE, include=FALSE}
+#Le problème de cette irrégularité est qu'elle rend le match avec les bases officielles impossible
+# https://www.sirene.fr/static-resources/doc/Description%20liste%20sirene-fr.pdf?version=1.30.1
+```
+
+
++ **TITULAIRE_DENOMINATION** : le nom du titulaire du marché est souvent incomplet.
+
++ Certains établissements ont **déménagé** ou **fermé**.
+
+La somme des ces 3 problèmes fait qu’il est très difficile de trouver des informations supplémentaires (SIRET, géolocalisation) en faisant appel à des API, des bases officielles ouvertes puisque les informations varient d’une observation à une autre pour une même colonne. Il n'était donc pas possible de faire une utilisation des données pour des visualisations ou des analyses, étant donné la mauvaise qualité des donnéeS. Après avoir cherché à la main les numéros de SIRET et la géolocalisation de chacune des entreprises, les problèmes suivants sont remontés :
+
+<br>
+
+```{r include=FALSE}
+library(readxl)
+pb_2015 <- read_excel("./data/Marches_publics_2015.xlsx", sheet = "Problemes")
+pb_2016 <- read_excel("./data/Marches_publics_2016.xlsx", sheet = "Problemes")
+pb_2017 <- read_excel("./data/Marches_publics_2017.xlsx", sheet = "Problemes")
+
+# Comptes
+    # pb de code postal
+library(tidyverse)
+cp15 <- pb_2015 %>% count(is.na(Probleme_CODE_POSTAL))
+cp16 <- pb_2016 %>% count(is.na(Probleme_CODE_POSTAL))
+cp17 <- pb_2017 %>% count(is.na(Probleme_CODE_POSTAL))
+    # pb nom etablissement
+ne15 <- pb_2015 %>% count(is.na(Probleme_ACHETEUR_NOM))
+ne16 <- pb_2016 %>% count(is.na(Probleme_ACHETEUR_NOM))
+ne17 <- pb_2017 %>% count(is.na(Probleme_ACHETEUR_NOM))
+    # pb radiation
+r15 <- pb_2015 %>% count(is.na(Probleme_RADIATION_ou_DEMENAGEMENT))
+r16 <- pb_2016 %>% count(is.na(Probleme_RADIATION_ou_DEMENAGEMENT))
+r17 <- pb_2017 %>% count(is.na(Probleme_RADIATION_ou_DEMENAGEMENT))
+    # nombre d'observations
+dim(pb_2015)
+dim(pb_2016)
+dim(pb_2017)
+
+
+# Nb d'observation avec au moins 1 erreur
+    # mix des 3 colonnes d'erreur
+        # 2015
+pb_2015$Erreur <- ifelse(is.na(pb_2015$Probleme_CODE_POSTAL), pb_2015$Probleme_ACHETEUR_NOM, pb_2015$Probleme_CODE_POSTAL)
+pb_2015$Erreur <- ifelse(is.na(pb_2015$Erreur), pb_2015$Probleme_RADIATION_ou_DEMENAGEMENT, pb_2015$Erreur)
+        # 2016
+pb_2016$Erreur <- ifelse(is.na(pb_2016$Probleme_CODE_POSTAL), pb_2016$Probleme_ACHETEUR_NOM, pb_2016$Probleme_CODE_POSTAL)
+pb_2016$Erreur <- ifelse(is.na(pb_2016$Erreur), pb_2016$Probleme_RADIATION_ou_DEMENAGEMENT, pb_2016$Erreur)
+        # 2017
+pb_2017$Erreur <- ifelse(is.na(pb_2017$Probleme_CODE_POSTAL), pb_2017$Probleme_ACHETEUR_NOM, pb_2017$Probleme_CODE_POSTAL)
+pb_2017$Erreur <- ifelse(is.na(pb_2017$Erreur), pb_2017$Probleme_RADIATION_ou_DEMENAGEMENT, pb_2017$Erreur)
+
+    # nombre d'observations avec au moins 1 erreur
+od15 <- pb_2015 %>% count(is.na(Erreur))  # FALSE=problème sur les renseignements
+od16 <- pb_2016 %>% count(is.na(Erreur))
+od17 <- pb_2017 %>% count(is.na(Erreur))
+
+    # compte erreurs en distinguant les doublons pour "vrais" chiffres
+        # 2015
+err15 <- pb_2015 %>% group_by(ACHETEURS_NOM) %>% count(is.na(Erreur))
+err15 <- as.data.frame(table(err15[,2]))  # FALSE=problème sur les renseignements
+        # 2016
+err16 <- pb_2016 %>% group_by(ACHETEURS_NOM) %>% count(is.na(Erreur))
+err16 <- as.data.frame(table(err16[,2]))
+        # 2017
+err17 <- pb_2017 %>% group_by(ACHETEURS_NOM) %>% count(is.na(Erreur))
+err17 <- as.data.frame(table(err17[,2]))
+
+# Même compte mais les 3 années confondues
+    # on rassemble les df
+Total <- rbind(pb_2017, pb_2016, pb_2015)
+    # on compte
+errTot <- Total %>% group_by(ACHETEURS_NOM) %>% count(is.na(Erreur))
+errTot <- as.data.frame(table(errTot[,2]))
+```
+
+```{r fig.show="hold", include=FALSE, out.width="100%"}
+tab <- data.frame(c1 = c(7,2,3,33, 10), c2 = c(7,1,9,58, 15), c3 = c(5,1,2,38, 6))
+row.names(tab) <- c("Problème de code postal","Problème de nom d'établissement","Problème de radiation","Nombre d'observations", "Nombre d'observations avec au moins un problème")
+colnames(tab) <- c("2015","2016","2017")
+```
+
+```{r echo=FALSE}
+library(kableExtra)
+tab %>%  kbl(caption = "Nombre de problèmes recontrés par jeu", align='c') %>%
+  kable_classic(full_width = F, html_font = "Cambria")
+```
+
+
+<br>
+
+Pour les données de 2015 on voit que sur 33 observations, il y avait 7 problèmes de code postal c'est-à-dire que le numéro entré dans la colonne **LIEU_EXEC_CODE** correspondait au code CEDEX et non postal. Beaucoup de noms d'entreprises rentrés dans la base étaient incomplets, sur l'année 2015 2 étaient difficiles à retrouver. Enfin, 3 entreprises ont été radiées depuis leur contrat avec le pays de Mormal soit près de 10% de la base. 
+
+<br>
+
+```{r fig.show="hold", include=FALSE, out.width="100%"}
+tab <- data.frame(c1 = c(33,22,31,10), c2 = c(58,34,50,14), c3 = c(38,19,30,5), c4 = c(129,75,90,26))
+row.names(tab) <- c("Nombre d'observations", "Nombre de marchés", "Nombre d'entreprises distinctes", "Nombre d'entreprises distinctes avec au moins un problème")
+colnames(tab) <- c("2015","2016","2017","Total")
+```
+
+```{r echo=FALSE}
+library(kableExtra)
+tab %>%  kbl(caption = "Informations générales sur les jeux", align='c') %>%
+  kable_classic(full_width = F, html_font = "Cambria")
+```
+
+
+<br>
+
+Alors que le nombre d'observations avec problème cumulées sur les 3 années serait de 29 (sur 129 au total), en réalité ce sont 26 établissements sur 90 qui ont un problème de renseignement, soit 29%. 
+
+<br>
+
+Ainsi, il y a un travail important à fournir pour que les bases publiées sur data.gouv soient exploitables et réutilisables. *Une autre limite de ce jeu est visible dans la colonne de la date de publication du marché ("PUBLICATION_DATE" normalement) qui en plus de ne pas avoir le même nom dans les 3 bases, est au format "2021-04-15" en 2015 et 2017.* Depuis 2018, un standard SCDL a été mis en place pour palier ce type de problèmes cependant, des améliorations pourraient être fournies.
+
+* Faut-il proposer une évolution du format SCDL pour désambigüiser la colonne 'LIEU_EXEC_CODE' qui peut correspondre à un code postal ou INSEE et qui dans les faits correspond parfois au code CEDEX ?
+
+* Faut-il documenter ces points de vigilances pour les joindre au standard ?
+
+* Ou bien faut-il garder cette documentation en interne, la compléter éventuellement avec les problèmes récurrents sur d'autres jeux et se servir des informations pour préparer le Challenge Data#4 ?
+
+<br>
+
+* Aux liens suivants les observations exactes concernées par les problèmes pour chaque année :
+    + [Marchés publics - Pays de Mormal, 2015](https://docs.google.com/spreadsheets/d/1TMmZxP-6yX2oDjUE4wlPYEyjs-4yzrzfqufjJqmHnrU/edit?usp=sharing)
+    + [Marchés publics - Pays de Mormal, 2016](https://docs.google.com/spreadsheets/d/14vm1I06yZQMqGpwrwRBKSw3uFe3m_sISH8nbx0Jvw5Y/edit?usp=sharing)
+    + [Marchés publics - Pays de Mormal, 2017](https://docs.google.com/spreadsheets/d/1g_gB3Nq9BDTSlO0GRu96RuBNUuhdMVC7-IrFGS6-7kc/edit?usp=sharing)
+
+
+<br>
+
+Ci-dessous les **jeux complétés** à la main pour les 3 années, avec un identifiant de marché, le numéro de SIRET de l'entreprise ainsi que sa géolocalisation. 
+
+<br>
+
+```{r echo=FALSE}
+library(readr)
+df_2015 <- read_csv("./data/Marches_publics_2016 - Ajout_SIRET_geoloc.csv")
+df_2016 <- read_csv("./data/Marches_publics_2016 - Ajout_SIRET_geoloc.csv")
+df_2017 <- read_csv("./data/Marches_publics_2016 - Ajout_SIRET_geoloc.csv")
+
+# ACHETEURS_ID au format character
+#df_2015$ACHETEURS_ID <- as.character(df_2015$ACHETEURS_ID)
+#df_2016$ACHETEURS_ID <- as.character(df_2016$ACHETEURS_ID)
+#df_2017$ACHETEURS_ID <- as.character(df_2017$ACHETEURS_ID)
+```
+
+```{r echo=FALSE}
+library(DT)
+df_2015 <- data.frame(df_2015)
+DT::datatable(df_2015, caption="Jeu completé pour 2015", class = 'cell-border stripe', options=list(searching = FALSE, scrollX = TRUE,lengthMenu = c(5, 10, 20, 50),pageLength = 5, style = "font-size: 25%; width: 25%"))
+```
+
+<br>
+
+```{r echo=FALSE}
+library(DT)
+df_2016 <- data.frame(df_2016)
+DT::datatable(df_2016, caption="Jeu completé pour 2016", class = 'cell-border stripe', options=list(searching = FALSE, scrollX = TRUE,lengthMenu = c(5, 10, 20, 50),pageLength = 5, style = "font-size: 25%; width: 25%"))
+```
+
+<br>
+
+```{r echo=FALSE}
+library(DT)
+df_2017 <- data.frame(df_2017)
+DT::datatable(df_2017, caption="Jeu completé pour 2017", class = 'cell-border stripe', options=list(searching = FALSE, scrollX = TRUE,lengthMenu = c(5, 10, 20, 50),pageLength = 5, style = "font-size: 25%; width: 25%"))
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
