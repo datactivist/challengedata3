@@ -1,7 +1,7 @@
 ---
 description: >-
   Trouvez dans cette cheatsheet un guide de prise en main rapide d'un projet
-  open data  à destination des agents des collectivités territoriales.
+  open data à destination des agents des collectivités territoriales.
 ---
 
 # OpenData Cheatsheet
@@ -15,9 +15,9 @@ description: >-
 
 **Qu'est-ce que l'Open Data Cheatsheet ?**
 
-Dans ce cadre, l'OpenData Cheatsheet se définit comme un **"**_**document présentant de la façon la plus concise possible, les grandes lignes d'un projet open data, avec des raccourcis comme des templates de mails ou des conducteurs de réunion pour animer une démarche d'ouverture des données".**_
+Dans ce cadre, l'OpenData Cheatsheet se définit comme un **"**_**document présentant de la façon la plus concise possible, les grandes lignes d'un projet open data, avec des raccourcis comme des templates de mails ou des conducteurs de réunions pour animer une démarche d'ouverture des données".**_
 
-Elle a été produite suite au [Challenge Data \#3](https://medium.com/datactivist/5-jours-pour-initier-la-d%C3%A9marche-open-data-de-19-collectivit%C3%A9s-1b635a0b1645), et grâce à l'analyse des [carnets de bord ](https://datactivist.coop/challengedata3/)des étudiants de SciencesPo Saint-Germain-en-Laye, faisant le récit de leur expérience d'ouverture des données de 19 collectivités, et plus particulièrement des difficultés rencontrées.
+Elle a été produite suite au [Challenge Data \#3](https://medium.com/datactivist/5-jours-pour-initier-la-d%C3%A9marche-open-data-de-19-collectivit%C3%A9s-1b635a0b1645), et grâce à l'analyse des [carnets de bord ](https://datactivist.coop/challengedata3/)des étudiants de SciencesPo Saint-Germain-en-Laye. Faisant le récit d'un travail intensif d'ouverture des données, des difficultés qu'ils ont rencontrées, et des solutions mises en place pour les résoudre, ces carnets ont en effet permis d'identifier des pratiques simples et rapides à mettre en place pour ouvrir les données des collectivités. 
 {% endhint %}
 
 ## Lancer un projet open data en expliquant ce qu'il est et son utilité
@@ -38,7 +38,7 @@ des données.
 
 Par là, la collectivité et ses élus souhaitent, d'une part, simplifier 
 l’accès à l'informations pour tous les administrés et d'autre part
-profiter de la richesses des données produites au quotidien
+profiter de la richesse des données produites au quotidien
 pour mieux connaitre (et faire connaitre) notre territoire. 
 Le cas de la métropole de Rennes nous éclaire ici à bien des égards 
 (voir PJ ou lien ci-dessous). 
@@ -120,7 +120,7 @@ Ce processus se déroule en 3 temps :
    à un pallier de maturité open data (il existe 5 palliers)
    
    - Nous aurons ensuite accès à une base où les évaluations
-   de 20 autres collectivités sont disponbiles, ce qui
+   de 20 autres collectivités sont disponibles, ce qui
    nous permettra de nous situer relativement à d'autres entités
    
 A l'issue de ce temps de travail, je vous présenterai un
@@ -134,7 +134,7 @@ notre niveau de maturité (voir lien ci-dessous).
 
 Lien vers le processus d'évaluation de la maturité open data : [ici](https://opendatacanvas.org/evaluer-maturite-open-data)
 
-Lien vers le catalogue de données classé selon le niveau de maturité nécessaire pour les ouvrir : [ici](https://airtable.com/shrZq3fXafXmSKvrG/tblB9g6JdhQXnnowN)
+Lien vers le catalogue de données classées selon le niveau de maturité nécessaire pour les ouvrir : [ici](https://airtable.com/shrZq3fXafXmSKvrG/tblB9g6JdhQXnnowN)
 
 ## Localiser les données disponibles au sein de la collectivité pour réaliser un organigramme de la donnée
 
@@ -169,7 +169,7 @@ d'un agent, service ou prestataire qui pourrait détenir plus
 d'informations sur ces données ?
 
 Grâce à votre réponse, je pourrai actualiser l'organigramme
-de la donnée (voir lien) de la collectivité qui permettra 
+de la donnée (voir lien) de la collectivité. Il permettra 
 à tous les agents de savoir quel service produit quel fichier.
  
 ```
@@ -194,12 +194,13 @@ Madame, monsieur,
 Dans le cadre du projet d'ouverture des données de la collectivité, 
 nous avons pu localiser ensemble __ jeux de données à ouvrir prochainement.
 Grâce à vous, nous avons à disposition autant de fichiers excel 
-qu'il s'agit désormais de mettre en qualité avant de les ouvrir. 
+que de jeux de données qu'il s'agit désormais de mettre en qualité 
+avant de les ouvrir. 
 
 Pour cela, je vous convie à un cycle de 4 sessions de travail 
 collective qui nous permettront de réaliser cette mise en qualité et
 de la documenter, de manière à ce que les données ouvertes soient
-utilisable par tous. 
+utilisables par tous. 
 
 Ce cycle suivra le processus proposé par l'Open Data Canvas (lien 
 ci-dessous) qui distingue 4 étapes : 
@@ -211,7 +212,7 @@ inutiles ou illisibles.
  
 - Compilation des données (le JJ/MM/AAAA, 45 minutes) : cette session 
 permettra de compléter les données nettoyées avec d'autres sources de 
-données fiables de manière à ce qu'elles soient le plus exhaustive possible.
+données fiables de manière à ce qu'elles soient le plus exhaustives possible.
 
  - Standardisation des données (le JJ/MM/AAAA, 45 minutes) : il sera
  ici question de mettre les données compilées en conformité avec le
@@ -239,11 +240,11 @@ Lien vers le Socle Commun des Données Locales : [ici](https://scdl.opendatafran
 
 ## Publier les données sur une plateforme open data et rendre visible leurs producteurs pour préparer les réutilisations
 
-Les données étant prêtes, il est temps de les publier sur une plateforme open data et de communiquer autour du travail effectué pour les rendre disponibles
+Les données étant prêtes, il est temps de les publier sur une plateforme open data et de communiquer autour du travail effectué pour les rendre disponibles.
 
-Si cette publication et communication est à l'initiative du référent, il est idéal d'impliquer toutes les personnes ayant participé au projet, de manière à ce qu'elle puisse 
+Si cette publication et communication est à l'initiative du référent, il est idéal d'impliquer toutes les personnes ayant participé au projet.
 
-Pour cela, le référent peut avertir ces personnes qu'elles seront mentionnées dans les communications comme ressource à contacter. Aussi peut-il les préparer aux sollicitations futures émanant de citoyens ou d'organisations souhaitant réutiliser les données. 
+Pour cela, le référent peut avertir ces personnes qu'elles seront mentionnées dans les communications comme "ressources à contacter". Aussi peut-il les préparer aux sollicitations futures émanant de citoyens ou d'organisations souhaitant réutiliser les données. 
 
 #### Template de mail 
 
@@ -267,7 +268,7 @@ un travail quotidien et complexe.
 De par ces communications, nous nous attendons à recevoir des questions
 de la part d'organisations ou de citoyens cherchant à réutiliser les
 données. Je me chargerai de centraliser les demandes et, reviendrez vers
-vous pour que vous puissiez me guider dans la réponse à apporter.
+vous pour que vous puissiez me guider dans les réponses à apporter.
 
 N'hésitez pas à m'indiquer si votre emploi du temps ne vous permet pas
 de répondre à ces sollicitations et, le cas échéant, de me donner le contact
@@ -280,9 +281,9 @@ Lien vers le template de plan de communication à transmettre aux agents : [ici]
 
 ## Créer un club de réutilisation des données intégrant des profils métiers et techniques pour valoriser au mieux les données ouvertes
 
-Si les données ouvertes sont disponibles pour tous, les principales opportunités de réutilisations vont se présenter au sein de la collectivité. 
+Si les données ouvertes sont disponibles pour tous, les principales opportunités de réutilisations vont néanmoins se présenter au sein de la collectivité. 
 
-Pour les réaliser, le référent peut lancer un "club de réutilisation"  en interne qui doit mêler des profils métiers, capable d'exprimer un besoin \(_ex : je veux savoir où se trouve les bénéficiaire des aides économiques que j'opère_\), à un profil technique, capable de se saisir des données pour répondre au besoin \(_ex : je crée une cartographie à partir des données ouvertes relatives au dispositif économique_\). 
+Pour les réaliser, le référent peut lancer un "club de réutilisation"  en interne qui doit mêler des profils métiers, capables d'exprimer un besoin \(_ex : je veux savoir où se trouve les bénéficiaires des aides économiques que j'opère_\), à des profils techniques, capables de se saisir des données pour répondre au besoin \(_ex : je crée une cartographie à partir des données ouvertes relatives au dispositif économique_\). 
 
 #### Template de mail 
 
@@ -292,7 +293,7 @@ N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votr
 Madame, monsieur, 
 
 Suite au projet d'ouverture des données, nous avons publié 
-recemment de nouvelles données sur le portail national (lien vers 
+récemment de nouvelles données sur le portail national (lien vers 
 les données publiées).
 
 Maintenant que les données sont publiées, nous pouvons en récupérer
@@ -303,7 +304,7 @@ de différents services.
 
 L'objectif de ce club sera d'identifier vos besoins métiers et 
 de voir avec les membres de la DSI, en quoi les données peuvent 
-répondre à vos besoins. Ces besoins métiers peuvent être de toute sorte
+répondre à vos besoins. Ces besoins métiers peuvent être de toutes sortes
 : mieux connaitre les béneficiaires d'un dispositif que vous opérez, 
 disposer d'une cartographie précise des entreprises présentes sur le
 territoire, obtenir une information précise, etc. 
