@@ -33,48 +33,18 @@ N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votr
 ```
 Madame, monsieur, 
 
-La collectivité a décidé de se lancer dans une démarche d'ouverture 
-des données.
+La collectivité a décidé de se lancer dans une démarche d'ouverture des données.
+Par là, la collectivité et ses élus souhaitent, d'une part, simplifier l’accès à l'informations pour tous les administrés et d'autre part profiter de la richesse des données produites au quotidien pour mieux connaitre (et faire connaitre) notre territoire.Le cas de la métropole de Rennes nous éclaire ici à bien des égards (voir PJ ou lien ci-dessous). 
 
-Par là, la collectivité et ses élus souhaitent, d'une part, simplifier 
-l’accès à l'informations pour tous les administrés et d'autre part
-profiter de la richesse des données produites au quotidien
-pour mieux connaitre (et faire connaitre) notre territoire. 
-Le cas de la métropole de Rennes nous éclaire ici à bien des égards 
-(voir PJ ou lien ci-dessous). 
-
-Pour éclaircir ce qu'est réellement le projet open data que nous lançons 
-et ce qu'il va pouvoir apporter à la collectivité, nous souhaitions 
-partager quelques définitions et exemples concrets (voir PJ ou lien ci-dessous) 
-pour les illustrer : 
-
-  - Qu'est-ce qu'une donnée ? Il s'agit de l'enregistrement d'un élément 
-  réel (une température, un effectif) que l'on représenter 
+Pour éclaircir ce qu'est réellement le projet open data que nous lançons et ce qu'il va pouvoir apporter à la collectivité, nous souhaitions partager quelques définitions et exemples concrets (voir PJ ou lien ci-dessous) pour les illustrer : 
+  - Qu'est-ce qu'une donnée ? Il s'agit de l'enregistrement d'un élément réel (une température, un effectif) que l'on représenter 
   de manière numérique.  
-  
-  - Qu'est une donnée ouverte (open data) ? Il s'agit des données 
-  générées par tout acteur public, privé ou civil et qui respectent 
-  les huits principes fondateurs de l’open data, aussi connu 
-  sous le nom des huit principes de Sébastopol (en PJ).
-  
-  - Qu'est-ce qu'un projet open data ? Il s'agit d'un 
-  projet collaboratif impliquant l'ensemble des services d'une collectivité 
-  et permettant d'identifier, de mettre en qualité, de publier et de valoriser 
-  les données produites par les agents. Vous trouverez en PJ une 
+  - Qu'est une donnée ouverte (open data) ? Il s'agit des données générées par tout acteur public, privé ou civil et qui respectent les huits principes fondateurs de l’open data, aussi connu sous le nom des huit principes de Sébastopol (en PJ).
+  - Qu'est-ce qu'un projet open data ? Il s'agit d'un projet collaboratif impliquant l'ensemble des services d'une collectivité et permettant d'identifier, de mettre en qualité, de publier et de valoriser les données produites par les agents. Vous trouverez en PJ une 
   illustration d'un tel projet.
   
- La première étape de ce projet open data sera d'évaluer le niveau 
- de maturité de notre collectivité vis-à-vis de ces enjeux. 
- Cette évaluation sera menée le 'JJ/MM/AAAA' par 'Nom du référent open data'. 
- Le résultat de cette évaluation vous sera communiquée. 
- 
- Par la suite, 'Nom du référent' contactera différents services 
- pour organiser une demie-journée de travail visant à identifier les 
- différents jeux de données présents. Reservez-lui le meilleur accueil 
- possible pour le début de sa mission. 
- 
- En attendant, nous nous tenons à votre disposition si vous avez 
- des questions sur ce projet. 
+La première étape de ce projet open data sera d'évaluer le niveau de maturité de notre collectivité vis-à-vis de ces enjeux. Cette évaluation sera menée le 'JJ/MM/AAAA' par 'Nom du référent open data'. Le résultat de cette évaluation vous sera communiquée. Par la suite, 'Nom du référent' contactera différents services pour organiser une demie-journée de travail visant à identifier les différents jeux de données présents. Reservez-lui le meilleur accueil possible pour le début de sa mission. 
+En attendant, nous nous tenons à votre disposition si vous avez des questions sur ce projet. 
 ```
 
 #### Liens ou pièces-jointes à joindre/attacher
@@ -87,9 +57,7 @@ pour les illustrer :
 
 ## Evaluer le niveau de maturité open data de la collectivité pour identifier les jeux de données qu'elle peut ouvrir
 
-Avant de se lancer, il s'agit de savoir où en est la collectivité, autrement dit de connaitre son niveau de maturité. 
-
-Pour cela, le référent open data de la collectivité peut organiser un temps de travail \(45 minutes\) avec 1 agent rattaché à la DSI et/ou 1 agent rattaché à la Direction Générale des Services. 
+Avant de se lancer, il s'agit de savoir où en est la collectivité, autrement dit de connaitre son niveau de maturité. Pour cela, le référent open data de la collectivité peut organiser un temps de travail \(45 minutes\) avec 1 agent rattaché à la DSI et/ou 1 agent rattaché à la Direction Générale des Services. 
 
 Le but de ce temps de travail est de réaliser le [processus d'évaluation de la maturité open data d'une collectivité proposé par l'Open Data Canvas](https://opendatacanvas.org/evaluer-maturite-open-data). 
 
@@ -100,34 +68,17 @@ N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votr
 ```text
 Madame, monsieur, 
 
-Dans le cadre du lancement de notre projet d'ouverture
-des données, nous allons évaluer la maturité open data
-de notre collectivité. 
+Dans le cadre du lancement de notre projet d'ouverture des données, nous allons évaluer la maturité open data de notre collectivité. 
 
-Seriez-vous disponible pour un temps de travail de 
-45 minutes qui nous permettra de réaliser un processus
-d'évaluation de la maturité open data des collectivités
-(proposé par l'Open Data Canvas, voir lien ci-dessous) ? .
+Seriez-vous disponible pour un temps de travail de 45 minutes qui nous permettra de réaliser un processus
+d'évaluation de la maturité open data des collectivités (proposé par l'Open Data Canvas, voir lien ci-dessous) ? .
 
 Ce processus se déroule en 3 temps : 
-
-   - Sur la base de nos connaissances,
-   nous allons répondre à un questionnaire d'une 15aine
-   de questions sur l'état d'avancement open data de notre
-   collectivité. 
+   - Sur la base de nos connaissances,nous allons répondre à un questionnaire d'une 15aine de questions sur l'état d'avancement open data de notre collectivité. 
+   - Nos réponses nous donneront un score qui correspond à un pallier de maturité open data (il existe 5 palliers)
+   - Nous aurons ensuite accès à une base où les évaluations de 20 autres collectivités sont disponibles, ce qui nous permettra de nous situer relativement à d'autres entités
    
-   - Nos réponses nous donneront un score qui correspond
-   à un pallier de maturité open data (il existe 5 palliers)
-   
-   - Nous aurons ensuite accès à une base où les évaluations
-   de 20 autres collectivités sont disponibles, ce qui
-   nous permettra de nous situer relativement à d'autres entités
-   
-A l'issue de ce temps de travail, je vous présenterai un
-catalogue de données que nous pourrons ouvrir, étant donné 
-notre niveau de maturité (voir lien ci-dessous).
-    
-
+A l'issue de ce temps de travail, je vous présenterai un catalogue de données que nous pourrons ouvrir, étant donné notre niveau de maturité (voir lien ci-dessous).
 ```
 
 #### Liens ou pièces-jointes à joindre/attacher
@@ -138,9 +89,7 @@ Lien vers le catalogue de données classées selon le niveau de maturité néces
 
 ## Localiser les données disponibles au sein de la collectivité pour réaliser un organigramme de la donnée
 
-Le niveau de maturité ayant été défini, la collectivité dispose désormais du catalogue des données qu'elle peut ouvrir. Il est alors question de localiser ces données au sein de la collectivité. 
-
-Pour cela, le référent open data peut, pour chaque jeu de donnée du catalogue, contacter un agent susceptible de détenir le jeu de donnée en question et lui demander : 
+Le niveau de maturité ayant été défini, la collectivité dispose désormais du catalogue des données qu'elle peut ouvrir. Il est alors question de localiser ces données au sein de la collectivité. Pour cela, le référent open data peut, pour chaque jeu de donnée du catalogue, contacter un agent susceptible de détenir le jeu de donnée en question et lui demander : 
 
 * s'il détient le jeu de donnée en question \(et si oui, de lui transmettre\)
 * le contact d'un autre service/agent/prestataire impliqué dans sa production 
@@ -153,25 +102,11 @@ N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votr
 
 ```text
 Madame, monsieur, 
+La collectivité souhaite mettre à disposition les données relatives à _____. En tant que référent open data, j'ai pour mission de localiser et de récupérer ces données. 
 
-La collectivité souhaite mettre à disposition les données 
-relatives à _____. En tant que référent open data, j'ai pour 
-mission de localiser et de récupérer ces données. 
-
-On m'a indiqué que vous pourriez détenir ces données. 
-Est-ce bien le cas ? Si oui, pourriez-vous me les transmettre 
-sous un format excel par exemple et m'indiquer 
-si vous travaillez avec un autre service, agent, ou prestataire
-pour obtenir ces données ? 
-
-Dans le cas contraire, pourriez-vous me donner le contact 
-d'un agent, service ou prestataire qui pourrait détenir plus 
-d'informations sur ces données ?
-
-Grâce à votre réponse, je pourrai actualiser l'organigramme
-de la donnée (voir lien) de la collectivité. Il permettra 
-à tous les agents de savoir quel service produit quel fichier.
- 
+On m'a indiqué que vous pourriez détenir ces données. Est-ce bien le cas ? Si oui, pourriez-vous me les transmettre sous un format excel par exemple et m'indiquer si vous travaillez avec un autre service, agent, ou prestataire pour obtenir ces données ? 
+Dans le cas contraire, pourriez-vous me donner le contact d'un agent, service ou prestataire qui pourrait détenir plus d'informations sur ces données ?
+Grâce à votre réponse, je pourrai actualiser l'organigramme de la donnée (voir lien) de la collectivité. Il permettra à tous les agents de savoir quel service produit quel fichier.
 ```
 
 #### Liens ou pièces-jointes à joindre/attacher
@@ -191,45 +126,21 @@ N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votr
 ```text
 Madame, monsieur,
 
-Dans le cadre du projet d'ouverture des données de la collectivité, 
-nous avons pu localiser ensemble __ jeux de données à ouvrir prochainement.
-Grâce à vous, nous avons à disposition autant de fichiers excel 
-que de jeux de données qu'il s'agit désormais de mettre en qualité 
-avant de les ouvrir. 
+Dans le cadre du projet d'ouverture des données de la collectivité, nous avons pu localiser ensemble __ jeux de données à ouvrir prochainement. Grâce à vous, nous avons à disposition autant de fichiers excel 
+que de jeux de données qu'il s'agit désormais de mettre en qualité avant de les ouvrir. 
 
-Pour cela, je vous convie à un cycle de 4 sessions de travail 
-collective qui nous permettront de réaliser cette mise en qualité et
-de la documenter, de manière à ce que les données ouvertes soient
-utilisables par tous. 
+Pour cela, je vous convie à un cycle de 4 sessions de travail collective qui nous permettront de réaliser cette mise en qualité et de la documenter, de manière à ce que les données ouvertes soient utilisables par tous. 
 
-Ce cycle suivra le processus proposé par l'Open Data Canvas (lien 
-ci-dessous) qui distingue 4 étapes : 
+Ce cycle suivra le processus proposé par l'Open Data Canvas (lien ci-dessous) qui distingue 4 étapes : 
 
-- Introduction et nettoyage des données (le JJ/MM/AAAA, 45 minutes) :
-cette session visera à présenter un outil de manipulation des données
-ainsi qu'à créer des jeux de données "propres", c'est à dire sans valeurs
-inutiles ou illisibles.
- 
-- Compilation des données (le JJ/MM/AAAA, 45 minutes) : cette session 
-permettra de compléter les données nettoyées avec d'autres sources de 
-données fiables de manière à ce qu'elles soient le plus exhaustives possible.
-
- - Standardisation des données (le JJ/MM/AAAA, 45 minutes) : il sera
- ici question de mettre les données compilées en conformité avec le
- Socle Commun des Données Locales (lien ci-après), de manière à 
- ce qu'elles puissent être certifiées ensuite par la 
- plateforme nationale data.gouv.fr
- 
- - Validation des données (le JJ/MM/AAAA, 45 minutes) : cette dernière
- session de travail permettra de valider la conformité des données avec
+ - Introduction et nettoyage des données (le JJ/MM/AAAA, 45 minutes) : cette session visera à présenter un outil de manipulation des données ainsi qu'à créer des jeux de données "propres", c'est à dire sans valeurs inutiles ou illisibles.
+ - Compilation des données (le JJ/MM/AAAA, 45 minutes) : cette session permettra de compléter les données nettoyées avec d'autres sources de données fiables de manière à ce qu'elles soient le plus exhaustives possible.
+ - Standardisation des données (le JJ/MM/AAAA, 45 minutes) : il sera ici question de mettre les données compilées en conformité avec le Socle Commun des Données Locales (lien ci-après), de manière à ce qu'elles puissent être certifiées ensuite par la plateforme nationale data.gouv.fr
+ - Validation des données (le JJ/MM/AAAA, 45 minutes) : cette dernière session de travail permettra de valider la conformité des données avec
  le standard. 
  
  Nous vous remercions par avance de votre réponse à cette invitation. 
  Votre présence est le meilleur gage de succès de ce projet d'ouverture.
- 
-   
-
-
 ```
 
 #### Liens ou pièces-jointes à joindre/attacher
@@ -253,25 +164,15 @@ N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votr
 ```text
 Madame, monsieur, 
 
-Les données sont prêtes et nous allons les publier sur la plateforme
-nationale data.gouv.fr. Nous avons prévu de communiquer (voir
-le plan ci-dessous) autour des données nouvellement disponibles 
-et mettre en avant le travail que vous avez effectué au cours des derniers mois. 
+Les données sont prêtes et nous allons les publier sur la plateforme nationale data.gouv.fr. Nous avons prévu de communiquer (voir le plan ci-dessous) autour des données nouvellement disponibles et mettre en avant le travail que vous avez effectué au cours des derniers mois. 
 
-Pour cela, et si vous en êtes d'accord, nous mentionnerons dans 
-les contenus de communication que vous êtes les personnes clés 
-à contacter sur les jeux de données dont vous vous êtes occupés. Nous 
-rappellerons également qu'en tant qu'agent de la collectivité, 
-vous assurez en permanence la qualité de ces données, ce qui nécessite
+Pour cela, et si vous en êtes d'accord, nous mentionnerons dans les contenus de communication que vous êtes les personnes clés à contacter sur les jeux de données dont vous vous êtes occupés. Nous rappellerons également qu'en tant qu'agent de la collectivité, vous assurez en permanence la qualité de ces données, ce qui nécessite
 un travail quotidien et complexe. 
 
-De par ces communications, nous nous attendons à recevoir des questions
-de la part d'organisations ou de citoyens cherchant à réutiliser les
-données. Je me chargerai de centraliser les demandes et, reviendrez vers
+De par ces communications, nous nous attendons à recevoir des questions de la part d'organisations ou de citoyens cherchant à réutiliser les données. Je me chargerai de centraliser les demandes et, reviendrez vers
 vous pour que vous puissiez me guider dans les réponses à apporter.
 
-N'hésitez pas à m'indiquer si votre emploi du temps ne vous permet pas
-de répondre à ces sollicitations et, le cas échéant, de me donner le contact
+N'hésitez pas à m'indiquer si votre emploi du temps ne vous permet pas de répondre à ces sollicitations et, le cas échéant, de me donner le contact
 d'un agent qui pourrait s'en occuper. 
 ```
 
@@ -292,29 +193,18 @@ N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votr
 ```text
 Madame, monsieur, 
 
-Suite au projet d'ouverture des données, nous avons publié 
-récemment de nouvelles données sur le portail national (lien vers 
+Suite au projet d'ouverture des données, nous avons publié récemment de nouvelles données sur le portail national (lien vers 
 les données publiées).
 
-Maintenant que les données sont publiées, nous pouvons en récupérer
-les fruits et ce, en les réutilisant. Pour cela, la collectivité 
-propose de créer un "club de réutilisation" qui regroupera tous 
-les ____ à __h__ des membres volontaires de la DSI et des agents 
+Maintenant que les données sont publiées, nous pouvons en récupérer les fruits et ce, en les réutilisant. Pour cela, la collectivité propose de créer un "club de réutilisation" qui regroupera tous les ____ à __h__ des membres volontaires de la DSI et des agents 
 de différents services. 
 
-L'objectif de ce club sera d'identifier vos besoins métiers et 
-de voir avec les membres de la DSI, en quoi les données peuvent 
-répondre à vos besoins. Ces besoins métiers peuvent être de toutes sortes
-: mieux connaitre les béneficiaires d'un dispositif que vous opérez, 
-disposer d'une cartographie précise des entreprises présentes sur le
-territoire, obtenir une information précise, etc. 
+L'objectif de ce club sera d'identifier vos besoins métiers et de voir avec les membres de la DSI, en quoi les données peuvent répondre à vos besoins. Ces besoins métiers peuvent être de toutes sortes
+: mieux connaitre les béneficiaires d'un dispositif que vous opérez, disposer d'une cartographie précise des entreprises présentes sur le territoire, obtenir une information précise, etc. 
 
-Par ce message, nous vous convions au lancement de ce club de réutilisation,
-ouvert à tous, qui aura lieu le JJ/MM/AAAA à __h__. 
+Par ce message, nous vous convions au lancement de ce club de réutilisation, ouvert à tous, qui aura lieu le JJ/MM/AAAA à __h__. 
 
-Si vous n'êtes pas disponibles et que vous avez un besoin métier que 
-les données publiées peuvent résoudre, vous pouvez également me contacter
-par retour de mail. Je transmettrai au club votre demande. 
+Si vous n'êtes pas disponibles et que vous avez un besoin métier que les données publiées peuvent résoudre, vous pouvez également me contacter par retour de mail. Je transmettrai au club votre demande. 
 ```
 
 
