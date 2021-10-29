@@ -10,3 +10,5 @@ Vous allez certainement devoir nettoyer les jeux de données récupérés, c’e
 
 ## Enlever les lignes ou les colonnes vides&#x20;
 
+## **Corriger les fautes de frappe**
+
