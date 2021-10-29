@@ -4,12 +4,12 @@ description: >-
   open data à destination des agents des collectivités territoriales.
 ---
 
-# OpenData Cheatsheet
+# Gestion de projet - OpenData Cheatsheet
 
 
 
 {% hint style="info" %}
-**Qu'est-ce qu'une cheatsheet ?**  
+**Qu'est-ce qu'une cheatsheet ?** &#x20;
 
 [Selon Wikipédia](https://fr.wikipedia.org/wiki/Antis%C3%A8che), il s'agit d'un terme inspiré de l'informatique et qui se définit comme un "_document rédigé à l'avance, présentant, de la façon la plus concise possible, les grandes lignes d'un logiciel ou d'un langage informatique, comme les raccourcis, termes ou données spécifiques à celui-ci._"
 
@@ -17,18 +17,18 @@ description: >-
 
 Dans ce cadre, l'OpenData Cheatsheet se définit comme un **"**_**document présentant de la façon la plus concise possible, les grandes lignes d'un projet open data, avec des raccourcis comme des templates de mails ou des conducteurs de réunions pour animer une démarche d'ouverture des données".**_
 
-Elle a été produite suite au [Challenge Data \#3](https://medium.com/datactivist/5-jours-pour-initier-la-d%C3%A9marche-open-data-de-19-collectivit%C3%A9s-1b635a0b1645), et grâce à l'analyse des [carnets de bord ](https://datactivist.coop/challengedata3/)des étudiants de SciencesPo Saint-Germain-en-Laye. Faisant le récit d'un travail intensif d'ouverture des données, des difficultés qu'ils ont rencontrées, et des solutions mises en place pour les résoudre, ces carnets ont en effet permis d'identifier des pratiques simples et rapides à mettre en place pour ouvrir les données des collectivités. 
+Elle a été produite suite au [Challenge Data #3](https://medium.com/datactivist/5-jours-pour-initier-la-d%C3%A9marche-open-data-de-19-collectivit%C3%A9s-1b635a0b1645), et grâce à l'analyse des [carnets de bord ](https://datactivist.coop/challengedata3/)des étudiants de SciencesPo Saint-Germain-en-Laye. Faisant le récit d'un travail intensif d'ouverture des données, des difficultés qu'ils ont rencontrées, et des solutions mises en place pour les résoudre, ces carnets ont en effet permis d'identifier des pratiques simples et rapides à mettre en place pour ouvrir les données des collectivités.&#x20;
 {% endhint %}
 
 ## Lancer un projet open data en expliquant ce qu'il est et son utilité
 
 Lancer un projet open data, c'est en premier lieu expliquer à tous les les agents de la collectivité ce qu'il est et son utilité.
 
-Dans la mesure du possible, le référent open data peut envoyer un email concis qui définit ce qu'est une donnée, une donnée ouverte, un projet open data avec en pièce-jointe, des exemples concrets pour chacun de ces termes.  
+Dans la mesure du possible, le référent open data peut envoyer un email concis qui définit ce qu'est une donnée, une donnée ouverte, un projet open data avec en pièce-jointe, des exemples concrets pour chacun de ces termes. &#x20;
 
-#### Template de mail 
+#### Template de mail&#x20;
 
-N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votre logiciel de messagerie. 
+N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votre logiciel de messagerie.&#x20;
 
 ```
 Madame, monsieur, 
@@ -50,22 +50,24 @@ En attendant, nous nous tenons à votre disposition si vous avez des questions s
 #### Liens ou pièces-jointes à joindre/attacher
 
 * Exemple d'une meilleure connaissance du territoire et sa population grâce à l'open data : [l'application Qui sommes-nous ? de Rennes métropole.](https://www.opendatafrance.net/reuse/qui-sommes-nous-habitants-de-rennes-metropole/)
-* Exemple de données \(température, humidité et coordonnées géographiques\) : [ici](https://docs.google.com/presentation/d/144bc_RZ4buCe7LkHRHjvM613CnXv8ySnep0DndeJbeA/edit#slide=id.g40bb9a8dd5_0_421)
-* Les 8 principes qui font d'une donnée, une donnée ouverte : [ici](https://arthursrz.github.io/DEAS_Slides/#39)
+* Exemple de données (température, humidité et coordonnées géographiques) : [ici](https://docs.google.com/presentation/d/144bc\_RZ4buCe7LkHRHjvM613CnXv8ySnep0DndeJbeA/edit#slide=id.g40bb9a8dd5\_0\_421)
+* Les 8 principes qui font d'une donnée, une donnée ouverte : [ici](https://arthursrz.github.io/DEAS\_Slides/#39)
 
-{% file src=".gitbook/assets/illustration\_projet\_open\_data.pdf" caption="Illustration d\'un projet open data" %}
+{% file src=".gitbook/assets/Illustration_projet_open_data.pdf" %}
+Illustration d'un projet open data
+{% endfile %}
 
 ## Evaluer le niveau de maturité open data de la collectivité pour identifier les jeux de données qu'elle peut ouvrir
 
-Avant de se lancer, il s'agit de savoir où en est la collectivité, autrement dit de connaitre son niveau de maturité. Pour cela, le référent open data de la collectivité peut organiser un temps de travail \(45 minutes\) avec 1 agent rattaché à la DSI et/ou 1 agent rattaché à la Direction Générale des Services. 
+Avant de se lancer, il s'agit de savoir où en est la collectivité, autrement dit de connaitre son niveau de maturité. Pour cela, le référent open data de la collectivité peut organiser un temps de travail (45 minutes) avec 1 agent rattaché à la DSI et/ou 1 agent rattaché à la Direction Générale des Services.&#x20;
 
-Le but de ce temps de travail est de réaliser le [processus d'évaluation de la maturité open data d'une collectivité proposé par l'Open Data Canvas](https://opendatacanvas.org/evaluer-maturite-open-data). 
+Le but de ce temps de travail est de réaliser le [processus d'évaluation de la maturité open data d'une collectivité proposé par l'Open Data Canvas](https://opendatacanvas.org/evaluer-maturite-open-data).&#x20;
 
-#### Template de mail 
+#### Template de mail&#x20;
 
-N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votre logiciel de messagerie. 
+N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votre logiciel de messagerie.&#x20;
 
-```text
+```
 Madame, monsieur, 
 
 Dans le cadre du lancement de notre projet d'ouverture des données, nous allons évaluer la maturité open data de notre collectivité. 
@@ -89,18 +91,18 @@ Lien vers le catalogue de données classées selon le niveau de maturité néces
 
 ## Localiser les données disponibles au sein de la collectivité pour réaliser un organigramme de la donnée
 
-Le niveau de maturité ayant été défini, la collectivité dispose désormais du catalogue des données qu'elle peut ouvrir. Il est alors question de localiser ces données au sein de la collectivité. Pour cela, le référent open data peut, pour chaque jeu de donnée du catalogue, contacter un agent susceptible de détenir le jeu de donnée en question et lui demander : 
+Le niveau de maturité ayant été défini, la collectivité dispose désormais du catalogue des données qu'elle peut ouvrir. Il est alors question de localiser ces données au sein de la collectivité. Pour cela, le référent open data peut, pour chaque jeu de donnée du catalogue, contacter un agent susceptible de détenir le jeu de donnée en question et lui demander :&#x20;
 
-* s'il détient le jeu de donnée en question \(et si oui, de lui transmettre\)
-* le contact d'un autre service/agent/prestataire impliqué dans sa production 
+* s'il détient le jeu de donnée en question (et si oui, de lui transmettre)
+* le contact d'un autre service/agent/prestataire impliqué dans sa production&#x20;
 
 En réitérant la même procédure avec le nouveau contact, le référent peut alors identifier toutes les parties impliquées, retracer la chaine de production et [établir un organigramme de la donnée.](https://opendatacanvas.org/completer-organigramme-donnees) Il peut également inviter toutes les personnes identifiées pour des sessions de travail courtes qui permettront d'accélérer la suite du projet.
 
-#### Template de mail 
+#### Template de mail&#x20;
 
-N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votre logiciel de messagerie. 
+N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votre logiciel de messagerie.&#x20;
 
-```text
+```
 Madame, monsieur, 
 La collectivité souhaite mettre à disposition les données relatives à _____. En tant que référent open data, j'ai pour mission de localiser et de récupérer ces données. 
 
@@ -111,19 +113,19 @@ Grâce à votre réponse, je pourrai actualiser l'organigramme de la donnée (vo
 
 #### Liens ou pièces-jointes à joindre/attacher
 
-Lien vers l'outil de construction de l'organigramme de la donnée, sous forme de carte mentale : [ici](https://www.mindmup.com/). 
+Lien vers l'outil de construction de l'organigramme de la donnée, sous forme de carte mentale : [ici](https://www.mindmup.com).&#x20;
 
 ## Documenter et mettre en qualité les données récupérées pour les rendre utilisables par tous
 
-Avec l'organigramme, le référent open data est en capacité de réunir autour de la table toutes les parties impliquées dans la production des données du catalogue. De ce fait, il peut alors organiser des \(courtes\) sessions de travail visant à documenter et mettre en qualité les données récupérées. 
+Avec l'organigramme, le référent open data est en capacité de réunir autour de la table toutes les parties impliquées dans la production des données du catalogue. De ce fait, il peut alors organiser des (courtes) sessions de travail visant à documenter et mettre en qualité les données récupérées.&#x20;
 
 Le but de ces sessions de travail est de suivre [le processus de mise en qualité des données de l'Open Data Canvas](https://opendatacanvas.org/jour-3-qualification), à partir des fichiers excel récupérés dans l'étape précédente.
 
-#### Template de mail 
+#### Template de mail&#x20;
 
-N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votre logiciel de messagerie. 
+N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votre logiciel de messagerie.&#x20;
 
-```text
+```
 Madame, monsieur,
 
 Dans le cadre du projet d'ouverture des données de la collectivité, nous avons pu localiser ensemble __ jeux de données à ouvrir prochainement. Grâce à vous, nous avons à disposition autant de fichiers excel 
@@ -145,7 +147,7 @@ Ce cycle suivra le processus proposé par l'Open Data Canvas (lien ci-dessous) q
 
 #### Liens ou pièces-jointes à joindre/attacher
 
-Lien vers le processus de mise en qualité : [ici](https://opendatacanvas.org/jour-3-qualification). 
+Lien vers le processus de mise en qualité : [ici](https://opendatacanvas.org/jour-3-qualification).&#x20;
 
 Lien vers le Socle Commun des Données Locales : [ici](https://scdl.opendatafrance.net/docs/)
 
@@ -155,13 +157,13 @@ Les données étant prêtes, il est temps de les publier sur une plateforme open
 
 Si cette publication et communication est à l'initiative du référent, il est idéal d'impliquer toutes les personnes ayant participé au projet.
 
-Pour cela, le référent peut avertir ces personnes qu'elles seront mentionnées dans les communications comme "ressources à contacter". Aussi peut-il les préparer aux sollicitations futures émanant de citoyens ou d'organisations souhaitant réutiliser les données. 
+Pour cela, le référent peut avertir ces personnes qu'elles seront mentionnées dans les communications comme "ressources à contacter". Aussi peut-il les préparer aux sollicitations futures émanant de citoyens ou d'organisations souhaitant réutiliser les données.&#x20;
 
-#### Template de mail 
+#### Template de mail&#x20;
 
-N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votre logiciel de messagerie. 
+N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votre logiciel de messagerie.&#x20;
 
-```text
+```
 Madame, monsieur, 
 
 Les données sont prêtes et nous allons les publier sur la plateforme nationale data.gouv.fr. Nous avons prévu de communiquer (voir le plan ci-dessous) autour des données nouvellement disponibles et mettre en avant le travail que vous avez effectué au cours des derniers mois. 
@@ -182,15 +184,15 @@ Lien vers le template de plan de communication à transmettre aux agents : [ici]
 
 ## Créer un club de réutilisation des données intégrant des profils métiers et techniques pour valoriser au mieux les données ouvertes
 
-Si les données ouvertes sont disponibles pour tous, les principales opportunités de réutilisations vont néanmoins se présenter au sein de la collectivité. 
+Si les données ouvertes sont disponibles pour tous, les principales opportunités de réutilisations vont néanmoins se présenter au sein de la collectivité.&#x20;
 
-Pour les réaliser, le référent peut lancer un "club de réutilisation"  en interne qui doit mêler des profils métiers, capables d'exprimer un besoin \(_ex : je veux savoir où se trouve les bénéficiaires des aides économiques que j'opère_\), à des profils techniques, capables de se saisir des données pour répondre au besoin \(_ex : je crée une cartographie à partir des données ouvertes relatives au dispositif économique_\). 
+Pour les réaliser, le référent peut lancer un "club de réutilisation"  en interne qui doit mêler des profils métiers, capables d'exprimer un besoin (_ex : je veux savoir où se trouve les bénéficiaires des aides économiques que j'opère_), à des profils techniques, capables de se saisir des données pour répondre au besoin (_ex : je crée une cartographie à partir des données ouvertes relatives au dispositif économique_).&#x20;
 
-#### Template de mail 
+#### Template de mail&#x20;
 
-N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votre logiciel de messagerie. 
+N.B. Cliquez sur l'encart en haut à droite pour copier-coller le texte sur votre logiciel de messagerie.&#x20;
 
-```text
+```
 Madame, monsieur, 
 
 Suite au projet d'ouverture des données, nous avons publié récemment de nouvelles données sur le portail national (lien vers 
@@ -206,6 +208,3 @@ Par ce message, nous vous convions au lancement de ce club de réutilisation, ou
 
 Si vous n'êtes pas disponibles et que vous avez un besoin métier que les données publiées peuvent résoudre, vous pouvez également me contacter par retour de mail. Je transmettrai au club votre demande. 
 ```
-
-
-
