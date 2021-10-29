@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Gestion de projet - OpenData Cheatsheet](README.md)
-* [Mise en qualité - OpenData Cheasheet](mise-en-qualite-opendata-cheasheet/README.md)
-  * [Page 1](mise-en-qualite-opendata-cheasheet/page-1.md)
+* [Gestion de projet - OpenData Cheatcode](README.md)
+* [Mise en qualité - OpenData Cheatcode](mise-en-qualite-opendata-cheatcode/README.md)
+  * [🧹 Nettoyer les données](mise-en-qualite-opendata-cheatcode/nettoyer-les-donnees.md)
