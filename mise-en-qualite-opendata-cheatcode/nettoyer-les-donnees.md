@@ -12,22 +12,19 @@ Vous allez certainement devoir nettoyer les jeux de données récupérés, c’e
 
 #### Tutoriel vidéo
 
-{% embed url="https://youtu.be/CFkx4wGkqsQ" %}
-
-####
-
-#### Exemple de manipulation
+#### Exemple de manipulation&#x20;
 
 {% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vTK2_NuHDLJ44inhdLqGlXVebyDxwSyW_SDL7LcqOV9BCDZ17-grH89fJbGRTGyLRayOVNgitCByEXU/pubhtml" %}
 [Lien](https://docs.google.com/spreadsheets/d/1OloL0O18y5PgJZHfC0S-KqoNnZXc28QVR3UH9ibHmSE/edit#gid=0)
 {% endembed %}
 
-***
+****
 
 ## **Corriger les fautes de frappe**
 
 Fonction : chercher remplacer
 
-#### Tutoriel vidéo
+#### Tutoriel vidéo&#x20;
 
-#### Exemple de manipulation
+#### Exemple de manipulation&#x20;
+
