@@ -1,8 +1,8 @@
 ---
 description: >-
   Avant de mettre en qualité les données, il s'agit d'uploader des fichiers .csv
-  dans un onglet google sheet. Dans ce cheatcode, vous trouverez des
-  instructions pour vous assurer que le google sheet tra
+  dans un onglet google sheet. Ce cheatcode vous explique comment effectuer
+  cette opération sans encombre.
 ---
 
 # 🔝 Uploader un fichier .csv dans un Google Sheet
