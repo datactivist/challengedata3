@@ -10,13 +10,13 @@ Vous allez certainement devoir nettoyer les jeux de données récupérés, c’e
 
 ## Enlever les lignes ou les colonnes vides
 
-#### Tutoriel vidéo
+#### 🎥 Tutoriel vidéo
 
 {% embed url="https://youtu.be/CFkx4wGkqsQ" %}
 
 ####
 
-#### Exemple de manipulation
+#### :thumbsup: Exemple de manipulation
 
 {% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vTK2_NuHDLJ44inhdLqGlXVebyDxwSyW_SDL7LcqOV9BCDZ17-grH89fJbGRTGyLRayOVNgitCByEXU/pubhtml" %}
 [Lien](https://docs.google.com/spreadsheets/d/1OloL0O18y5PgJZHfC0S-KqoNnZXc28QVR3UH9ibHmSE/edit#gid=0) vers l'exemple de la manipulation
@@ -24,10 +24,34 @@ Vous allez certainement devoir nettoyer les jeux de données récupérés, c’e
 
 ***
 
-## **Corriger les fautes de frappe**
+## Corriger les fautes d'orthographe&#x20;
 
-Fonction : chercher remplacer
+Dans un document _googlesheet_, on peut corriger les fautes d'orthographe avec un outil qui suggère des corrections pour un texte contenu dans une cellule. Cette outil est accessible de la manière suivante :&#x20;
 
-#### Tutoriel vidéo
+* barre d'outils > Outils > Orthographe > Correcteur orthographique&#x20;
 
-#### Exemple de manipulation
+Pour une plage donnée, l'outil propose des modifications qui peuvent être acceptées ou ignorées.
+
+#### 🎥 Tutoriel vidéo&#x20;
+
+## Modifier le contenu des cellules&#x20;
+
+Pour corriger toute faute de frappe et/ou remplacer efficacement du texte dans googlesheet il existe une fonction qui permet de rechercher du texte et le remplacer. Cette fonction "**Rechercher et remplacer**" est accessible de la manière suivante :&#x20;
+
+* barre d'outils > Edition > Rechercher et remplacer
+* ou via_ Ctrl+H _
+
+Cette fonction peut être utile pour **rechercher**, **modifier** ou **supprimer** un mot ou un charactère récurrent.&#x20;
+
+#### 🎥 Tutoriel vidéo&#x20;
+
+
+
+#### :thumbsup: Exemple de manipulation&#x20;
+
+Quelques manipulations possibles à partir de la fonction "Rechercher et remplacer" :&#x20;
+
+* **retirer les accents** : rechercher "_é_" puis remplacer par "_e_"
+* **remplacer un mot récurrent** : pour une valeur "_St-Herblain_", rechercher "_St_" puis remplacer par "_Saint_"
+* **remplacer un charactère récurrent** : pour une valeur "_19-novembre_", rechercher "_-_" puis remplacer par " " pour obtenir "_19 novembre_"
+* **supprimer un préfixe récurrent **: pour une colonne informant de la hauteur ("_H2_", "_H3_", "_H4_"), rechercher "_H_" puis remplacer par "" (rien) pour obtenir "_2_", "_3_", "_4_"
