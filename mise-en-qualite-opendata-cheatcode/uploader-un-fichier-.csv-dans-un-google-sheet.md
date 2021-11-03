@@ -9,7 +9,9 @@ description: >-
 
 #### Tutoriel vidéo
 
-
+{% embed url="https://youtu.be/jNcCJwsovuA" %}
+Tutoriel vidéo pour apprendre à paramétrer google sheet de manière à ce qu'il traduise fidèlement un fichier .csv en tableur
+{% endembed %}
 
 
 
