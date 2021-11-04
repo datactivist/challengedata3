@@ -34,6 +34,8 @@ Pour une plage donnée, l'outil propose des modifications qui peuvent être acce
 
 #### 🎥 Tutoriel vidéo
 
+{% embed url="https://youtu.be/rob7U_tLCHI" %}
+
 ## Modifier le contenu des cellules
 
 Pour corriger toute faute de frappe et/ou remplacer efficacement du texte dans googlesheet il existe une fonction qui permet de rechercher du texte et le remplacer. Cette fonction "**Rechercher et remplacer**" est accessible de la manière suivante :
