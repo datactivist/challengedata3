@@ -33,4 +33,6 @@ _Par souci de simplicité les données initiales et les données à ajouter se t
 
 Nous venons de voir comment ajouter des données indépendamment du lien entre 2 jeux. Voyons maintenant comment ajouter des données qui \*\*correspondent aux données initiales \*\*grâce aux **jointures**. Cela nécessite une colonne commune qui servira de pivot entre les 2 bases de données. De cette manière, les données seront ajoutées seulement sur les observations **communes** aux 2 jeux, ce qui peut être très utile pour ajouter des informations manquantes à vos données initiales.
 
-<mark style="background-color:red;">à finir !!!</mark>
+#### 🎥 Tutoriel vidéo
+
+{% embed url="https://youtu.be/R-CSFingsno" %}
