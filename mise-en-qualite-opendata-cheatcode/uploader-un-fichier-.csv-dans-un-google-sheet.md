@@ -7,7 +7,7 @@ description: >-
 
 # 🔝 Uploader un fichier .csv dans un Google Sheet
 
-Un **fichier CSV** ("_Comma-separated values"_) est une base de données où les valeurs sont séparées par des virgules. Lorsque le séparateur est bien spécifié l'import sous _Google_ _Sheets_ se fait sans problème. Cependant, il arrive qu'un fichier ait l'extension "_.csv_" mais que son séparateur ne soit pas la virgule. Pour importer de telles données, il convient alors de personnaliser le type de séparateur qui peut alors prendre les valeurs suivantes :
+Un **fichier CSV** ("_Comma-separated values"_) est une base de données où les valeurs sont séparées par des virgules. Lorsque le séparateur est bien spécifié l'import sous _Google_ S_heets_ se fait sans problème. Cependant, il arrive qu'un fichier ait l'extension "_.csv_" mais que son séparateur ne soit pas la virgule. Pour importer de telles données, il convient alors de personnaliser le type de séparateur qui peut alors prendre les valeurs suivantes :&#x20;
 
 * point virgule
 * espace
@@ -15,7 +15,7 @@ Un **fichier CSV** ("_Comma-separated values"_) est une base de données où les
 * barre horizontale
 * ...
 
-La plupart du temps c'est le **point virgule **qui sépare les valeurs, car c'est la paramétrage par défaut sur nos ordinateurs européens (la séparation **virgule** par défaut correspond quant à elle aux paramètres américains).
+La plupart du temps c'est le **point virgule **qui sépare les valeurs, car c'est la paramétrage par défaut sur nos ordinateurs européens (la séparation **virgule** par défaut correspond quant à elle aux paramètres américains).&#x20;
 
 #### Tutoriel vidéo
 
