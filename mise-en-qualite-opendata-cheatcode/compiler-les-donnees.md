@@ -2,7 +2,7 @@
 
 ## Ajouter des données
 
-Lorsqu'un jeu de données est incomplet il est possible sous _Google Sheets_ d'**ajouter des données**, que ce soit des lignes ou des colonnes grâce à la fonction **IMPORTRANGE()**. Cette fonction permet d'ajouter des données \*\*sans condition particulière \*\*; les cellules spécifiées pour être ajoutées sont collées même s'il n'y a pas de correspondance particulière avec les données initiales auxquelles elles sont ajoutées (colonnes différentes, nombre d'observations différent...).
+Lorsqu'un jeu de données est incomplet il est possible sous _Google Sheets_ d'**ajouter des données**, que ce soit des lignes ou des colonnes grâce à la fonction **IMPORTRANGE()**. Cette fonction permet d'ajouter des **données sans condition particulière** ; les cellules spécifiées pour être ajoutées sont collées même s'il n'y a pas de correspondance particulière avec les données initiales auxquelles elles sont ajoutées (colonnes différentes, nombre d'observations différent...).
 
 Les étapes pour effectuer un ajout de données sont les suivantes :
 
@@ -19,7 +19,7 @@ Les cellules à coller dans le tableur initial sont spécifiées après le nom d
 
 Cette jointure peut se faire pour ajouter de nouvelles colonnes, ou pour ajouter des observations (lignes) en plus.&#x20;
 
-⚠ Attention : la fonction **IMPORTRANGE()** colle les données même si elles ne correspondent en rien aux données initiales (colonnes différentes si on ajoute des lignes, observations différentes si on ajoute des colonnes), il faut donc être vigilent sur les ajouts via cette fonction.
+⚠ Attention : la fonction **IMPORTRANGE()** colle les données même si elles ne correspondent en rien aux données initiales. Cette fonction ajoutera de nouvelles colonnes ou de nouvelles lignes automatiquement, sans chercher de correspondances avec le fichier d'origine. Il faut donc être vigilant sur les ajouts via cette fonction.&#x20;
 
 #### 🎥 Tutoriel vidéo
 
