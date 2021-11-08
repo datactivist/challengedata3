@@ -6,7 +6,7 @@ Lorsqu'un jeu de données est incomplet il est possible sous _Google Sheets_ d'*
 
 Les étapes pour effectuer un ajout de données sont les suivantes :
 
-* avoir dans le drive 2 tableurs _Google Sheets_ : l'un avec les **données initiales** et l'autre avec les\*\* données à ajouter\*\*
+* avoir dans le drive 2 tableurs _Google Sheets _ou deux feuilles/onglets dans un même fichier : l'un avec les **données initiales** et l'autre avec les **données à ajouter**
 * dans le tableur des données initiales cliquer sur la cellule où les données doivent être ajoutées, puis entrer la formule suivante :
 
 ```
@@ -17,7 +17,7 @@ Les cellules à coller dans le tableur initial sont spécifiées après le nom d
 
 * lors de la première jointure la cellule affiche une erreur : **#REF**. Il vous faudra alors **donner la permission** de lier les deux tableurs
 
-Cette jointure peut se faire pour ajouter de nouvelles colonnes, ou pour ajouter des observations (lignes) en plus. Les données initiales et celles à joindre peuvent être soit dans 2 tableurs différents, soit dans le même tableur chacune sur une feuille (_sheet_) différente.
+Cette jointure peut se faire pour ajouter de nouvelles colonnes, ou pour ajouter des observations (lignes) en plus.&#x20;
 
 ⚠ Attention : la fonction **IMPORTRANGE()** colle les données même si elles ne correspondent en rien aux données initiales (colonnes différentes si on ajoute des lignes, observations différentes si on ajoute des colonnes), il faut donc être vigilent sur les ajouts via cette fonction.
 
