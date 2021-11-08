@@ -1,4 +1,4 @@
-# ⭐ Standardiser les données
+# 🎭 Standardiser les données
 
 ## Réordonner les données
 
@@ -9,7 +9,7 @@ Pour correspondre parfaitement aux schémas de données, il faudra parfois **cha
 
 Il est possible de déplacer une seule colonne ou plusieurs à la fois. La procédure est exactement la même pour déplacer une ou plusieurs **lignes**.
 
-En plus de ces manipulations, il est possible sous \_Google Sheets \_de\*\* trier les observations\*\* (lignes) par ordre croissant / décroissant s'il s'agit d'un nombre, et par ordre alphabétique (de A à Z, ou de Z à A) s'il s'agit d'un texte. Cette fonctionnalité est accessible de la manière suivante :
+En plus de ces manipulations, il est possible sous _Google Sheets_ de _trier les observations_ (lignes) par ordre croissant / décroissant s'il s'agit d'un nombre, et par ordre alphabétique (de A à Z, ou de Z à A) s'il s'agit d'un texte. Cette fonctionnalité est accessible de la manière suivante :
 
 * sélectionner toutes les colonnes du jeu de données
 * barre d'outils > Edition > Données > Créer un filtre
@@ -44,10 +44,10 @@ Les principaux types de données sont les suivants (en anglais) :
 * **integer** (_nombre entier_) : 5
 * **boolean** (_mot_) : VRAI ou FAUX
 * **character** (_texte_) : "archive publique"
-* \*\*date \*\*: 05/11/2021
+* **date** : 05/11/2021
 
 Pour changer le type d'une colonne, après l'avoir sélectionnée :
 
 * barre d'outils > Format > Nombre > _choisir le bon typage_
 
-⚠ Attention : pour les nombres décimaux le séparateur décimal attendu est la **virgule** et non le **point**. Il convient donc de changer le séparateur si ce n'est pas la virgule ; utiliser la fonction _rechercher-remplacer_\*\* **par exemple, en cherchant "**.**" dans la colonne pour le remplacer par "**,\*\*".
+⚠ Attention : pour les nombres décimaux le séparateur décimal attendu est la **virgule** et non le **point**. Il convient donc de changer le séparateur si ce n'est pas la virgule ; utiliser la fonction _rechercher-remplacer_ par exemple, en cherchant "**.**" dans la colonne pour le remplacer par "**,**".

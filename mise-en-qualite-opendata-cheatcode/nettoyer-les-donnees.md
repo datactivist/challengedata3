@@ -6,7 +6,7 @@ description: >-
 
 # 🧹 Nettoyer les données !
 
-Vous allez certainement devoir nettoyer les jeux de données récupérés, c’est à dire créer des jeux de données sans cellules vides et sans fautes de frappe dans les valeurs saisies. Cette page vous explique comment _Google Sheets _peut vous aider à y parvenir.
+Vous allez certainement devoir nettoyer les jeux de données récupérés, c’est à dire créer des jeux de données sans cellules vides et sans fautes de frappe dans les valeurs saisies. Cette page vous explique comment _Google Sheets_ peut vous aider à y parvenir.
 
 ## Enlever les lignes ou les colonnes vides
 
