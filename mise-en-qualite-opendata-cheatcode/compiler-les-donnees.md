@@ -6,7 +6,7 @@ Lorsqu'un jeu de données est incomplet il est possible sous _Google Sheets_ d'*
 
 Les étapes pour effectuer un ajout de données sont les suivantes :
 
-* avoir dans le drive 2 tableurs _Google Sheets _ou deux feuilles/onglets dans un même fichier : l'un avec les **données initiales** et l'autre avec les **données à ajouter**
+* avoir dans le drive 2 tableurs _Google Sheets_ ou deux feuilles/onglets dans un même fichier : l'un avec les **données initiales** et l'autre avec les **données à ajouter**
 * dans le tableur des données initiales cliquer sur la cellule où les données doivent être ajoutées, puis entrer la formule suivante :
 
 ```
@@ -15,11 +15,13 @@ Les étapes pour effectuer un ajout de données sont les suivantes :
 
 Les cellules à coller dans le tableur initial sont spécifiées après le nom de la feuille dans laquelle elles se trouvent : "_A1:D21_". Dans cet exemple, on colle les lignes 1 à 21 des colonnes A, B, C et D des données à ajouter, dans les données initiales.
 
-* lors de la première jointure la cellule affiche une erreur : **#REF**. Il vous faudra alors **donner la permission** de lier les deux tableurs
+* lors de la première jointure la cellule affiche une erreur : **#REF!**. Il vous faudra alors **donner la permission** de lier les deux tableurs en passant la souris sur le message d'erreur, puis en cliquant sur "_Autoriser l'accès_" :&#x20;
 
-Cette jointure peut se faire pour ajouter de nouvelles colonnes, ou pour ajouter des observations (lignes) en plus.&#x20;
+![](../.gitbook/assets/auto\_acces.png)
 
-⚠ Attention : la fonction **IMPORTRANGE()** colle les données même si elles ne correspondent en rien aux données initiales. Cette fonction ajoutera de nouvelles colonnes ou de nouvelles lignes automatiquement, sans chercher de correspondances avec le fichier d'origine. Il faut donc être vigilant sur les ajouts via cette fonction.&#x20;
+Cette jointure peut se faire pour ajouter de nouvelles colonnes, ou pour ajouter des observations (lignes) en plus.
+
+⚠ Attention : la fonction **IMPORTRANGE()** colle les données même si elles ne correspondent en rien aux données initiales. Cette fonction ajoutera de nouvelles colonnes ou de nouvelles lignes automatiquement, sans chercher de correspondances avec le fichier d'origine. Il faut donc être vigilant sur les ajouts via cette fonction.
 
 #### 🎥 Tutoriel vidéo
 
@@ -31,7 +33,7 @@ _Par souci de simplicité les données initiales et les données à ajouter se t
 
 ## Joindre / merger des données
 
-Nous venons de voir comment ajouter des données indépendamment du lien entre 2 jeux. Voyons maintenant comment ajouter des données qui \*\*correspondent aux données initiales \*\*grâce aux **jointures**. Cela nécessite une colonne commune qui servira de pivot entre les 2 bases de données. De cette manière, les données seront ajoutées seulement sur les observations **communes** aux 2 jeux, ce qui peut être très utile pour ajouter des informations manquantes à vos données initiales.
+Nous venons de voir comment ajouter des données indépendamment du lien entre 2 jeux. Voyons maintenant comment ajouter des données qui **correspondent aux données initiales** grâce aux **jointures**. Cela nécessite une colonne commune qui servira de pivot entre les 2 bases de données. De cette manière, les données seront ajoutées seulement sur les observations **communes** aux 2 jeux, ce qui peut être très utile pour ajouter des informations manquantes à vos données initiales.
 
 #### 🎥 Tutoriel vidéo
 
