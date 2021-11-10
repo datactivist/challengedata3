@@ -8,6 +8,14 @@ description: >-
 
 Vous allez certainement devoir nettoyer les jeux de données récupérés, c’est à dire créer des jeux de données sans cellules vides et sans fautes de frappe dans les valeurs saisies. Cette page vous explique comment _Google Sheets_ peut vous aider à y parvenir.
 
+## Identifier les fautes de frappe
+
+Avant de commencer le nettoyage des données, il est utile de localiser les fautes de frappe dans celles-ci. L'identification des occurrences divergentes est alors utile à mains égards.&#x20;
+
+#### 🎥 Tutoriel vidéo
+
+{% embed url="https://youtu.be/a19th_TIsPs" %}
+
 ## Corriger les fautes d'orthographe
 
 Dans un document _Google Sheets_, on peut corriger les fautes d'orthographe avec un outil qui suggère des corrections pour un texte contenu dans une cellule. Cet outil est accessible de la manière suivante :
