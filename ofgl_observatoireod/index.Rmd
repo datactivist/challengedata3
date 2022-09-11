@@ -40,9 +40,9 @@ no_od <- obs_od2 %>%
 names(no_od)
 ```
 
-
+Export csv des communes sans open data
 ```{r}
-`
+write.csv(no_od, "no_od.csv")
 
 ```
 
