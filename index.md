@@ -1,5 +1,5 @@
 # CHALLENGE DATA 3
-# Liste des carnets de bord du Challenge Data 3\(par ordre alphabétique\)
+# Liste des carnets de bord du Challenge Data 3 \(par ordre alphabétique\)
 
 ## Armentières \(Commune\)
 
